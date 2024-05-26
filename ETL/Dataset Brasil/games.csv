@@ -1,0 +1,53 @@
+game_id,home_club_position,away_club_position,result,matchday,date,stadium,attendance,referee,home_manager,away_manager,home_club_id,away_club_id
+4316187,5,18,"(2, 1)",1,2024-04-13,Estádio Beira-Rio,22045,Rodrigo Jose Pereira de Lima,Eduardo Coudet,Rogério Ceni,6600,10010
+4316310,3,16,"(2, 0)",6,2024-05-11,Estádio Jornalista Mário Filho,56829,Ramon Abatti,Tite,Toni Oliveira,614,199
+4316295,20,6,"(0, 2)",5,2024-05-05,Arena Pantanal,10781,Bruno Arleu de Araújo,Ricardo Colbachini,Abel Ferreira,28022,1023
+4316291,3,2,"(1, 2)",5,2024-05-05,Estádio Olímpico Nilton Santos,22685,Rafael Rodrigo Klein,Artur Jorge,Rogério Ceni,537,10010
+4316294,1,17,"(1, 0)",5,2024-05-05,Ligga Arena,31192,Anderson Daronco,Cuca,Rafael Paiva,679,978
+4316289,18,8,"(1, 3)",5,2024-05-05,Estádio Manoel Barradas,25739,Ramon Abatti,Léo Condé,Luis Zubeldía,2125,585
+4316292,14,12,"(0, 0)",5,2024-05-05,Neo Química Arena,42678,Felipe Fernandes,Toni Oliveira,Juan Pablo Vojvoda,199,10870
+4316293,5,7,"(1, 1)",5,2024-05-04,Estádio Nabi Abi Chedid,9971,Paulo Cesar Zanovelli,Pedro Caixinha,Tite,8793,614
+4316290,16,4,"(2, 2)",5,2024-05-04,Estádio Estadual Kléber José de Andrade,14202,Raphael Claus,Fernando Diniz,Gabriel Milito,2462,330
+4316273,14,12,"(0, 0)",4,2024-04-30,MorumBIS,55694,Wilton Sampaio,Luis Zubeldía,Abel Ferreira,585,1023
+4316267,6,19,"(1, 1)",4,2024-04-29,Estádio Beira-Rio,23836,Edina Alves Batista,Eduardo Coudet,Jair Ventura,6600,15172
+4316276,13,4,"(1, 1)",4,2024-04-28,Estádio Alfredo Jaconi,5032,Alex Gomes Stefano,Roger Machado,Cuca,10492,679
+4316272,15,16,"(3, 0)",4,2024-04-28,Neo Química Arena,42119,Ramon Abatti,Toni Oliveira,Fernando Diniz,199,2462
+4316274,11,3,"(1, 1)",4,2024-04-28,Estádio Governador Plácido Castelo,18113,Davi de Oliveira Lacerda,Juan Pablo Vojvoda,Pedro Caixinha,10870,8793
+4316268,7,18,"(3, 1)",4,2024-04-28,Estádio Governador Magalhães Pinto,20083,Fábio Augusto Santos Sá Júnior,Fernando Seabra,Léo Condé,609,2125
+4316269,5,9,"(1, 0)",4,2024-04-28,Arena Fonte Nova,36066,Braulio da Silva Machado,Rogério Ceni,Renato Gaúcho,10010,210
+4316270,8,1,"(0, 2)",4,2024-04-28,Estádio Jornalista Mário Filho,53683,Raphael Claus,Tite,Artur Jorge,614,537
+4316271,17,10,"(0, 4)",4,2024-04-27,Estádio São Januário,17124,Caio Max Augusto Vieira,Ramón Díaz,Cláudio Tencati,978,7178
+4316275,20,2,"(0, 3)",4,2024-04-27,Arena Pantanal,6711,Savio Pereira Sampaio,Luiz Fernando Iubel,Gabriel Milito,28022,330
+4316235,19,14,"(0, 3)",3,2024-04-21,Estádio Antonio Accioly,9017,Braulio da Silva Machado,Jair Ventura,Milton Cruz,15172,585
+4316231,3,12,"(5, 1)",3,2024-04-21,Estádio Olímpico Nilton Santos,13273,Arthur Gomes Rabelo,Artur Jorge,Roger Machado,537,10492
+4316234,4,6,"(1, 0)",3,2024-04-21,Ligga Arena,29784,Felipe Fernandes,Cuca,Eduardo Coudet,679,6600
+4316232,11,2,"(0, 0)",3,2024-04-21,Allianz Parque,29956,Rodrigo Jose Pereira de Lima,Abel Ferreira,Tite,1023,614
+4316229,17,10,"(2, 2)",3,2024-04-21,Estádio Manoel Barradas,27609,Raphael Claus,Léo Condé,Rogério Ceni,2125,10010
+4316228,7,13,"(3, 0)",3,2024-04-21,Arena MRV,39541,Ramon Abatti,Gabriel Milito,Fernando Seabra,330,609
+4316233,1,18,"(1, 0)",3,2024-04-20,Estádio Nabi Abi Chedid,9613,Rafael Rodrigo Klein,Pedro Caixinha,Toni Oliveira,8793,199
+4316227,5,20,"(1, 0)",3,2024-04-20,Arena do Grêmio,22904,Bruno Pereira Vasconcelos,Renato Gaúcho,Luiz Fernando Iubel,210,28022
+4316230,9,15,"(2, 1)",3,2024-04-20,Estádio Jornalista Mário Filho,25842,Wilton Sampaio,Fernando Diniz,Ramón Díaz,2462,978
+4316311,13,18,"(2, 1)",6,2024-05-12,Estádio São Januário,11084,Raphael Claus,Rafael Paiva,Léo Condé,978,2125
+4316313,5,17,"(2, 1)",6,2024-05-14,MorumBIS,39515,Anderson Daronco,Luis Zubeldía,Fernando Diniz,585,2462
+4316314,11,4,"(1, 1)",6,2024-05-12,Estádio Governador Plácido Castelo,15914,Wilton Sampaio,Juan Pablo Vojvoda,Artur Jorge,10870,537
+4316315,19,6,"(0, 1)",6,2024-05-12,Estádio Antonio Accioly,7576,Rodrigo Jose Pereira de Lima,Jair Ventura,Fernando Seabra,15172,609
+4316309,2,8,"(1, 0)",6,2024-05-12,Arena Fonte Nova,36820,Gustavo Ervino Bauermann,Rogério Ceni,Pedro Caixinha,10010,8793
+4316312,9,1,"(0, 2)",6,2024-05-12,Arena Barueri,12108,Braulio da Silva Machado,Abel Ferreira,Cuca,1023,679
+4316261,9,19,"(1, 0)",2,2024-04-19,Estádio Olímpico Nilton Santos,8508,Luiz Flávio de Oliveira (SP),Artur Jorge,Jair Ventura,537,15172
+4316260,1,18,"(2, 1)",2,2024-04-18,Estádio Jornalista Mário Filho,48103,Anderson Daronco,Tite,Thiago Carpini,614,585
+4316266,3,16,"(2, 0)",2,2024-04-18,Estádio Alfredo Jaconi,7478,Bruno Arleu de Araújo,Roger Machado,Toni Oliveira,10492,199
+4316262,12,2,"(0, 1)",2,2024-04-18,Arena Barueri,13541,Lucas Paulo Torezin,Abel Ferreira,Eduardo Coudet,1023,6600
+4316264,6,4,"(1, 1)",2,2024-04-18,Estádio Governador Plácido Castelo,22131,Bruno Mota Correia,Juan Pablo Vojvoda,Fernando Seabra,10870,609
+4316258,14,13,"(1, 1)",2,2024-04-18,Arena MRV,24613,Paulo Belence Alves dos Prazeres Filho,Gabriel Milito,Cláudio Tencati,330,7178
+4316263,5,10,"(2, 1)",2,2024-04-17,Estádio Nabi Abi Chedid,5532,Paulo Cesar Zanovelli,Pedro Caixinha,Ramón Díaz,8793,978
+4316257,8,7,"(2, 0)",2,2024-04-17,Arena do Grêmio,13541,Marcelo de Lima Henrique  (RJ),Renato Gaúcho,Cuca,210,679
+4316189,19,7,"(0, 1)",1,2024-04-14,Estádio Manoel Barradas,30793,Braulio da Silva Machado,Léo Condé,Abel Ferreira,2125,1023
+4316259,11,15,"(2, 1)",2,2024-04-17,Arena Fonte Nova,23080,João Vitor Gobi,Rogério Ceni,Fernando Diniz,10010,2462
+4316188,2,14,"(3, 2)",1,2024-04-14,Estádio Governador Magalhães Pinto,20701,Matheus Delgado Candançan,Fernando Seabra,Artur Jorge,609,537
+4316195,16,4,"(1, 2)",1,2024-04-14,Estádio Serra Dourada,35195,André Luiz Skettino Policarpo Bento,Jair Ventura,Tite,15172,614
+4316194,1,20,"(4, 0)",1,2024-04-14,Ligga Arena,22169,Jonathan Benkenstein Pinheiro,Cuca,Luiz Fernando Iubel,679,28022
+4316192,13,12,"(0, 0)",1,2024-04-14,Neo Química Arena,44597,Yuri Elino Ferreira da Cruz,Toni Oliveira,Gabriel Milito,199,330
+4316191,6,17,"(2, 1)",1,2024-04-14,Estádio São Januário,18055,Flavio Rodrigues de Souza,Ramón Díaz,Renato Gaúcho,978,210
+4316193,15,3,"(1, 2)",1,2024-04-14,MorumBIS,35055,Alex Gomes Stefano,Thiago Carpini,Juan Pablo Vojvoda,585,10870
+4316190,8,9,"(2, 2)",1,2024-04-14,Estádio Jornalista Mário Filho,17645,Maguielson Lima Barbosa,Fernando Diniz,Pedro Caixinha,2462,8793
+4316196,10,11,"(1, 1)",1,2024-04-13,Estádio Heriberto Hülse,12408,Bruno Pereira Vasconcelos,Cláudio Tencati,Roger Machado,7178,10492

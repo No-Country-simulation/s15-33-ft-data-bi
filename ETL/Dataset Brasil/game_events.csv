@@ -1,0 +1,941 @@
+type,minute,game_id,player_id,club_id,description,player_in,player_assist
+Goals,70,4316187,875328,10010,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,578872
+Goals,72,4316187,674732,6600,", Left-footed shot, 1. Goal of the Season",0,0
+Goals,83,4316187,51174,6600,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,277335
+Substitutions,46,4316187,982549,6600,", Tactical",674732,0
+Substitutions,46,4316187,388266,10010,", Tactical",162812,0
+Substitutions,46,4316187,703322,6600,", Tactical",277335,0
+Substitutions,46,4316187,294873,6600,", Tactical",45319,0
+Substitutions,64,4316187,727751,10010,", Tactical",875328,0
+Substitutions,76,4316187,236202,6600,", Tactical",193782,0
+Substitutions,80,4316187,392487,10010,", Tactical",205041,0
+Substitutions,80,4316187,52896,10010,", Tactical",257740,0
+Substitutions,83,4316187,678439,6600,", Tactical",1095552,0
+Cards,13,4316187,578872,10010,"1. Yellow card  , Foul",0,0
+Cards,29,4316187,678439,6600,"1. Yellow card  , Foul",0,0
+Cards,41,4316187,51174,6600,"1. Yellow card  , Dissent",0,0
+Cards,88,4316187,193782,6600,"1. Yellow card  , Foul",0,0
+Cards,90,4316187,275381,6600,"1. Yellow card  , Foul",0,0
+Cards,90,4316187,205041,10010,1. Yellow card,0,0
+Cards,90,4316187,45319,6600,"1. Yellow card  , Dissent",0,0
+Cards,90,4316187,257740,10010,"1. Yellow card  , Foul",0,0
+Goals,20,4316310,432895,614,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,1009030
+Goals,63,4316310,1009030,614,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,341705
+Substitutions,46,4316310,432895,614,", Tactical",244275,0
+Substitutions,46,4316310,57229,199,", Tactical",489893,0
+Substitutions,75,4316310,603122,199,", Tactical",215915,0
+Substitutions,75,4316310,262262,199,", Tactical",636314,0
+Substitutions,82,4316310,47592,199,", Tactical",838387,0
+Substitutions,82,4316310,565009,199,", Tactical",743590,0
+Substitutions,88,4316310,1009030,614,", Tactical",374136,0
+Substitutions,88,4316310,321239,614,", Tactical",435485,0
+Substitutions,90,4316310,397458,614,", Tactical",749559,0
+Cards,45,4316310,262262,199,"2. Yellow card  , Foul",0,0
+Cards,68,4316310,288431,614,"3. Yellow card  , Foul",0,0
+Goals,45,4316295,574772,1023,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,991800
+Goals,71,4316295,1056993,1023,", Penalty, 1. Goal of the Season",0,0
+Substitutions,58,4316295,991800,1023,", Tactical",1056993,0
+Substitutions,58,4316295,971570,1023,", Tactical",735573,0
+Substitutions,58,4316295,574772,1023,", Tactical",867461,0
+Substitutions,62,4316295,169179,28022,", Injury",862358,0
+Substitutions,70,4316295,675178,28022,", Tactical",519851,0
+Substitutions,71,4316295,663578,28022,", Tactical",177534,0
+Substitutions,82,4316295,642758,1023,", Tactical",627230,0
+Substitutions,82,4316295,608216,1023,", Tactical",225432,0
+Substitutions,83,4316295,700933,28022,", Tactical",347100,0
+Substitutions,83,4316295,430761,28022,", Tactical",392809,0
+Cards,43,4316295,700933,28022,"2. Yellow card  , Dissent",0,0
+Cards,50,4316295,458710,1023,"3. Yellow card  , Foul",0,0
+Cards,75,4316295,608216,1023,"2. Yellow card  , Foul",0,0
+Cards,90,4316295,225432,1023,"1. Yellow card  , Foul",0,0
+Cards,90,4316295,617687,28022,"2. Yellow card  , Foul",0,0
+Goals,45,4316291,205041,10010,", Penalty, 3. Goal of the Season",0,0
+Goals,63,4316291,884072,537,", Right-footed shot, 1. Goal of the Season Assist: , 1. Assist of the Season",0,364972
+Goals,86,4316291,289802,10010,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,257740
+Substitutions,46,4316291,740157,537,", Tactical",891353,0
+Substitutions,57,4316291,800175,537,", Tactical",217886,0
+Substitutions,58,4316291,52896,10010,", Tactical",793815,0
+Substitutions,58,4316291,205041,10010,", Tactical",544259,0
+Substitutions,72,4316291,884072,537,", Tactical",800732,0
+Substitutions,72,4316291,273438,537,", Tactical",546036,0
+Substitutions,72,4316291,727751,10010,", Tactical",257740,0
+Substitutions,77,4316291,162812,10010,", Tactical",875328,0
+Substitutions,78,4316291,392487,10010,", Tactical",289802,0
+Substitutions,82,4316291,76746,537,", Tactical",379752,0
+Cards,36,4316291,524446,10010,"1. Yellow card  , Foul",0,0
+Cards,77,4316291,793815,10010,"1. Yellow card  , Foul",0,0
+Cards,82,4316291,195810,537,"1. Yellow card  , Foul",0,0
+Cards,90,4316291,379752,537,"1. Yellow card  , Foul",0,0
+Goals,26,4316294,633212,679,", Tap-in, 1. Goal of the Season Assist: , Cross, 2. Assist of the Season",0,829969
+Substitutions,10,4316294,457533,679,", Injury",593205,0
+Substitutions,23,4316294,212114,978,", Tactical",671145,0
+Substitutions,59,4316294,503052,679,", Tactical",149572,0
+Substitutions,59,4316294,369556,679,", Tactical",177845,0
+Substitutions,69,4316294,148765,679,", Tactical",195882,0
+Substitutions,69,4316294,711600,679,", Tactical",219835,0
+Substitutions,73,4316294,334229,978,", Tactical",834481,0
+Substitutions,74,4316294,862574,978,", Tactical",659264,0
+Substitutions,86,4316294,412594,978,", Tactical",733579,0
+Substitutions,86,4316294,373189,978,", Tactical",868891,0
+Cards,16,4316294,644157,978,"Red card  , Professional foul",0,0
+Cards,58,4316294,26267,679,"2. Yellow card  , Foul",0,0
+Goals,45,4316289,223560,585,", Header, 2. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,552240
+Goals,49,4316289,252900,2125,", Header, 1. Goal of the Season Assist: , Corner, 2. Assist of the Season",0,365368
+Goals,53,4316289,223560,585,", Left-footed shot, 3. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,482144
+Goals,84,4316289,466336,585,", Right-footed shot, 1. Goal of the Season",0,0
+Substitutions,13,4316289,544464,2125,", Tactical",514297,0
+Substitutions,30,4316289,861852,585,", Tactical",567249,0
+Substitutions,46,4316289,76191,2125,", Tactical",352890,0
+Substitutions,46,4316289,373192,2125,", Tactical",688668,0
+Substitutions,67,4316289,552240,585,", Tactical",515638,0
+Substitutions,67,4316289,365368,2125,", Tactical",746358,0
+Substitutions,68,4316289,503343,585,", Tactical",466336,0
+Substitutions,68,4316289,468304,585,", Tactical",743593,0
+Substitutions,69,4316289,976561,2125,", Tactical",48974,0
+Substitutions,86,4316289,223560,585,", Tactical",565232,0
+Cards,7,4316289,671572,2125,"Red card  , Serious foul",0,0
+Cards,14,4316289,861852,585,"1. Yellow card  , Foul",0,0
+Cards,25,4316289,147396,2125,"1. Yellow card  , Foul",0,0
+Cards,36,4316289,503343,585,"1. Yellow card  , Foul",0,0
+Cards,36,4316289,567249,585,"1. Yellow card  , Foul",0,0
+Cards,60,4316289,688668,2125,"2. Yellow card  , Foul",0,0
+Cards,82,4316289,482144,585,"3. Yellow card  , Foul",0,0
+Cards,87,4316289,691811,2125,1. Yellow card,0,0
+Substitutions,46,4316292,636314,199,", Tactical",594226,0
+Substitutions,65,4316292,404321,10870,", Tactical",162807,0
+Substitutions,65,4316292,542598,10870,", Tactical",788361,0
+Substitutions,72,4316292,262262,199,", Tactical",547443,0
+Substitutions,75,4316292,265660,10870,", Tactical",74758,0
+Substitutions,79,4316292,47592,199,", Tactical",1005165,0
+Substitutions,80,4316292,1029227,199,", Tactical",57229,0
+Substitutions,80,4316292,546530,199,", Tactical",491701,0
+Substitutions,85,4316292,594105,10870,", Tactical",323452,0
+Substitutions,85,4316292,348354,10870,", Tactical",829968,0
+Cards,23,4316292,542598,10870,"1. Yellow card  , Foul",0,0
+Cards,41,4316292,273442,10870,"1. Yellow card  , Time wasting",0,0
+Cards,45,4316292,546530,199,"3. Yellow card  , Foul",0,0
+Cards,64,4316292,262851,10870,"2. Yellow card  , Foul",0,0
+Cards,71,4316292,265660,10870,"1. Yellow card  , Foul",0,0
+Cards,72,4316292,594105,10870,"3. Yellow card  , Repeated Foul",0,0
+Cards,90,4316292,74758,10870,"1. Yellow card  , Foul",0,0
+Goals,30,4316293,329720,8793,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,1084081
+Goals,79,4316293,353108,614,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,397458
+Substitutions,37,4316293,978037,614,", Tactical",435485,0
+Substitutions,62,4316293,1084081,8793,", Tactical",351738,0
+Substitutions,62,4316293,614328,8793,", Tactical",612162,0
+Substitutions,74,4316293,406676,8793,", Tactical",270188,0
+Substitutions,74,4316293,975191,8793,", Tactical",412365,0
+Substitutions,75,4316293,349585,614,", Tactical",439072,0
+Substitutions,75,4316293,385271,614,", Tactical",1009030,0
+Substitutions,81,4316293,162883,8793,", Tactical",743951,0
+Cards,10,4316293,887801,8793,"1. Yellow card  , Foul",0,0
+Cards,17,4316293,978037,614,"1. Yellow card  , Foul",0,0
+Cards,33,4316293,385271,614,"2. Yellow card  , Foul",0,0
+Cards,90,4316293,743951,8793,"1. Yellow card  , Time wasting",0,0
+Goals,4,4316290,54590,2462,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,668268
+Goals,61,4316290,53058,2462,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,997714
+Goals,73,4316290,89718,330,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,553459
+Goals,79,4316290,89718,330,", Header, 3. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,346766
+Substitutions,46,4316290,258254,330,", Tactical",743588,0
+Substitutions,60,4316290,67920,2462,", Tactical",53058,0
+Substitutions,60,4316290,35537,2462,", Tactical",884070,0
+Substitutions,60,4316290,75615,2462,", Tactical",997714,0
+Substitutions,72,4316290,387611,2462,", Tactical",261309,0
+Substitutions,73,4316290,480774,330,", Tactical",553459,0
+Substitutions,73,4316290,80562,330,", Tactical",89718,0
+Substitutions,85,4316290,330085,330,", Tactical",1083070,0
+Substitutions,90,4316290,428791,330,", Tactical",1083073,0
+Substitutions,90,4316290,54590,2462,", Tactical",1119009,0
+Cards,12,4316290,167724,2462,"1. Yellow card  , Dissent",0,0
+Cards,20,4316290,588989,2462,"1. Yellow card  , Foul",0,0
+Cards,31,4316290,54590,2462,"1. Yellow card  , Dissent",0,0
+Cards,43,4316290,35537,2462,"2. Yellow card  , Foul",0,0
+Cards,45,4316290,67920,2462,3. Yellow card,0,0
+Cards,45,4316290,258254,330,2. Yellow card,0,0
+Cards,51,4316290,428791,330,"2. Yellow card  , Foul",0,0
+Substitutions,55,4316273,729264,585,", Injury",482144,0
+Substitutions,55,4316273,844797,1023,", Tactical",574772,0
+Substitutions,61,4316273,565232,585,", Tactical",689017,0
+Substitutions,66,4316273,1056993,1023,", Tactical",991800,0
+Substitutions,66,4316273,971570,1023,", Tactical",371009,0
+Substitutions,73,4316273,496268,1023,", Tactical",816129,0
+Substitutions,73,4316273,75435,1023,", Tactical",147361,0
+Substitutions,85,4316273,223560,585,", Tactical",88103,0
+Cards,29,4316273,546212,585,"1. Yellow card  , Foul",0,0
+Cards,40,4316273,215390,1023,2. Yellow card,0,0
+Cards,43,4316273,552240,585,"2. Yellow card  , Dissent",0,0
+Cards,45,4316273,971570,1023,"2. Yellow card  , Foul",0,0
+Cards,59,4316273,284727,585,1. Yellow card,0,0
+Cards,59,4316273,458710,1023,2. Yellow card,0,0
+Cards,69,4316273,482144,585,"2. Yellow card  , Foul",0,0
+Goals,50,4316267,719251,15172,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,387925
+Goals,55,4316267,323831,6600,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,674732
+Substitutions,46,4316267,982198,15172,", Tactical",719251,0
+Substitutions,64,4316267,277335,6600,", Tactical",1095552,0
+Substitutions,64,4316267,982549,6600,", Tactical",193782,0
+Substitutions,80,4316267,275381,6600,", Tactical",815384,0
+Substitutions,80,4316267,294873,6600,", Tactical",51174,0
+Substitutions,90,4316267,350766,15172,", Tactical",1226150,0
+Substitutions,90,4316267,372013,15172,", Tactical",868491,0
+Cards,60,4316267,387925,15172,"1. Yellow card  , Time wasting",0,0
+Cards,85,4316267,725049,15172,"2. Yellow card  , Time wasting",0,0
+Cards,88,4316267,638269,15172,"3. Yellow card  , Foul",0,0
+Cards,90,4316267,719251,15172,"1. Yellow card  , Foul",0,0
+Goals,8,4316276,535037,10492,", Left-footed shot, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,816144
+Goals,73,4316276,149572,679,", Tap-in, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,829969
+Substitutions,46,4316276,1115489,679,", Tactical",593205,0
+Substitutions,62,4316276,813120,10492,", Injury",658665,0
+Substitutions,63,4316276,658678,679,", Tactical",149572,0
+Substitutions,68,4316276,369556,679,", Tactical",177845,0
+Substitutions,68,4316276,503052,679,", Tactical",711600,0
+Substitutions,74,4316276,535037,10492,", Tactical",800177,0
+Substitutions,74,4316276,816144,10492,", Tactical",902507,0
+Substitutions,81,4316276,29091,10492,", Tactical",892091,0
+Substitutions,81,4316276,148765,679,", Tactical",195882,0
+Cards,49,4316276,555310,10492,"3. Yellow card  , Foul",0,0
+Cards,63,4316276,816144,10492,"1. Yellow card  , Foul",0,0
+Cards,76,4316276,593205,679,"1. Yellow card  , Foul",0,0
+Cards,90,4316276,691906,679,"1. Yellow card  , Dissent",0,0
+Goals,40,4316272,1007378,199,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,636314
+Goals,45,4316272,1007378,199,", Solo run, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,730708
+Goals,47,4316272,603122,199,", Header, 1. Goal of the Season Assist: , Free kick, 1. Assist of the Season",0,565009
+Substitutions,8,4316272,213368,199,", Injury",636314,0
+Substitutions,46,4316272,35537,2462,", Tactical",884070,0
+Substitutions,46,4316272,592344,2462,", Tactical",75615,0
+Substitutions,60,4316272,67920,2462,", Tactical",53058,0
+Substitutions,69,4316272,54590,2462,", Tactical",261309,0
+Substitutions,73,4316272,636314,199,", Tactical",594226,0
+Substitutions,73,4316272,730708,199,", Tactical",57229,0
+Substitutions,73,4316272,546530,199,", Tactical",670021,0
+Substitutions,85,4316272,44501,2462,", Tactical",167724,0
+Substitutions,90,4316272,1029227,199,", Tactical",743590,0
+Cards,30,4316272,592344,2462,"2. Yellow card  , Foul",0,0
+Cards,36,4316272,668268,2462,"2. Yellow card  , Mass confrontation",0,0
+Cards,36,4316272,1007378,199,"1. Yellow card  , Mass confrontation",0,0
+Cards,39,4316272,565009,199,"2. Yellow card  , Foul",0,0
+Cards,42,4316272,636314,199,"1. Yellow card  , Foul",0,0
+Cards,44,4316272,1029227,199,"1. Yellow card  , Foul",0,0
+Goals,9,4316274,896338,10870,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,542598
+Goals,40,4316274,162883,8793,", Header, 2. Goal of the Season Assist: , Header, 1. Assist of the Season",0,887801
+Substitutions,46,4316274,406676,8793,", Tactical",564546,0
+Substitutions,59,4316274,587786,10870,", Tactical",435163,0
+Substitutions,59,4316274,542598,10870,", Tactical",788361,0
+Substitutions,64,4316274,612162,8793,", Tactical",351738,0
+Substitutions,70,4316274,121986,10870,", Injury",982617,0
+Substitutions,71,4316274,896338,10870,", Tactical",829968,0
+Substitutions,76,4316274,670965,8793,", Tactical",577407,0
+Substitutions,76,4316274,162883,8793,", Tactical",743951,0
+Substitutions,77,4316274,614328,8793,", Tactical",355496,0
+Substitutions,84,4316274,74758,10870,", Injury",265660,0
+Cards,16,4316274,406676,8793,"2. Yellow card  , Foul",0,0
+Cards,58,4316274,594105,10870,"2. Yellow card  , Dissent",0,0
+Goals,50,4316268,225984,609,", Left-footed shot, 1. Goal of the Season",0,0
+Goals,52,4316268,218118,2125,", Own-goal",0,0
+Goals,58,4316268,213619,609,", Left-footed shot, 2. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,613873
+Goals,75,4316268,401534,609,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,613873
+Substitutions,46,4316268,450211,609,", Tactical",613873,0
+Substitutions,62,4316268,574904,2125,", Tactical",859135,0
+Substitutions,62,4316268,352890,2125,", Tactical",215212,0
+Substitutions,62,4316268,76191,2125,", Tactical",976561,0
+Substitutions,68,4316268,218118,609,", Tactical",408958,0
+Substitutions,74,4316268,371996,2125,", Tactical",143817,0
+Substitutions,82,4316268,401534,609,", Tactical",987503,0
+Substitutions,82,4316268,213619,609,", Tactical",587328,0
+Substitutions,84,4316268,365368,2125,", Tactical",746358,0
+Substitutions,90,4316268,225984,609,", Tactical",349513,0
+Cards,78,4316268,484848,609,"2. Yellow card  , Foul",0,0
+Cards,90,4316268,587328,609,"2. Yellow card  , Foul",0,0
+Goals,17,4316269,205041,10010,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,52896
+Substitutions,46,4316269,906774,210,", Tactical",332259,0
+Substitutions,46,4316269,169052,210,", Tactical",1086375,0
+Substitutions,46,4316269,312294,210,", Tactical",1083600,0
+Substitutions,64,4316269,52896,10010,", Tactical",875328,0
+Substitutions,72,4316269,44779,210,", Tactical",129129,0
+Substitutions,76,4316269,392487,10010,", Tactical",257740,0
+Substitutions,79,4316269,61891,210,", Tactical",1084816,0
+Substitutions,80,4316269,162812,10010,", Tactical",544259,0
+Substitutions,81,4316269,727751,10010,", Tactical",793815,0
+Substitutions,81,4316269,205041,10010,", Tactical",289802,0
+Cards,45,4316269,145400,210,"2. Yellow card  , Dissent",0,0
+Cards,47,4316269,740501,10010,"1. Yellow card  , Foul",0,0
+Cards,56,4316269,52896,10010,"2. Yellow card  , Dissent",0,0
+Cards,67,4316269,373174,210,"1. Yellow card  , Foul",0,0
+Cards,78,4316269,1086375,210,"2. Yellow card  , Dissent",0,0
+Cards,90,4316269,44779,210,Red card,0,0
+Cards,90,4316269,176140,210,"1. Yellow card  , Dissent",0,0
+Goals,53,4316270,800175,537,", Left-footed shot, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,309193
+Goals,90,4316270,309193,537,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,884072
+Substitutions,46,4316270,215616,614,", Tactical",385271,0
+Substitutions,60,4316270,800175,537,", Injury",884072,0
+Substitutions,60,4316270,110078,537,", Tactical",364261,0
+Substitutions,66,4316270,188862,614,", Tactical",964580,0
+Substitutions,66,4316270,435485,614,", Tactical",341705,0
+Substitutions,68,4316270,273438,537,", Tactical",546036,0
+Substitutions,68,4316270,592347,537,", Injury",800732,0
+Substitutions,70,4316270,248410,614,", Injury",1009030,0
+Substitutions,72,4316270,468302,537,", Injury",379752,0
+Substitutions,84,4316270,349585,614,", Tactical",439072,0
+Cards,15,4316270,309193,537,"1. Yellow card  , Foul",0,0
+Cards,43,4316270,273438,537,"2. Yellow card  , Foul",0,0
+Cards,57,4316270,800175,537,"1. Yellow card  , Foul",0,0
+Cards,59,4316270,397458,614,"1. Yellow card  , Foul",0,0
+Cards,79,4316270,884072,537,"2. Yellow card  , Foul",0,0
+Goals,32,4316271,520470,7178,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,75471
+Goals,47,4316271,520470,7178,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,75471
+Goals,55,4316271,75471,7178,", Counter attack goal, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,348262
+Goals,69,4316271,646432,7178,", Header, 1. Goal of the Season Assist: , 1. Assist of the Season",0,188715
+Substitutions,46,4316271,37647,978,", Tactical",313830,0
+Substitutions,46,4316271,60889,978,", Tactical",84695,0
+Substitutions,56,4316271,1012564,978,", Tactical",733579,0
+Substitutions,56,4316271,659264,978,", Tactical",868891,0
+Substitutions,60,4316271,75471,7178,", Tactical",37418,0
+Substitutions,61,4316271,224481,7178,", Tactical",425462,0
+Substitutions,67,4316271,178400,7178,", Injury",188715,0
+Substitutions,71,4316271,644157,978,", Tactical",862574,0
+Substitutions,76,4316271,697845,7178,", Tactical",158333,0
+Substitutions,76,4316271,646432,7178,", Tactical",811219,0
+Cards,45,4316271,670201,978,"1. Yellow card  , Foul",0,0
+Goals,28,4316275,89718,330,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,428791
+Goals,61,4316275,330085,330,", Direct free kick, 2. Goal of the Season",0,0
+Goals,78,4316275,428791,330,", Penalty, 2. Goal of the Season",0,0
+Substitutions,46,4316275,303140,330,", Tactical",341701,0
+Substitutions,46,4316275,675178,28022,", Tactical",985755,0
+Substitutions,46,4316275,392809,28022,", Tactical",1035650,0
+Substitutions,56,4316275,350342,28022,", Tactical",430761,0
+Substitutions,66,4316275,480774,330,", Tactical",553459,0
+Substitutions,66,4316275,400960,330,", Tactical",515208,0
+Substitutions,67,4316275,808507,28022,", Tactical",1081036,0
+Substitutions,70,4316275,330085,330,", Tactical",346766,0
+Substitutions,79,4316275,428791,330,", Tactical",53922,0
+Substitutions,79,4316275,700933,28022,", Tactical",519851,0
+Cards,3,4316275,303140,330,"2. Yellow card  , Foul",0,0
+Cards,37,4316275,400960,330,"2. Yellow card  , Foul",0,0
+Cards,45,4316275,808507,28022,"2. Yellow card  , Foul",0,0
+Cards,58,4316275,617687,28022,1. Yellow card,0,0
+Cards,64,4316275,169179,28022,"2. Yellow card  , Dissent",0,0
+Cards,77,4316275,166032,28022,"1. Yellow card  , Foul",0,0
+Cards,81,4316275,563692,330,"1. Yellow card  , Time wasting",0,0
+Cards,86,4316275,563692,330,"Red card  , Serious foul",0,0
+Cards,88,4316275,553459,330,"1. Yellow card  , Foul",0,0
+Goals,14,4316235,284727,585,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,565232
+Goals,52,4316235,223560,585,", Penalty, 1. Goal of the Season",0,0
+Goals,76,4316235,689017,585,", Solo run, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,468304
+Substitutions,46,4316235,725049,15172,", Tactical",638269,0
+Substitutions,46,4316235,868491,15172,", Tactical",738507,0
+Substitutions,54,4316235,552242,15172,", Tactical",435489,0
+Substitutions,54,4316235,982198,15172,", Tactical",1226150,0
+Substitutions,72,4316235,503343,585,", Tactical",468304,0
+Substitutions,72,4316235,284727,585,", Tactical",689017,0
+Substitutions,81,4316235,892089,585,", Tactical",482144,0
+Substitutions,82,4316235,229736,585,", Tactical",861852,0
+Substitutions,88,4316235,223560,585,", Tactical",567249,0
+Substitutions,89,4316235,372013,15172,", Tactical",350766,0
+Cards,33,4316235,552242,15172,"1. Yellow card  , Foul",0,0
+Cards,39,4316235,725049,15172,"1. Yellow card  , Foul",0,0
+Cards,47,4316235,738507,15172,"Yellow card  , Foul",0,0
+Cards,51,4316235,373150,15172,"Red card  , Foul",0,0
+Cards,63,4316235,738507,15172,"Second yellow  , Foul",0,0
+Cards,84,4316235,372013,15172,"1. Yellow card  , Dissent",0,0
+Goals,4,4316231,592347,537,", Right-footed shot, 1. Goal of the Season",0,0
+Goals,9,4316231,103381,537,", Penalty, 2. Goal of the Season",0,0
+Goals,53,4316231,273438,537,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,592347
+Goals,61,4316231,309193,537,", Direct free kick, 1. Goal of the Season",0,0
+Goals,80,4316231,497494,537,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,800732
+Goals,85,4316231,606136,10492,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,813120
+Substitutions,43,4316231,29091,10492,", Tactical",363174,0
+Substitutions,46,4316231,884072,537,", Tactical",800732,0
+Substitutions,46,4316231,856047,537,", Tactical",76746,0
+Substitutions,46,4316231,535037,10492,", Tactical",1053933,0
+Substitutions,46,4316231,102574,10492,", Tactical",813120,0
+Substitutions,62,4316231,103381,537,", Tactical",110078,0
+Substitutions,62,4316231,195810,537,", Tactical",149577,0
+Substitutions,65,4316231,816144,10492,", Tactical",583064,0
+Substitutions,72,4316231,592347,537,", Tactical",497494,0
+Substitutions,83,4316231,892091,10492,", Tactical",1086632,0
+Cards,8,4316231,809716,10492,"Yellow card  , Foul",0,0
+Cards,18,4316231,788402,10492,"1. Yellow card  , Foul",0,0
+Cards,35,4316231,884072,537,"1. Yellow card  , Foul",0,0
+Cards,38,4316231,809716,10492,"Second yellow  , Foul",0,0
+Cards,38,4316231,79242,10492,"2. Yellow card  , Dissent",0,0
+Cards,77,4316231,364972,537,"1. Yellow card  , Foul",0,0
+Cards,90,4316231,800732,537,"1. Yellow card  , Foul",0,0
+Goals,71,4316234,457533,679,", Left-footed shot, 2. Goal of the Season",0,0
+Substitutions,42,4316234,236202,6600,", Injury",1095552,0
+Substitutions,46,4316234,503052,679,", Tactical",658678,0
+Substitutions,46,4316234,593205,679,", Tactical",711600,0
+Substitutions,61,4316234,687359,6600,", Tactical",294873,0
+Substitutions,62,4316234,277335,6600,", Tactical",275381,0
+Substitutions,77,4316234,119905,6600,", Tactical",982549,0
+Substitutions,78,4316234,678439,6600,", Tactical",703322,0
+Substitutions,84,4316234,148765,679,", Tactical",195882,0
+Substitutions,85,4316234,369556,679,", Tactical",177845,0
+Substitutions,90,4316234,711600,679,", Tactical",1115489,0
+Cards,8,4316234,119905,6600,"1. Yellow card  , Handball",0,0
+Cards,9,4316234,369556,679,"1. Yellow card  , Foul",0,0
+Cards,29,4316234,958598,6600,"1. Yellow card  , Foul",0,0
+Cards,36,4316234,687359,6600,"1. Yellow card  , Foul",0,0
+Cards,45,4316234,428783,6600,"1. Yellow card  , Foul",0,0
+Cards,79,4316234,26267,679,"1. Yellow card  , Foul",0,0
+Cards,82,4316234,45431,679,"1. Yellow card  , Foul",0,0
+Cards,85,4316234,674732,6600,"2. Yellow card  , Foul",0,0
+Cards,86,4316234,457533,679,"Yellow card  , Foul",0,0
+Cards,87,4316234,457533,679,"Second yellow  , Foul",0,0
+Substitutions,46,4316232,363173,614,", Tactical",432895,0
+Substitutions,59,4316232,385271,614,", Injury",341705,0
+Substitutions,60,4316232,844797,1023,", Tactical",371009,0
+Substitutions,71,4316232,735573,1023,", Tactical",608216,0
+Substitutions,71,4316232,147361,1023,", Tactical",75435,0
+Substitutions,76,4316232,435485,614,", Tactical",397458,0
+Substitutions,77,4316232,458710,1023,", Tactical",1056993,0
+Substitutions,77,4316232,432953,1023,", Tactical",574772,0
+Cards,15,4316232,385271,614,"1. Yellow card  , Foul",0,0
+Cards,21,4316232,147361,1023,"2. Yellow card  , Foul",0,0
+Cards,35,4316232,288431,614,"2. Yellow card  , Foul",0,0
+Cards,42,4316232,458710,1023,1. Yellow card,0,0
+Cards,45,4316232,69400,1023,1. Yellow card,0,0
+Cards,45,4316232,353108,614,1. Yellow card,0,0
+Cards,69,4316232,215390,1023,"1. Yellow card  , Foul",0,0
+Cards,70,4316232,215616,614,"1. Yellow card  , Foul",0,0
+Cards,84,4316232,371009,1023,"1. Yellow card  , Dissent",0,0
+Goals,20,4316229,365368,2125,", Left-footed shot, 1. Goal of the Season",0,0
+Goals,57,4316229,671572,2125,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,365368
+Goals,69,4316229,875328,10010,", Left-footed shot, 2. Goal of the Season",0,0
+Goals,72,4316229,205041,10010,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,875328
+Substitutions,46,4316229,859135,2125,", Tactical",352890,0
+Substitutions,59,4316229,544259,10010,", Tactical",875328,0
+Substitutions,60,4316229,104326,10010,", Tactical",793815,0
+Substitutions,60,4316229,52896,10010,", Tactical",205041,0
+Substitutions,73,4316229,371996,2125,", Tactical",48974,0
+Substitutions,73,4316229,76191,2125,", Tactical",366450,0
+Substitutions,74,4316229,325196,2125,", Tactical",544464,0
+Substitutions,78,4316229,435239,2125,", Tactical",574904,0
+Substitutions,82,4316229,392487,10010,", Tactical",388266,0
+Substitutions,82,4316229,727751,10010,", Tactical",257740,0
+Cards,23,4316229,859135,2125,"1. Yellow card  , Foul",0,0
+Cards,42,4316229,365368,2125,"1. Yellow card  , Foul",0,0
+Cards,48,4316229,120443,10010,"1. Yellow card  , Foul",0,0
+Cards,51,4316229,104326,10010,"1. Yellow card  , Foul",0,0
+Cards,66,4316229,325196,2125,"1. Yellow card  , Foul",0,0
+Cards,90,4316229,257740,10010,"2. Yellow card  , Foul",0,0
+Goals,25,4316228,480774,330,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,330085
+Goals,35,4316228,428791,330,", Right-footed shot, 1. Goal of the Season Assist: , 2. Assist of the Season",0,80562
+Goals,45,4316228,346766,330,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,330085
+Substitutions,46,4316228,401534,609,", Tactical",613873,0
+Substitutions,46,4316228,480774,330,", Tactical",553459,0
+Substitutions,46,4316228,520629,609,", Tactical",484848,0
+Substitutions,62,4316228,349513,609,", Tactical",627221,0
+Substitutions,62,4316228,213619,609,", Tactical",587328,0
+Substitutions,69,4316228,258254,330,", Tactical",303140,0
+Substitutions,77,4316228,330085,330,", Tactical",1083070,0
+Substitutions,77,4316228,428791,330,", Tactical",89718,0
+Substitutions,77,4316228,218118,609,", Tactical",408958,0
+Substitutions,83,4316228,89297,330,", Tactical",341701,0
+Cards,65,4316228,744024,609,"1. Yellow card  , Foul",0,0
+Cards,68,4316228,428791,330,"1. Yellow card  , Foul",0,0
+Cards,72,4316228,218118,609,"1. Yellow card  , Foul",0,0
+Cards,89,4316228,303140,330,1. Yellow card,0,0
+Goals,5,4316233,670965,8793,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,668234
+Substitutions,58,4316233,215915,199,", Tactical",262262,0
+Substitutions,61,4316233,614328,8793,", Tactical",975191,0
+Substitutions,61,4316233,668234,8793,", Tactical",479587,0
+Substitutions,69,4316233,730708,199,", Tactical",1007378,0
+Substitutions,69,4316233,213368,199,", Tactical",489893,0
+Substitutions,76,4316233,1084081,8793,", Tactical",743951,0
+Substitutions,76,4316233,670965,8793,", Tactical",577407,0
+Substitutions,76,4316233,162883,8793,", Tactical",355496,0
+Substitutions,83,4316233,491701,199,", Tactical",57229,0
+Substitutions,84,4316233,565009,199,", Tactical",1029227,0
+Cards,27,4316233,921863,8793,"1. Yellow card  , Foul",0,0
+Cards,38,4316233,162883,8793,"1. Yellow card  , Dissent",0,0
+Cards,40,4316233,614328,8793,"1. Yellow card  , Foul",0,0
+Cards,45,4316233,213368,199,"1. Yellow card  , Foul",0,0
+Cards,71,4316233,546530,199,"2. Yellow card  , Foul",0,0
+Cards,79,4316233,975191,8793,"1. Yellow card  , Foul",0,0
+Goals,44,4316227,332259,210,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,312294
+Substitutions,21,4316227,169179,28022,", Injury",995883,0
+Substitutions,54,4316227,1084816,210,", Injury",61891,0
+Substitutions,66,4316227,392809,28022,", Tactical",519851,0
+Substitutions,67,4316227,347100,28022,", Tactical",700933,0
+Substitutions,69,4316227,332259,210,", Tactical",458251,0
+Substitutions,70,4316227,808507,28022,", Tactical",430761,0
+Substitutions,70,4316227,129129,210,", Tactical",1083600,0
+Substitutions,79,4316227,675178,28022,", Tactical",985755,0
+Substitutions,79,4316227,350342,28022,", Tactical",432958,0
+Substitutions,85,4316227,312294,210,", Tactical",959092,0
+Substitutions,85,4316227,906774,210,", Tactical",373174,0
+Substitutions,90,4316227,1086375,210,", Tactical",978004,0
+Cards,12,4316227,808507,28022,"1. Yellow card  , Foul",0,0
+Cards,15,4316227,350342,28022,"1. Yellow card  , Foul",0,0
+Cards,42,4316227,906774,210,"1. Yellow card  , Foul",0,0
+Cards,78,4316227,458251,210,"1. Yellow card  , Foul",0,0
+Cards,89,4316227,1083600,210,"1. Yellow card  , Time wasting",0,0
+Cards,90,4316227,145400,210,"1. Yellow card  , Dissent",0,0
+Goals,10,4316230,67920,2462,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,44501
+Goals,53,4316230,815558,2462,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,198250
+Goals,55,4316230,334229,978,", Header, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,644157
+Substitutions,46,4316230,212114,978,", Tactical",834481,0
+Substitutions,46,4316230,313830,978,", Tactical",644157,0
+Substitutions,46,4316230,862574,978,", Tactical",1012564,0
+Substitutions,46,4316230,35537,2462,", Tactical",207446,0
+Substitutions,71,4316230,659264,978,", Tactical",670968,0
+Substitutions,74,4316230,67920,2462,", Tactical",387611,0
+Substitutions,88,4316230,54590,2462,", Tactical",856085,0
+Substitutions,88,4316230,668268,2462,", Injury",75615,0
+Substitutions,90,4316230,373189,978,", Tactical",733579,0
+Cards,7,4316230,35537,2462,"1. Yellow card  , Foul",0,0
+Cards,27,4316230,313830,978,"1. Yellow card  , Foul",0,0
+Cards,28,4316230,67920,2462,2. Yellow card,0,0
+Cards,28,4316230,412594,978,1. Yellow card,0,0
+Cards,66,4316230,800176,2462,"2. Yellow card  , Foul",0,0
+Cards,66,4316230,334229,978,"1. Yellow card  , Dissent",0,0
+Cards,68,4316230,644157,978,"1. Yellow card  , Foul",0,0
+Cards,77,4316230,670968,978,"1. Yellow card  , Foul",0,0
+Cards,89,4316230,387611,2462,"2. Yellow card  , Foul",0,0
+Goals,50,4316311,84695,978,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,37647
+Goals,56,4316311,334229,978,", Tap-in, 3. Goal of the Season Assist: , Cross, 2. Assist of the Season",0,37647
+Goals,89,4316311,366450,2125,", Right-footed shot, 1. Goal of the Season",0,0
+Substitutions,46,4316311,212114,978,", Tactical",868891,0
+Substitutions,46,4316311,544464,2125,", Tactical",325196,0
+Substitutions,58,4316311,574904,2125,", Tactical",366450,0
+Substitutions,66,4316311,365368,2125,", Tactical",215212,0
+Substitutions,66,4316311,371996,2125,", Tactical",940479,0
+Substitutions,67,4316311,37647,978,", Tactical",574765,0
+Substitutions,79,4316311,976561,2125,", Tactical",48974,0
+Substitutions,80,4316311,671145,978,", Injury",412594,0
+Substitutions,80,4316311,313830,978,", Tactical",862574,0
+Substitutions,90,4316311,868891,978,", Tactical",430339,0
+Cards,27,4316311,84695,978,"1. Yellow card  , Foul",0,0
+Cards,57,4316311,659264,978,"2. Yellow card  , Foul",0,0
+Cards,59,4316311,366450,2125,"1. Yellow card  , Foul",0,0
+Cards,65,4316311,313830,978,"2. Yellow card  , Time wasting",0,0
+Cards,84,4316311,373189,978,"1. Yellow card  , Foul",0,0
+Cards,90,4316311,607817,2125,"Red card  , Violent conduct",0,0
+Cards,90,4316311,574765,978,"1. Yellow card  , Dissent",0,0
+Goals,28,4316313,552240,2462,", Own-goal",0,0
+Goals,32,4316313,861852,585,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,662332
+Goals,84,4316313,139867,585,", Left-footed shot, 1. Goal of the Season",0,0
+Substitutions,46,4316313,815558,2462,", Tactical",856085,0
+Substitutions,46,4316313,113586,2462,", Tactical",884070,0
+Substitutions,61,4316313,662332,585,", Tactical",515638,0
+Substitutions,61,4316313,468304,585,", Tactical",743593,0
+Substitutions,61,4316313,861852,585,", Tactical",567249,0
+Substitutions,79,4316313,565232,585,", Tactical",689017,0
+Substitutions,79,4316313,1119009,2462,", Tactical",261309,0
+Substitutions,79,4316313,346065,2462,", Tactical",592344,0
+Substitutions,85,4316313,167724,2462,", Tactical",44501,0
+Substitutions,90,4316313,662326,585,", Tactical",729264,0
+Cards,9,4316313,468304,585,"1. Yellow card  , Foul",0,0
+Cards,23,4316313,387611,2462,"3. Yellow card  , Foul",0,0
+Cards,24,4316313,113586,2462,"1. Yellow card  , Foul",0,0
+Cards,34,4316313,229736,585,"1. Yellow card  , Foul",0,0
+Cards,45,4316313,223560,585,3. Yellow card,0,0
+Cards,56,4316313,997714,2462,"2. Yellow card  , Foul",0,0
+Cards,59,4316313,552240,585,"3. Yellow card  , Foul",0,0
+Cards,90,4316313,515638,585,"1. Yellow card  , Foul",0,0
+Goals,10,4316314,348354,10870,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,542598
+Goals,41,4316314,273438,537,", Header, 3. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,217886
+Substitutions,57,4316314,884072,537,", Tactical",309193,0
+Substitutions,57,4316314,800175,537,", Tactical",592347,0
+Substitutions,57,4316314,217886,537,", Tactical",800732,0
+Substitutions,64,4316314,273438,537,", Tactical",364972,0
+Substitutions,64,4316314,404321,10870,", Tactical",162807,0
+Substitutions,64,4316314,74758,10870,", Tactical",265660,0
+Substitutions,72,4316314,856047,537,", Tactical",76746,0
+Substitutions,72,4316314,542598,10870,", Tactical",788361,0
+Substitutions,72,4316314,348354,10870,", Tactical",829968,0
+Substitutions,83,4316314,982617,10870,", Tactical",323452,0
+Cards,1,4316314,432914,537,"1. Yellow card  , Handball",0,0
+Cards,24,4316314,55250,10870,"1. Yellow card  , Foul",0,0
+Cards,49,4316314,982617,10870,"1. Yellow card  , Foul",0,0
+Cards,54,4316314,217886,537,"1. Yellow card  , Foul",0,0
+Cards,60,4316314,856047,537,"1. Yellow card  , Foul",0,0
+Cards,74,4316314,891353,537,"1. Yellow card  , Time wasting",0,0
+Cards,81,4316314,800732,537,"2. Yellow card  , Foul",0,0
+Cards,88,4316314,379752,537,"2. Yellow card  , Foul",0,0
+Cards,90,4316314,162807,10870,"2. Yellow card  , Taking off shirt",0,0
+Cards,90,4316314,262851,10870,"3. Yellow card  , Dissent",0,0
+Goals,81,4316315,225984,609,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,744024
+Substitutions,63,4316315,738507,15172,", Tactical",262474,0
+Substitutions,66,4316315,613873,609,", Tactical",1072630,0
+Substitutions,67,4316315,213619,609,", Tactical",587328,0
+Substitutions,72,4316315,480274,15172,", Tactical",418530,0
+Substitutions,72,4316315,719251,15172,", Tactical",982198,0
+Substitutions,79,4316315,401534,609,", Tactical",627221,0
+Substitutions,83,4316315,435489,15172,", Tactical",18829,0
+Substitutions,90,4316315,218118,609,", Tactical",450211,0
+Substitutions,90,4316315,225984,609,", Tactical",258070,0
+Cards,56,4316315,341710,609,"1. Yellow card  , Foul",0,0
+Cards,63,4316315,372013,15172,"2. Yellow card  , Foul",0,0
+Cards,66,4316315,225984,609,"2. Yellow card  , Diving",0,0
+Goals,37,4316309,392487,10010,", Counter attack goal, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,162812
+Substitutions,46,4316309,670965,8793,", Tactical",975191,0
+Substitutions,46,4316309,1084081,8793,", Tactical",614328,0
+Substitutions,57,4316309,270188,8793,", Tactical",351892,0
+Substitutions,64,4316309,612162,8793,", Tactical",351738,0
+Substitutions,69,4316309,205041,10010,", Tactical",875328,0
+Substitutions,77,4316309,392487,10010,", Tactical",289802,0
+Substitutions,77,4316309,727751,10010,", Tactical",793815,0
+Substitutions,77,4316309,52896,10010,", Tactical",257740,0
+Substitutions,77,4316309,743951,8793,", Tactical",1084074,0
+Substitutions,85,4316309,162812,10010,", Tactical",544259,0
+Cards,15,4316309,524446,10010,"2. Yellow card  , Foul",0,0
+Cards,20,4316309,270188,8793,"1. Yellow card  , Foul",0,0
+Cards,53,4316309,392487,10010,"2. Yellow card  , Foul",0,0
+Cards,59,4316309,612162,8793,"2. Yellow card  , Foul",0,0
+Cards,90,4316309,975191,8793,"2. Yellow card  , Foul",0,0
+Goals,45,4316312,148765,679,", Direct free kick, 2. Goal of the Season",0,0
+Goals,59,4316312,215390,679,", Own-goal",0,0
+Substitutions,58,4316312,178984,1023,", Tactical",844797,0
+Substitutions,58,4316312,369556,679,", Tactical",177845,0
+Substitutions,58,4316312,711600,679,", Tactical",825780,0
+Substitutions,58,4316312,371009,1023,", Tactical",574772,0
+Substitutions,61,4316312,149572,679,", Tactical",457533,0
+Substitutions,65,4316312,608216,1023,", Tactical",735573,0
+Substitutions,65,4316312,1056993,1023,", Tactical",991800,0
+Substitutions,72,4316312,148765,679,", Tactical",731057,0
+Substitutions,72,4316312,503052,679,", Tactical",593205,0
+Substitutions,82,4316312,225432,1023,", Tactical",867461,0
+Cards,26,4316312,148765,679,"1. Yellow card  , Foul",0,0
+Cards,34,4316312,147361,1023,"3. Yellow card  , Foul",0,0
+Cards,45,4316312,971570,1023,"3. Yellow card  , Foul",0,0
+Cards,45,4316312,829969,679,"Yellow card  , Dissent",0,0
+Cards,46,4316312,369556,679,"2. Yellow card  , Foul",0,0
+Cards,56,4316312,661245,679,"1. Yellow card  , Foul",0,0
+Cards,66,4316312,844797,1023,"3. Yellow card  , Foul",0,0
+Cards,67,4316312,829969,679,"Second yellow  , Foul",0,0
+Cards,80,4316312,432953,1023,"1. Yellow card  , Foul",0,0
+Cards,80,4316312,26267,679,"3. Yellow card  , Foul",0,0
+Goals,32,4316261,856047,537,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,800175
+Substitutions,25,4316261,743594,537,", Injury",103381,0
+Substitutions,63,4316261,800175,537,", Tactical",309193,0
+Substitutions,64,4316261,884072,537,", Tactical",217886,0
+Substitutions,64,4316261,868491,15172,", Tactical",18829,0
+Substitutions,64,4316261,638269,15172,", Tactical",262474,0
+Substitutions,79,4316261,982198,15172,", Tactical",719251,0
+Substitutions,80,4316261,592347,537,", Tactical",737821,0
+Substitutions,80,4316261,546036,537,", Tactical",273438,0
+Substitutions,90,4316261,372013,15172,", Tactical",1226150,0
+Cards,2,4316261,164015,15172,"1. Yellow card  , Foul",0,0
+Cards,15,4316261,468302,537,"1. Yellow card  , Foul",0,0
+Cards,21,4316261,373150,15172,"1. Yellow card  , Foul",0,0
+Cards,30,4316261,103381,537,"1. Yellow card  , Foul",0,0
+Cards,43,4316261,550178,15172,"1. Yellow card  , Foul",0,0
+Cards,63,4316261,638269,15172,"2. Yellow card  , Foul",0,0
+Cards,90,4316261,737821,537,"1. Yellow card  , Foul",0,0
+Goals,20,4316260,435485,614,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,397458
+Goals,54,4316260,397458,614,", Right-footed shot, 2. Goal of the Season",0,0
+Goals,79,4316260,689017,585,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,229736
+Substitutions,13,4316260,321239,614,", Injury",435485,0
+Substitutions,46,4316260,482144,585,", Tactical",515638,0
+Substitutions,46,4316260,466336,585,", Tactical",689017,0
+Substitutions,57,4316260,284727,585,", Tactical",565232,0
+Substitutions,76,4316260,353108,614,", Tactical",749559,0
+Substitutions,77,4316260,397458,614,", Tactical",341705,0
+Substitutions,80,4316260,385271,614,", Tactical",978037,0
+Cards,3,4316260,552240,585,"1. Yellow card  , Foul",0,0
+Cards,26,4316260,432773,614,"2. Yellow card  , Dissent",0,0
+Cards,40,4316260,482144,585,"1. Yellow card  , Foul",0,0
+Cards,88,4316260,223560,585,"2. Yellow card  , Foul",0,0
+Goals,53,4316266,102574,10492,", Left-footed shot, 2. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,205179
+Goals,59,4316266,816144,10492,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,102574
+Substitutions,46,4316266,1007378,199,", Tactical",421935,0
+Substitutions,57,4316266,489893,199,", Tactical",547443,0
+Substitutions,58,4316266,262262,199,", Tactical",636314,0
+Substitutions,65,4316266,546530,199,", Tactical",491701,0
+Substitutions,70,4316266,102574,10492,", Tactical",813120,0
+Substitutions,74,4316266,421935,199,", Injury",57229,0
+Substitutions,79,4316266,323850,10492,", Tactical",363174,0
+Substitutions,86,4316266,29091,10492,", Tactical",892091,0
+Substitutions,86,4316266,535037,10492,", Tactical",902507,0
+Substitutions,87,4316266,816144,10492,", Tactical",1053933,0
+Cards,70,4316266,555310,10492,"2. Yellow card  , Time wasting",0,0
+Cards,82,4316266,565009,199,"1. Yellow card  , Foul",0,0
+Cards,90,4316266,205179,10492,"Yellow card  , Mass confrontation",0,0
+Cards,90,4316266,205179,10492,"Second yellow  , Foul",0,0
+Goals,45,4316262,674732,6600,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,323831
+Substitutions,64,4316262,574772,1023,", Tactical",371009,0
+Substitutions,65,4316262,735573,1023,", Tactical",608216,0
+Substitutions,66,4316262,277335,6600,", Tactical",687359,0
+Substitutions,66,4316262,236202,6600,", Tactical",1095552,0
+Substitutions,73,4316262,147361,1023,", Tactical",75435,0
+Substitutions,74,4316262,844797,1023,", Tactical",1056993,0
+Substitutions,78,4316262,674732,6600,", Tactical",958598,0
+Substitutions,80,4316262,432953,1023,", Tactical",867461,0
+Substitutions,88,4316262,678439,6600,", Tactical",982549,0
+Substitutions,88,4316262,275381,6600,", Tactical",689640,0
+Cards,43,4316262,323831,6600,"1. Yellow card  , Dissent",0,0
+Cards,53,4316262,45319,6600,"2. Yellow card  , Foul",0,0
+Cards,58,4316262,844797,1023,"2. Yellow card  , Foul",0,0
+Cards,59,4316262,642758,1023,"1. Yellow card  , Foul",0,0
+Cards,66,4316262,674732,6600,"1. Yellow card  , Foul",0,0
+Cards,81,4316262,212209,6600,"1. Yellow card  , Foul",0,0
+Goals,19,4316264,982617,10870,", Right-footed shot, 1. Goal of the Season Assist: , 1. Assist of the Season",0,162807
+Goals,89,4316264,408958,609,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,1084714
+Substitutions,62,4316264,258070,609,", Tactical",627221,0
+Substitutions,64,4316264,829968,10870,", Tactical",788361,0
+Substitutions,67,4316264,323452,10870,", Tactical",594105,0
+Substitutions,67,4316264,265660,10870,", Tactical",74758,0
+Substitutions,73,4316264,218118,609,", Tactical",408958,0
+Substitutions,73,4316264,401534,609,", Tactical",613873,0
+Substitutions,73,4316264,213619,609,", Tactical",587328,0
+Substitutions,79,4316264,348354,10870,", Tactical",121986,0
+Substitutions,80,4316264,162807,10870,", Tactical",404321,0
+Substitutions,80,4316264,349513,609,", Tactical",1084714,0
+Cards,71,4316264,242201,609,"Yellow card  , Foul",0,0
+Cards,83,4316264,225984,609,"1. Yellow card  , Foul",0,0
+Cards,87,4316264,242201,609,"Second yellow  , Foul",0,0
+Cards,88,4316264,594105,10870,"1. Yellow card  , Foul",0,0
+Cards,90,4316264,404321,10870,"1. Yellow card  , Dissent",0,0
+Goals,40,4316258,330085,330,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,80562
+Goals,84,4316258,401533,7178,", Left-footed shot, 1. Goal of the Season",0,0
+Substitutions,10,4316258,843397,330,", Injury",346766,0
+Substitutions,66,4316258,100091,7178,", Tactical",224481,0
+Substitutions,66,4316258,553459,330,", Tactical",480774,0
+Substitutions,79,4316258,75471,7178,", Tactical",401533,0
+Substitutions,79,4316258,348262,7178,", Tactical",891569,0
+Substitutions,80,4316258,428791,330,", Tactical",1083073,0
+Substitutions,80,4316258,80562,330,", Tactical",89718,0
+Substitutions,80,4316258,330085,330,", Tactical",1083070,0
+Substitutions,88,4316258,188715,7178,", Injury",178400,0
+Substitutions,88,4316258,520470,7178,", Tactical",1027713,0
+Cards,37,4316258,349420,7178,"1. Yellow card  , Foul",0,0
+Cards,45,4316258,348769,7178,"1. Yellow card  , Foul",0,0
+Cards,56,4316258,346766,330,"1. Yellow card  , Foul",0,0
+Cards,82,4316258,646432,7178,"1. Yellow card  , Foul",0,0
+Cards,83,4316258,400960,330,"1. Yellow card  , Foul",0,0
+Cards,90,4316258,375532,7178,"1. Yellow card  , Time wasting",0,0
+Goals,7,4316263,577407,8793,", Left-footed shot, 1. Goal of the Season",0,0
+Goals,63,4316263,334229,978,", Tap-in, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,373189
+Goals,78,4316263,670965,8793,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,614328
+Substitutions,46,4316263,671145,978,", Injury",84695,0
+Substitutions,46,4316263,862574,978,", Tactical",670968,0
+Substitutions,46,4316263,212114,978,", Tactical",1012564,0
+Substitutions,55,4316263,479587,8793,", Tactical",612162,0
+Substitutions,55,4316263,162883,8793,", Tactical",743951,0
+Substitutions,62,4316263,975191,8793,", Tactical",614328,0
+Substitutions,62,4316263,406676,8793,", Tactical",670965,0
+Substitutions,72,4316263,1084081,8793,", Tactical",668234,0
+Substitutions,76,4316263,373189,978,", Tactical",868891,0
+Substitutions,80,4316263,313830,978,", Tactical",733579,0
+Cards,9,4316263,862574,978,"1. Yellow card  , Foul",0,0
+Cards,88,4316263,670965,8793,"2. Yellow card  , Time wasting",0,0
+Cards,89,4316263,432166,8793,"2. Yellow card  , Foul",0,0
+Goals,19,4316257,332259,210,", Left-footed shot, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,373170
+Goals,51,4316257,312294,210,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,436385
+Substitutions,31,4316257,503052,679,", Injury",219835,0
+Substitutions,46,4316257,177845,679,", Tactical",369556,0
+Substitutions,46,4316257,593205,679,", Tactical",825780,0
+Substitutions,55,4316257,373170,210,", Injury",1086375,0
+Substitutions,63,4316257,26267,679,", Tactical",711600,0
+Substitutions,75,4316257,129129,210,", Tactical",458251,0
+Substitutions,75,4316257,332259,210,", Tactical",1083600,0
+Substitutions,83,4316257,312294,210,", Tactical",906774,0
+Substitutions,84,4316257,373174,210,", Tactical",978004,0
+Cards,33,4316257,219835,679,"1. Yellow card  , Foul",0,0
+Cards,59,4316257,825780,679,"1. Yellow card  , Foul",0,0
+Cards,71,4316257,1086375,210,1. Yellow card,0,0
+Cards,71,4316257,829969,679,1. Yellow card,0,0
+Goals,20,4316189,735573,1023,", Right-footed shot, 1. Goal of the Season",0,0
+Substitutions,32,4316189,691811,2125,", Injury",352890,0
+Substitutions,61,4316189,1056993,1023,", Tactical",991800,0
+Substitutions,62,4316189,971570,1023,", Tactical",574772,0
+Substitutions,66,4316189,432953,1023,", Tactical",627230,0
+Substitutions,67,4316189,435239,2125,", Tactical",215212,0
+Substitutions,67,4316189,371996,2125,", Tactical",48974,0
+Substitutions,67,4316189,735573,1023,", Tactical",844797,0
+Substitutions,68,4316189,76191,2125,", Tactical",366450,0
+Substitutions,86,4316189,688668,2125,", Tactical",940479,0
+Substitutions,90,4316189,371009,1023,", Tactical",964591,0
+Cards,15,4316189,371996,2125,"1. Yellow card  , Dissent",0,0
+Cards,17,4316189,735573,1023,"1. Yellow card  , Dissent",0,0
+Cards,45,4316189,971570,1023,"1. Yellow card  , Foul",0,0
+Cards,45,4316189,688668,2125,"1. Yellow card  , Foul",0,0
+Cards,53,4316189,607817,2125,"1. Yellow card  , Foul",0,0
+Cards,57,4316189,608216,1023,"1. Yellow card  , Foul",0,0
+Cards,85,4316189,147361,1023,"1. Yellow card  , Foul",0,0
+Cards,90,4316189,844797,1023,1. Yellow card,0,0
+Goals,4,4316259,54590,2462,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,588989
+Goals,34,4316259,727751,10010,", Right-footed shot, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,162812
+Goals,61,4316259,162812,10010,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,578872
+Substitutions,53,4316259,387611,2462,", Tactical",856085,0
+Substitutions,67,4316259,167724,2462,", Tactical",997714,0
+Substitutions,67,4316259,113586,2462,", Tactical",75615,0
+Substitutions,71,4316259,544259,10010,", Tactical",875328,0
+Substitutions,72,4316259,727751,10010,", Tactical",793815,0
+Substitutions,79,4316259,54590,2462,", Tactical",1084667,0
+Substitutions,79,4316259,198250,2462,", Tactical",1119009,0
+Substitutions,83,4316259,392487,10010,", Tactical",205041,0
+Substitutions,83,4316259,52896,10010,", Tactical",257740,0
+Substitutions,90,4316259,162812,10010,", Tactical",101294,0
+Cards,20,4316259,727751,10010,"1. Yellow card  , Foul",0,0
+Cards,40,4316259,392487,10010,"1. Yellow card  , Foul",0,0
+Cards,47,4316259,387611,2462,"1. Yellow card  , Foul",0,0
+Cards,51,4316259,815558,2462,"1. Yellow card  , Foul",0,0
+Cards,54,4316259,52896,10010,"1. Yellow card  , Foul",0,0
+Cards,70,4316259,856085,2462,"1. Yellow card  , Foul",0,0
+Cards,77,4316259,997714,2462,"1. Yellow card  , Foul",0,0
+Cards,88,4316259,67920,2462,1. Yellow card,0,0
+Cards,89,4316259,205041,10010,2. Yellow card,0,0
+Goals,5,4316188,103381,537,", 1. Goal of the Season",0,0
+Goals,20,4316188,218118,609,", 1. Goal of the Season Assist: , 1. Assist of the Season",0,401534
+Goals,65,4316188,213619,609,", 1. Goal of the Season",0,0
+Goals,83,4316188,273438,537,", 1. Goal of the Season Assist: , 1. Assist of the Season",0,740157
+Goals,90,4316188,587328,609,", 1. Goal of the Season Assist: , 1. Assist of the Season",0,341710
+Substitutions,23,4316188,364972,537,", Injury",364261,0
+Substitutions,46,4316188,137745,537,", Tactical",740157,0
+Substitutions,59,4316188,884072,537,", Tactical",309193,0
+Substitutions,66,4316188,195810,537,", Injury",379752,0
+Substitutions,68,4316188,258070,609,", Tactical",450211,0
+Substitutions,68,4316188,213619,609,", Tactical",587328,0
+Substitutions,68,4316188,401534,609,", Tactical",613873,0
+Substitutions,74,4316188,546036,537,", Tactical",273438,0
+Substitutions,74,4316188,103381,537,", Tactical",217886,0
+Substitutions,78,4316188,218118,609,", Tactical",408958,0
+Substitutions,82,4316188,225984,609,", Tactical",627221,0
+Substitutions,90,4316188,242201,609,", Tactical",744024,0
+Cards,27,4316188,546036,537,"1. Yellow card  , Foul",0,0
+Cards,31,4316188,401534,609,"1. Yellow card  , Handball",0,0
+Cards,36,4316188,592347,537,1. Yellow card,0,0
+Cards,36,4316188,484848,609,1. Yellow card,0,0
+Cards,66,4316188,213619,609,"1. Yellow card  , Taking off shirt",0,0
+Cards,72,4316188,379752,537,"Red card  , Serious foul",0,0
+Cards,84,4316188,273438,537,"1. Yellow card  , Taking off shirt",0,0
+Cards,90,4316188,587328,609,"1. Yellow card  , Taking off shirt",0,0
+Goals,45,4316195,397458,614,", Direct free kick, 1. Goal of the Season",0,0
+Goals,63,4316195,372013,15172,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,350766
+Goals,90,4316195,432895,614,", Penalty, 1. Goal of the Season",0,0
+Substitutions,45,4316195,868491,15172,", Tactical",373150,0
+Substitutions,46,4316195,321239,614,", Injury",353108,0
+Substitutions,46,4316195,638269,15172,", Tactical",262474,0
+Substitutions,76,4316195,439072,614,", Injury",341705,0
+Substitutions,76,4316195,739272,15172,", Injury",164015,0
+Substitutions,77,4316195,288431,614,", Tactical",363173,0
+Substitutions,86,4316195,435485,614,", Tactical",749559,0
+Substitutions,87,4316195,982198,15172,", Tactical",719251,0
+Substitutions,87,4316195,372013,15172,", Tactical",1226150,0
+Substitutions,90,4316195,397458,614,", Tactical",1009030,0
+Cards,6,4316195,638269,15172,"1. Yellow card  , Foul",0,0
+Cards,36,4316195,868491,15172,"1. Yellow card  , Foul",0,0
+Cards,44,4316195,432773,614,"1. Yellow card  , Foul",0,0
+Cards,45,4316195,880217,15172,Red card,0,0
+Cards,45,4316195,519879,15172,"1. Yellow card  , Dissent",0,0
+Cards,45,4316195,739272,15172,"1. Yellow card  , Dissent",0,0
+Cards,68,4316195,288431,614,"1. Yellow card  , Foul",0,0
+Cards,90,4316195,350766,15172,"Red card  , Violent conduct",0,0
+Cards,90,4316195,18829,15172,"1. Yellow card  , Dissent",0,0
+Cards,90,4316195,248410,614,"1. Yellow card  , Foul",0,0
+Goals,23,4316194,148765,679,", Header, 1. Goal of the Season Assist: , 1. Assist of the Season",0,593205
+Goals,37,4316194,457533,679,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,26267
+Goals,39,4316194,369556,679,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,457533
+Goals,81,4316194,195882,679,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,711600
+Substitutions,62,4316194,350342,28022,", Tactical",876343,0
+Substitutions,62,4316194,392809,28022,", Tactical",347100,0
+Substitutions,62,4316194,700933,28022,", Tactical",519851,0
+Substitutions,73,4316194,503052,679,", Tactical",711600,0
+Substitutions,73,4316194,593205,679,", Tactical",219835,0
+Substitutions,73,4316194,148765,679,", Tactical",195882,0
+Substitutions,77,4316194,243541,28022,", Tactical",675178,0
+Substitutions,77,4316194,876343,28022,", Injury",212899,0
+Substitutions,83,4316194,633212,679,", Tactical",1115489,0
+Substitutions,83,4316194,457533,679,", Tactical",825780,0
+Cards,41,4316194,700933,28022,"1. Yellow card  , Foul",0,0
+Cards,45,4316194,169179,28022,"1. Yellow card  , Foul",0,0
+Cards,81,4316194,212899,28022,"1. Yellow card  , Foul",0,0
+Substitutions,46,4316192,553459,330,", Tactical",341701,0
+Substitutions,46,4316192,47592,199,", Tactical",594226,0
+Substitutions,69,4316192,480774,330,", Tactical",400960,0
+Substitutions,72,4316192,208681,199,", Tactical",57229,0
+Substitutions,72,4316192,491701,199,", Tactical",421935,0
+Substitutions,76,4316192,565009,199,", Tactical",215915,0
+Substitutions,80,4316192,262262,199,", Tactical",547443,0
+Substitutions,82,4316192,428791,330,", Tactical",330085,0
+Substitutions,90,4316192,80562,330,", Tactical",89718,0
+Cards,1,4316192,89297,330,"Yellow card  , Foul",0,0
+Cards,22,4316192,258254,330,"1. Yellow card  , Foul",0,0
+Cards,28,4316192,262262,199,"1. Yellow card  , Dissent",0,0
+Cards,31,4316192,47592,199,"1. Yellow card  , Foul",0,0
+Cards,31,4316192,546530,199,"1. Yellow card  , Foul",0,0
+Cards,45,4316192,89297,330,"Second yellow  , Foul",0,0
+Cards,45,4316192,489893,199,"1. Yellow card  , Dissent",0,0
+Cards,51,4316192,80562,330,"1. Yellow card  , Foul",0,0
+Cards,64,4316192,106032,330,"1. Yellow card  , Dissent",0,0
+Cards,68,4316192,268642,330,"1. Yellow card  , Foul",0,0
+Cards,82,4316192,594226,199,"1. Yellow card  , Foul",0,0
+Cards,90,4316192,730708,199,"1. Yellow card  , Foul",0,0
+Cards,90,4316192,641458,199,"1. Yellow card  , Dissent",0,0
+Cards,90,4316192,421935,199,"1. Yellow card  , Dissent",0,0
+Goals,24,4316191,373189,978,", Right-footed shot, 1. Goal of the Season",0,0
+Goals,37,4316191,862574,978,", Right-footed shot, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,212114
+Goals,68,4316191,874223,210,", Right-footed shot, 1. Goal of the Season",0,0
+Substitutions,14,4316191,145400,210,", Injury",874223,0
+Substitutions,46,4316191,44779,210,", Tactical",129129,0
+Substitutions,58,4316191,373170,210,", Tactical",1083600,0
+Substitutions,58,4316191,312294,210,", Tactical",1086375,0
+Substitutions,64,4316191,60889,978,", Tactical",671145,0
+Substitutions,64,4316191,212114,978,", Tactical",1012564,0
+Substitutions,74,4316191,313830,978,", Tactical",1083970,0
+Substitutions,74,4316191,891353,210,", Tactical",1084816,0
+Substitutions,86,4316191,373189,978,", Injury",868891,0
+Substitutions,87,4316191,412594,978,", Tactical",527494,0
+Cards,17,4316191,212114,978,"1. Yellow card  , Diving",0,0
+Cards,65,4316191,659264,978,"1. Yellow card  , Time wasting",0,0
+Cards,90,4316191,403296,978,"1. Yellow card  , Foul",0,0
+Cards,90,4316191,671145,978,"1. Yellow card  , Time wasting",0,0
+Goals,66,4316193,162807,10870,", Right-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,348354
+Goals,80,4316193,829968,10870,", Counter attack goal, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,594105
+Goals,84,4316193,565232,585,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,515638
+Substitutions,58,4316193,74758,10870,", Tactical",788361,0
+Substitutions,59,4316193,567249,585,", Tactical",88103,0
+Substitutions,59,4316193,265660,10870,", Tactical",829968,0
+Substitutions,65,4316193,552240,585,", Tactical",515638,0
+Substitutions,65,4316193,482144,585,", Tactical",1004725,0
+Substitutions,72,4316193,323452,10870,", Tactical",121986,0
+Substitutions,72,4316193,982617,10870,", Tactical",594105,0
+Substitutions,76,4316193,223560,585,", Tactical",565232,0
+Substitutions,76,4316193,229736,585,", Tactical",468304,0
+Substitutions,83,4316193,162807,10870,", Tactical",273442,0
+Cards,23,4316193,348354,10870,"1. Yellow card  , Foul",0,0
+Cards,51,4316193,262851,10870,"1. Yellow card  , Foul",0,0
+Cards,54,4316193,162807,10870,"1. Yellow card  , Foul",0,0
+Cards,75,4316193,223560,585,"1. Yellow card  , Dissent",0,0
+Goals,45,4316190,387611,2462,", Header, 1. Goal of the Season Assist: , Corner, 1. Assist of the Season",0,67920
+Goals,47,4316190,162883,8793,", Header, 1. Goal of the Season Assist: , Cross, 1. Assist of the Season",0,670965
+Goals,52,4316190,743951,8793,", Header, 1. Goal of the Season Assist: , Cross, 2. Assist of the Season",0,670965
+Goals,68,4316190,387611,2462,", Right-footed shot, 2. Goal of the Season Assist: , Pass, 2. Assist of the Season",0,67920
+Substitutions,46,4316190,479587,8793,", Tactical",614328,0
+Substitutions,46,4316190,577407,8793,", Tactical",670965,0
+Substitutions,46,4316190,468247,8793,", Injury",412372,0
+Substitutions,46,4316190,1084081,8793,", Tactical",743951,0
+Substitutions,58,4316190,198250,2462,", Tactical",75615,0
+Substitutions,58,4316190,35537,2462,", Tactical",856085,0
+Substitutions,70,4316190,406676,8793,", Tactical",678502,0
+Substitutions,80,4316190,67920,2462,", Tactical",884070,0
+Substitutions,89,4316190,54590,2462,", Tactical",1119009,0
+Cards,10,4316190,432166,8793,"1. Yellow card  , Foul",0,0
+Cards,29,4316190,668268,2462,"1. Yellow card  , Dissent",0,0
+Cards,44,4316190,406676,8793,"1. Yellow card  , Foul",0,0
+Cards,64,4316190,592344,2462,"1. Yellow card  , Dissent",0,0
+Cards,81,4316190,670965,8793,"1. Yellow card  , Dissent",0,0
+Cards,83,4316190,612162,8793,"1. Yellow card  , Dissent",0,0
+Cards,90,4316190,800176,2462,"1. Yellow card  , Foul",0,0
+Goals,36,4316196,404321,7178,", Left-footed shot, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,348769
+Goals,64,4316196,102574,10492,", Counter attack goal, 1. Goal of the Season Assist: , Pass, 1. Assist of the Season",0,205179
+Substitutions,18,4316196,164013,10492,", Injury",535037,0
+Substitutions,58,4316196,37418,7178,", Tactical",75471,0
+Substitutions,61,4316196,29091,10492,", Tactical",813120,0
+Substitutions,72,4316196,816144,10492,", Tactical",800177,0
+Substitutions,73,4316196,555310,10492,", Injury",583064,0
+Substitutions,78,4316196,697845,7178,", Tactical",158333,0
+Substitutions,78,4316196,100091,7178,", Tactical",401533,0
+Substitutions,86,4316196,404321,7178,", Tactical",224481,0
+Substitutions,86,4316196,520470,7178,", Tactical",177690,0
+Cards,32,4316196,672292,10492,"1. Yellow card  , Dissent",0,0
+Cards,33,4316196,323850,10492,"1. Yellow card  , Dissent",0,0
+Cards,45,4316196,102574,10492,"1. Yellow card  , Foul",0,0
+Cards,59,4316196,520470,7178,"1. Yellow card  , Handball",0,0
+Cards,64,4316196,555310,10492,"1. Yellow card  , Dissent",0,0
+Cards,67,4316196,100091,7178,"1. Yellow card  , Foul",0,0
+Cards,90,4316196,177690,7178,"1. Yellow card  , Foul",0,0
+Cards,90,4316196,79242,10492,"1. Yellow card  , Time wasting",0,0
+Cards,90,4316196,363174,10492,"1. Yellow card  , Dissent",0,0
+Cards,90,4316196,75471,7178,1. Yellow card,0,0

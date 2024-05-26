@@ -1,0 +1,2381 @@
+player_number,player_name,is_team_captain,position,club,formation,game_id,player_id
+1,Bento,0,Goalkeeper,home,4-2-3-1,4316294,691906
+15,Mateo Gamarra,0,Centre-Back,home,4-2-3-1,4316294,661245
+4,Kaique Rocha,0,Centre-Back,home,4-2-3-1,4316294,633377
+37,Lucas Esquivel,0,Left-Back,home,4-2-3-1,4316294,829969
+29,Leonardo Godoy,0,Right-Back,home,4-2-3-1,4316294,369556
+5,Fernandinho,1,Defensive Midfield,home,4-2-3-1,4316294,26267
+26,Erick,0,Defensive Midfield,home,4-2-3-1,4316294,633212
+10,Bruno Zapelli,0,Attacking Midfield,home,4-2-3-1,4316294,711600
+28,Tomás Cuello,0,Left Winger,home,4-2-3-1,4316294,503052
+14,Agustín Canobbio,0,Right Winger,home,4-2-3-1,4316294,457533
+92,Pablo,0,Centre-Forward,home,4-2-3-1,4316294,148765
+24,Léo Linck,0,Goalkeeper,home,4-2-3-1,4316294,742034
+46,Marcos André,0,Centre-Back,home,4-2-3-1,4316294,1196689
+6,Fernando,0,Left-Back,home,4-2-3-1,4316294,731057
+22,Madson,0,Right-Back,home,4-2-3-1,4316294,177845
+3,Gabriel,0,Defensive Midfield,home,4-2-3-1,4316294,213606
+23,Felipinho,0,Central Midfield,home,4-2-3-1,4316294,1115489
+30,Zé Vitor,0,Central Midfield,home,4-2-3-1,4316294,825780
+80,Alex Santana,0,Central Midfield,home,4-2-3-1,4316294,219835
+88,Christian,0,Central Midfield,home,4-2-3-1,4316294,658678
+11,Nikão,0,Attacking Midfield,home,4-2-3-1,4316294,149572
+9,Gonzalo Mastriani,0,Centre-Forward,home,4-2-3-1,4316294,195882
+20,Julimar,0,Centre-Forward,home,4-2-3-1,4316294,593205
+1,Léo Jardim,0,Goalkeeper,away,4-3-3 Attacking,4316294,288415
+3,Léo,1,Centre-Back,away,4-3-3 Attacking,4316294,403296
+4,Maicon,0,Centre-Back,away,4-3-3 Attacking,4316294,84695
+6,Lucas Piton,0,Left-Back,away,4-3-3 Attacking,4316294,670201
+96,Paulo Henrique,0,Right-Back,away,4-3-3 Attacking,4316294,412594
+25,Hugo Moura,0,Defensive Midfield,away,4-3-3 Attacking,4316294,644157
+85,Mateus Carvalho,0,Central Midfield,away,4-3-3 Attacking,4316294,862574
+27,Pablo Galdames,0,Central Midfield,away,4-3-3 Attacking,4316294,313830
+7,David,0,Left Winger,away,4-3-3 Attacking,4316294,373189
+31,Rossi,0,Right Winger,away,4-3-3 Attacking,4316294,212114
+99,Pablo Vegetti,0,Centre-Forward,away,4-3-3 Attacking,4316294,334229
+37,Pablo,0,Goalkeeper,away,4-3-3 Attacking,4316294,1083887
+17,Gary Medel,0,Centre-Back,away,4-3-3 Attacking,4316294,60889
+32,Robert Rojas,0,Centre-Back,away,4-3-3 Attacking,4316294,527494
+38,João Victor,0,Centre-Back,away,4-3-3 Attacking,4316294,671145
+12,Victor Luís,0,Left-Back,away,4-3-3 Attacking,4316294,234538
+20,Juan Sforza,0,Defensive Midfield,away,4-3-3 Attacking,4316294,659264
+23,Zé Gabriel,0,Defensive Midfield,away,4-3-3 Attacking,4316294,670968
+21,Praxedes,0,Central Midfield,away,4-3-3 Attacking,4316294,574765
+16,Erick Marcus,0,Left Winger,away,4-3-3 Attacking,4316294,834481
+28,Adson,0,Right Winger,away,4-3-3 Attacking,4316294,868891
+77,Rayan,0,Right Winger,away,4-3-3 Attacking,4316294,1012564
+9,Clayton,0,Centre-Forward,away,4-3-3 Attacking,4316294,733579
+1,Sergio Rochet,0,Goalkeeper,home,4-4-2,4316187,264014
+44,Vitão,0,Centre-Back,home,4-4-2,4316187,428783
+5,Fernando,0,Centre-Back,home,4-4-2,4316187,51174
+6,Renê,1,Left-Back,home,4-4-2,4316187,212209
+16,Fabricio Bustos,0,Right-Back,home,4-4-2,4316187,275381
+29,Thiago Maia,0,Central Midfield,home,4-4-2,4316187,294873
+15,Bruno Gomes,0,Central Midfield,home,4-4-2,4316187,703322
+11,Wanderson,0,Right Midfield,home,4-4-2,4316187,236202
+27,Mauricio,0,Left Midfield,home,4-4-2,4316187,678439
+19,Rafael Borré,0,Centre-Forward,home,4-4-2,4316187,323831
+45,Lucca,0,Centre-Forward,home,4-4-2,4316187,982549
+24,Anthoni,0,Goalkeeper,home,4-4-2,4316187,869437
+3,Igor Gomes,0,Centre-Back,home,4-4-2,4316187,689640
+25,Gabriel Mercado,0,Centre-Back,home,4-4-2,4316187,45319
+26,Alexandro Bernabéi,0,Left-Back,home,4-4-2,4316187,719635
+2,Hugo Mallo,0,Right-Back,home,4-4-2,4316187,119905
+40,Rômulo,0,Defensive Midfield,home,4-4-2,4316187,687359
+41,Matheus Dias,0,Defensive Midfield,home,4-4-2,4316187,815384
+8,Bruno Henrique,0,Central Midfield,home,4-4-2,4316187,277335
+47,Gustavo Prado,0,Central Midfield,home,4-4-2,4316187,1095552
+34,Gabriel Carvalho,0,Attacking Midfield,home,4-4-2,4316187,1089144
+21,Wesley,0,Left Winger,home,4-4-2,4316187,674732
+31,Lucas Alario,0,Centre-Forward,home,4-4-2,4316187,193782
+22,Marcos Felipe,0,Goalkeeper,away,4-4-2,4316187,283166
+15,Victor Cuesta,0,Centre-Back,away,4-4-2,4316187,104326
+4,Kanu,0,Centre-Back,away,4-4-2,4316187,524446
+46,Luciano Juba,0,Left-Back,away,4-4-2,4316187,676035
+13,Santiago Arias,0,Right-Back,away,4-4-2,4316187,120443
+5,Rezende,0,Central Midfield,away,4-4-2,4316187,793815
+19,Caio Alexandre,0,Central Midfield,away,4-4-2,4316187,727751
+10,Everton Ribeiro,1,Right Midfield,away,4-4-2,4316187,52896
+6,Jean Lucas,0,Left Midfield,away,4-4-2,4316187,578872
+16,Thaciano,0,Centre-Forward,away,4-4-2,4316187,392487
+29,Óscar Estupiñán,0,Centre-Forward,away,4-4-2,4316187,388266
+23,Adriel,0,Goalkeeper,away,4-4-2,4316187,808445
+3,Gabriel Xavier,0,Centre-Back,away,4-4-2,4316187,740501
+33,David Duarte,0,Centre-Back,away,4-4-2,4316187,373446
+2,Gilberto,0,Right-Back,away,4-4-2,4316187,231614
+40,Cicinho,0,Right-Back,away,4-4-2,4316187,101294
+14,Carlos de Pena,0,Central Midfield,away,4-4-2,4316187,257740
+20,Yago Felipe,0,Central Midfield,away,4-4-2,4316187,346935
+8,Cauly,0,Attacking Midfield,away,4-4-2,4316187,162812
+11,Biel,0,Left Winger,away,4-4-2,4316187,875328
+21,Rafael Ratão,0,Left Winger,away,4-4-2,4316187,289802
+7,Ademir,0,Right Winger,away,4-4-2,4316187,544259
+9,Everaldo,0,Centre-Forward,away,4-4-2,4316187,205041
+22,Carlos Miguel,0,Goalkeeper,home,4-2-3-1,4316292,641458
+3,Félix Torres,0,Centre-Back,home,4-2-3-1,4316292,468174
+25,Cacá,0,Centre-Back,home,4-2-3-1,4316292,603122
+46,Hugo,0,Left-Back,home,4-2-3-1,4316292,730708
+23,Fagner,1,Right-Back,home,4-2-3-1,4316292,47592
+14,Raniele,0,Defensive Midfield,home,4-2-3-1,4316292,546530
+27,Breno Bidon,0,Central Midfield,home,4-2-3-1,4316292,1029227
+10,Rodrigo Garro,0,Attacking Midfield,home,4-2-3-1,4316292,565009
+36,Wesley,0,Left Winger,home,4-2-3-1,4316292,1007378
+19,Gustavo Silva,0,Right Winger,home,4-2-3-1,4316292,636314
+11,Ángel Romero,0,Centre-Forward,home,4-2-3-1,4316292,262262
+12,Cássio,0,Goalkeeper,home,4-2-3-1,4316292,50144
+4,Caetano,0,Centre-Back,home,4-2-3-1,4316292,625345
+34,Raul Gustavo,0,Centre-Back,home,4-2-3-1,4316292,792345
+21,Matheus Bidu,0,Left-Back,home,4-2-3-1,4316292,670021
+2,Matheus França,0,Right-Back,home,4-2-3-1,4316292,594226
+37,Ryan,0,Defensive Midfield,home,4-2-3-1,4316292,1005642
+5,Fausto Vera,0,Defensive Midfield,home,4-2-3-1,4316292,491701
+18,Paulinho,0,Central Midfield,home,4-2-3-1,4316292,57229
+26,Biro,0,Right Winger,home,4-2-3-1,4316292,743590
+17,Giovane,0,Centre-Forward,home,4-2-3-1,4316292,1005165
+20,Pedro Raul,0,Centre-Forward,home,4-2-3-1,4316292,547443
+29,Arthur Sousa,0,Centre-Forward,home,4-2-3-1,4316292,1005640
+1,João Ricardo,0,Goalkeeper,away,4-2-3-1,4316292,270420
+4,Titi,0,Centre-Back,away,4-2-3-1,4316292,55250
+19,Emanuel Brítez,0,Centre-Back,away,4-2-3-1,4316292,262851
+6,Bruno Pacheco,0,Left-Back,away,4-2-3-1,4316292,435163
+2,Tinga,1,Right-Back,away,4-2-3-1,4316292,273442
+28,Pedro Augusto,0,Central Midfield,away,4-2-3-1,4316292,594105
+35,Hércules,0,Central Midfield,away,4-2-3-1,4316292,982617
+7,Tomás Pochettino,0,Attacking Midfield,away,4-2-3-1,4316292,348354
+26,Breno Lopes,0,Left Winger,away,4-2-3-1,4316292,542598
+22,Pikachu,0,Right Winger,away,4-2-3-1,4316292,265660
+79,Renato Kayzer,0,Centre-Forward,away,4-2-3-1,4316292,404321
+23,Santos,0,Goalkeeper,away,4-2-3-1,4316292,140811
+36,Felipe Jonatan,0,Left-Back,away,4-2-3-1,4316292,587786
+20,Dudu,0,Right-Back,away,4-2-3-1,4316292,476362
+17,Zé Welison,0,Defensive Midfield,away,4-2-3-1,4316292,323452
+16,Matheus Rossetto,0,Central Midfield,away,4-2-3-1,4316292,445000
+37,Kauan,0,Central Midfield,away,4-2-3-1,4316292,1074479
+8,Emmanuel Martínez,0,Attacking Midfield,away,4-2-3-1,4316292,360526
+77,Kervin Andrade,0,Attacking Midfield,away,4-2-3-1,4316292,896338
+21,Moisés,0,Left Winger,away,4-2-3-1,4316292,788361
+11,Marinho,0,Right Winger,away,4-2-3-1,4316292,74758
+39,Imanol Machuca,0,Right Winger,away,4-2-3-1,4316292,829968
+9,Juan Martín Lucero,0,Centre-Forward,away,4-2-3-1,4316292,162807
+1,João Ricardo,0,Goalkeeper,home,4-2-3-1,4316274,270420
+4,Titi,0,Centre-Back,home,4-2-3-1,4316274,55250
+19,Emanuel Brítez,0,Centre-Back,home,4-2-3-1,4316274,262851
+36,Felipe Jonatan,0,Left-Back,home,4-2-3-1,4316274,587786
+2,Tinga,1,Right-Back,home,4-2-3-1,4316274,273442
+88,Lucas Sasha,0,Defensive Midfield,home,4-2-3-1,4316274,121986
+28,Pedro Augusto,0,Central Midfield,home,4-2-3-1,4316274,594105
+77,Kervin Andrade,0,Attacking Midfield,home,4-2-3-1,4316274,896338
+26,Breno Lopes,0,Left Winger,home,4-2-3-1,4316274,542598
+11,Marinho,0,Right Winger,home,4-2-3-1,4316274,74758
+79,Renato Kayzer,0,Centre-Forward,home,4-2-3-1,4316274,404321
+23,Santos,0,Goalkeeper,home,4-2-3-1,4316274,140811
+14,Jhonathan,0,Centre-Back,home,4-2-3-1,4316274,811949
+6,Bruno Pacheco,0,Left-Back,home,4-2-3-1,4316274,435163
+17,Zé Welison,0,Defensive Midfield,home,4-2-3-1,4316274,323452
+16,Matheus Rossetto,0,Central Midfield,home,4-2-3-1,4316274,445000
+35,Hércules,0,Central Midfield,home,4-2-3-1,4316274,982617
+7,Tomás Pochettino,0,Attacking Midfield,home,4-2-3-1,4316274,348354
+8,Emmanuel Martínez,0,Attacking Midfield,home,4-2-3-1,4316274,360526
+21,Moisés,0,Left Winger,home,4-2-3-1,4316274,788361
+22,Pikachu,0,Right Winger,home,4-2-3-1,4316274,265660
+39,Imanol Machuca,0,Right Winger,home,4-2-3-1,4316274,829968
+9,Juan Martín Lucero,0,Centre-Forward,home,4-2-3-1,4316274,162807
+1,Cleiton,1,Goalkeeper,away,4-3-3 Attacking,4316274,468247
+14,Pedro Henrique,0,Centre-Back,away,4-3-3 Attacking,4316274,329720
+36,Luan Cândido,0,Centre-Back,away,4-3-3 Attacking,4316274,432166
+29,Juninho Capixaba,0,Left-Back,away,4-3-3 Attacking,4316274,406676
+45,Nathan Mendes,0,Right-Back,away,4-3-3 Attacking,4316274,887801
+5,Jadsom,0,Defensive Midfield,away,4-3-3 Attacking,4316274,612162
+7,Eric Ramires,0,Central Midfield,away,4-3-3 Attacking,4316274,614328
+22,Gustavo Neves,0,Central Midfield,away,4-3-3 Attacking,4316274,1084081
+28,Vitinho,0,Left Winger,away,4-3-3 Attacking,4316274,670965
+30,Henry Mosquera,0,Right Winger,away,4-3-3 Attacking,4316274,975191
+19,Eduardo Sasha,0,Centre-Forward,away,4-3-3 Attacking,4316274,162883
+40,Lucão,0,Goalkeeper,away,4-3-3 Attacking,4316274,412372
+3,Eduardo Santos,0,Centre-Back,away,4-3-3 Attacking,4316274,564546
+4,Lucas Cunha,0,Centre-Back,away,4-3-3 Attacking,4316274,355496
+39,Douglas Mendes,0,Centre-Back,away,4-3-3 Attacking,4316274,921863
+31,Guilherme Lopes,0,Left-Back,away,4-3-3 Attacking,4316274,678502
+35,Matheus Fernandes,0,Defensive Midfield,away,4-3-3 Attacking,4316274,351892
+10,Lincoln,0,Attacking Midfield,away,4-3-3 Attacking,4316274,351738
+17,Bruno Gonçalves,0,Attacking Midfield,away,4-3-3 Attacking,4316274,668234
+21,Talisson,0,Left Winger,away,4-3-3 Attacking,4316274,1084074
+11,Helinho,0,Right Winger,away,4-3-3 Attacking,4316274,412365
+33,Ignacio Laquintana,0,Right Winger,away,4-3-3 Attacking,4316274,577407
+18,Thiago Borbas,0,Centre-Forward,away,4-3-3 Attacking,4316274,743951
+1,Agustín Rossi,0,Goalkeeper,home,4-2-3-1,4316310,352324
+4,Léo Pereira,0,Centre-Back,home,4-2-3-1,4316310,288431
+15,Fabrício Bruno,0,Centre-Back,home,4-2-3-1,4316310,432773
+6,Ayrton Lucas,0,Left-Back,home,4-2-3-1,4316310,349585
+2,Guillermo Varela,0,Right-Back,home,4-2-3-1,4316310,188862
+21,Allan,0,Defensive Midfield,home,4-2-3-1,4316310,385271
+18,Nicolás de la Cruz,0,Defensive Midfield,home,4-2-3-1,4316310,397458
+8,Gerson,1,Right Midfield,home,4-2-3-1,4316310,341705
+11,Everton,0,Left Midfield,home,4-2-3-1,4316310,321239
+19,Lorran,0,Attacking Midfield,home,4-2-3-1,4316310,1009030
+9,Pedro,0,Centre-Forward,home,4-2-3-1,4316310,432895
+25,Matheus Cunha,0,Goalkeeper,home,4-2-3-1,4316310,876739
+3,Léo Ortiz,0,Centre-Back,home,4-2-3-1,4316310,374136
+23,David Luiz,0,Centre-Back,home,4-2-3-1,4316310,46741
+17,Matías Viña,0,Left-Back,home,4-2-3-1,4316310,439072
+43,Wesley,0,Right-Back,home,4-2-3-1,4316310,964580
+48,Igor Jesus,0,Defensive Midfield,home,4-2-3-1,4316310,978037
+29,Victor Hugo,0,Attacking Midfield,home,4-2-3-1,4316310,749559
+14,Giorgian de Arrascaeta,0,Attacking Midfield,home,4-2-3-1,4316310,248410
+26,Werton,0,Left Winger,home,4-2-3-1,4316310,902438
+7,Luiz Araújo,0,Right Winger,home,4-2-3-1,4316310,435485
+10,Gabriel Barbosa,0,Centre-Forward,home,4-2-3-1,4316310,244275
+22,Carlinhos,0,Centre-Forward,home,4-2-3-1,4316310,363173
+22,Carlos Miguel,0,Goalkeeper,away,3-4-3,4316310,641458
+3,Félix Torres,0,Centre-Back,away,3-4-3,4316310,468174
+13,Gustavo Henrique,0,Centre-Back,away,3-4-3,4316310,208681
+25,Cacá,0,Centre-Back,away,3-4-3,4316310,603122
+27,Breno Bidon,0,Central Midfield,away,3-4-3,4316310,1029227
+8,Paulinho,1,Central Midfield,away,3-4-3,4316310,57229
+23,Fagner,0,Right Midfield,away,3-4-3,4316310,47592
+46,Hugo,0,Left Midfield,away,3-4-3,4316310,730708
+36,Wesley,0,Left Winger,away,3-4-3,4316310,1007378
+11,Ángel Romero,0,Right Winger,away,3-4-3,4316310,262262
+10,Rodrigo Garro,0,Centre-Forward,away,3-4-3,4316310,565009
+12,Cássio,0,Goalkeeper,away,3-4-3,4316310,50144
+4,Caetano,0,Centre-Back,away,3-4-3,4316310,625345
+34,Raul Gustavo,0,Centre-Back,away,3-4-3,4316310,792345
+21,Matheus Bidu,0,Left-Back,away,3-4-3,4316310,670021
+35,Léo Mana,0,Right-Back,away,3-4-3,4316310,838387
+37,Ryan,0,Defensive Midfield,away,3-4-3,4316310,1005642
+77,Igor Coronado,0,Attacking Midfield,away,3-4-3,4316310,215915
+26,Biro,0,Right Winger,away,3-4-3,4316310,743590
+19,Gustavo Silva,0,Right Winger,away,3-4-3,4316310,636314
+17,Giovane,0,Centre-Forward,away,3-4-3,4316310,1005165
+9,Yuri Alberto,0,Centre-Forward,away,3-4-3,4316310,489893
+20,Pedro Raul,0,Centre-Forward,away,3-4-3,4316310,547443
+1,Walter,1,Goalkeeper,home,3-4-1-2,4316295,269860
+33,Alan Empereur,0,Centre-Back,home,3-4-1-2,4316295,169179
+4,Marllon,0,Centre-Back,home,3-4-1-2,4316295,166032
+44,Gabriel,0,Centre-Back,home,3-4-1-2,4316295,995883
+27,Denilson,0,Defensive Midfield,home,3-4-1-2,4316295,808507
+88,Fernando Sobral,0,Defensive Midfield,home,3-4-1-2,4316295,350342
+2,Matheus Alexandre,0,Right Midfield,home,3-4-1-2,4316295,617687
+23,Ramon,0,Left Midfield,home,3-4-1-2,4316295,663578
+18,Lucas Fernandes,0,Attacking Midfield,home,3-4-1-2,4316295,430761
+22,Derik Lacerda,0,Centre-Forward,home,3-4-1-2,4316295,700933
+9,Isidro Pitta,0,Centre-Forward,home,3-4-1-2,4316295,675178
+14,Mateus Pasinato,0,Goalkeeper,home,3-4-1-2,4316295,349418
+3,Allyson,0,Centre-Back,home,3-4-1-2,4316295,390695
+34,Bruno Alves,0,Centre-Back,home,3-4-1-2,4316295,177534
+20,Rikelme,0,Left-Back,home,3-4-1-2,4316295,862358
+63,Juan Pablo,0,Left-Back,home,3-4-1-2,4316295,933879
+21,Railan,0,Right-Back,home,3-4-1-2,4316295,752558
+30,Lucas Mineiro,0,Defensive Midfield,home,3-4-1-2,4316295,432958
+11,Eliel,0,Left Winger,home,3-4-1-2,4316295,1035650
+25,Clayson,0,Left Winger,home,3-4-1-2,4316295,392809
+97,André Luis,0,Right Winger,home,3-4-1-2,4316295,519851
+7,Jonathan Cafu,0,Right Winger,home,3-4-1-2,4316295,347100
+19,Luciano Giménez,0,Centre-Forward,home,3-4-1-2,4316295,985755
+21,Weverton,0,Goalkeeper,away,3-4-2-1,4316295,69400
+15,Gustavo Gómez,1,Centre-Back,away,3-4-2-1,4316295,215390
+26,Murilo,0,Centre-Back,away,3-4-2-1,4316295,458710
+2,Marcos Rocha,0,Centre-Back,away,3-4-2-1,4316295,75435
+5,Aníbal Moreno,0,Defensive Midfield,away,3-4-2-1,4316295,642758
+25,Gabriel Menino,0,Defensive Midfield,away,3-4-2-1,4316295,608216
+31,Luis Guilherme,0,Right Midfield,away,3-4-2-1,4316295,991800
+22,Joaquín Piquerez,0,Left Midfield,away,3-4-2-1,4316295,496268
+17,Lázaro,0,Attacking Midfield,away,3-4-2-1,4316295,574772
+9,Endrick,0,Attacking Midfield,away,3-4-2-1,4316295,971570
+10,Rony,0,Centre-Forward,away,3-4-2-1,4316295,371009
+14,Marcelo Lomba,0,Goalkeeper,away,3-4-2-1,4316295,53015
+13,Luan,0,Centre-Back,away,3-4-2-1,4316295,178984
+6,Vanderlan,0,Left-Back,away,3-4-2-1,4316295,816129
+16,Caio Paulista,0,Left-Back,away,3-4-2-1,4316295,601011
+12,Mayke,0,Right-Back,away,3-4-2-1,4316295,147361
+35,Fabinho,0,Defensive Midfield,away,3-4-2-1,4316295,627230
+8,Zé Rafael,0,Central Midfield,away,3-4-2-1,4316295,225432
+27,Richard Ríos,0,Central Midfield,away,3-4-2-1,4316295,735573
+20,Rômulo,0,Attacking Midfield,away,3-4-2-1,4316295,867461
+40,Jhon Jhon,0,Attacking Midfield,away,3-4-2-1,4316295,964582
+41,Estêvão,0,Right Winger,away,3-4-2-1,4316295,1056993
+42,José Manuel López,0,Centre-Forward,away,3-4-2-1,4316295,844797
+1,Lucas Arcanjo,0,Goalkeeper,home,3-4-1-2,4316289,645602
+4,Wagner Leonardo,0,Centre-Back,home,3-4-1-2,4316289,671572
+25,Bruno Uvini,0,Centre-Back,home,3-4-1-2,4316289,147396
+2,Zeca,1,Centre-Back,home,3-4-1-2,4316289,325196
+21,Dudu,0,Defensive Midfield,home,3-4-1-2,4316289,691811
+29,Willian Oliveira,0,Defensive Midfield,home,3-4-1-2,4316289,252900
+97,Willean Lepo,0,Right Midfield,home,3-4-1-2,4316289,544464
+14,PK,0,Left Midfield,home,3-4-1-2,4316289,373192
+30,Matheuzinho,0,Attacking Midfield,home,3-4-1-2,4316289,365368
+11,Osvaldo,0,Centre-Forward,home,3-4-1-2,4316289,76191
+39,Janderson,0,Centre-Forward,home,3-4-1-2,4316289,976561
+22,Muriel,0,Goalkeeper,home,3-4-1-2,4316289,27349
+40,Reynaldo,0,Centre-Back,home,3-4-1-2,4316289,514297
+3,Cristián Zapata,0,Centre-Back,home,3-4-1-2,4316289,34344
+16,Lucas Esteves,0,Left-Back,home,3-4-1-2,4316289,688668
+5,Léo Naldi,0,Defensive Midfield,home,3-4-1-2,4316289,859135
+15,Caio Vinicius,0,Defensive Midfield,home,3-4-1-2,4316289,565443
+10,Jean Mota,0,Central Midfield,home,3-4-1-2,4316289,215212
+80,Daniel Jr,0,Attacking Midfield,home,3-4-1-2,4316289,746358
+17,Zé Hugo,0,Left Winger,home,3-4-1-2,4316289,940479
+23,Mateus Gonçalves,0,Left Winger,home,3-4-1-2,4316289,352890
+9,Alerrandro,0,Centre-Forward,home,3-4-1-2,4316289,371996
+12,Luiz Adriano,0,Centre-Forward,home,3-4-1-2,4316289,48974
+23,Rafael,0,Goalkeeper,away,3-4-1-2,4316289,68097
+4,Diego Costa,0,Centre-Back,away,3-4-1-2,4316289,546212
+5,Robert Arboleda,0,Centre-Back,away,3-4-1-2,4316289,139867
+28,Alan Franco,0,Centre-Back,away,3-4-1-2,4316289,503343
+21,Damián Bobadilla,0,Defensive Midfield,away,3-4-1-2,4316289,861852
+25,Alisson,0,Defensive Midfield,away,3-4-1-2,4316289,229736
+2,Igor Vinícius,0,Right Midfield,away,3-4-1-2,4316289,552240
+15,Michel Araújo,0,Left Midfield,away,3-4-1-2,4316289,482144
+11,Rodrigo Nestor,0,Attacking Midfield,away,3-4-1-2,4316289,468304
+10,Luciano,0,Centre-Forward,away,3-4-1-2,4316289,223560
+9,Jonathan Calleri,1,Centre-Forward,away,3-4-1-2,4316289,284727
+93,Jandrei,0,Goalkeeper,away,3-4-1-2,4316289,512344
+35,Sabino,0,Centre-Back,away,3-4-1-2,4316289,546033
+32,Nahuel Ferraresi,0,Centre-Back,away,3-4-1-2,4316289,466336
+36,Patryck,0,Left-Back,away,3-4-1-2,4316289,662326
+30,João Moreira,0,Right-Back,away,3-4-1-2,4316289,929866
+16,Luiz Gustavo,0,Defensive Midfield,away,3-4-1-2,4316289,10471
+18,Rodriguinho,0,Central Midfield,away,3-4-1-2,4316289,743593
+8,Giuliano Galoppo,0,Attacking Midfield,away,3-4-1-2,4316289,567249
+47,Ferreirinha,0,Left Winger,away,3-4-1-2,4316289,689017
+33,Erick,0,Right Winger,away,3-4-1-2,4316289,515638
+17,André Silva,0,Centre-Forward,away,3-4-1-2,4316289,565232
+31,Juan,0,Centre-Forward,away,3-4-1-2,4316289,662332
+1,Cleiton,1,Goalkeeper,home,4-2-3-1,4316293,468247
+3,Eduardo Santos,0,Centre-Back,home,4-2-3-1,4316293,564546
+14,Pedro Henrique,0,Centre-Back,home,4-2-3-1,4316293,329720
+36,Luan Cândido,0,Left-Back,home,4-2-3-1,4316293,432166
+45,Nathan Mendes,0,Right-Back,home,4-2-3-1,4316293,887801
+29,Juninho Capixaba,0,Defensive Midfield,home,4-2-3-1,4316293,406676
+7,Eric Ramires,0,Central Midfield,home,4-2-3-1,4316293,614328
+22,Gustavo Neves,0,Attacking Midfield,home,4-2-3-1,4316293,1084081
+28,Vitinho,0,Left Winger,home,4-2-3-1,4316293,670965
+30,Henry Mosquera,0,Right Winger,home,4-2-3-1,4316293,975191
+19,Eduardo Sasha,0,Centre-Forward,home,4-2-3-1,4316293,162883
+40,Lucão,0,Goalkeeper,home,4-2-3-1,4316293,412372
+4,Lucas Cunha,0,Centre-Back,home,4-2-3-1,4316293,355496
+39,Douglas Mendes,0,Centre-Back,home,4-2-3-1,4316293,921863
+31,Guilherme Lopes,0,Left-Back,home,4-2-3-1,4316293,678502
+5,Jadsom,0,Defensive Midfield,home,4-2-3-1,4316293,612162
+35,Matheus Fernandes,0,Defensive Midfield,home,4-2-3-1,4316293,351892
+8,Lucas Evangelista,0,Central Midfield,home,4-2-3-1,4316293,270188
+10,Lincoln,0,Attacking Midfield,home,4-2-3-1,4316293,351738
+21,Talisson,0,Left Winger,home,4-2-3-1,4316293,1084074
+11,Helinho,0,Right Winger,home,4-2-3-1,4316293,412365
+33,Ignacio Laquintana,0,Right Winger,home,4-2-3-1,4316293,577407
+18,Thiago Borbas,0,Centre-Forward,home,4-2-3-1,4316293,743951
+1,Agustín Rossi,0,Goalkeeper,away,4-3-2-1,4316293,352324
+4,Léo Pereira,0,Centre-Back,away,4-3-2-1,4316293,288431
+3,Léo Ortiz,0,Centre-Back,away,4-3-2-1,4316293,374136
+6,Ayrton Lucas,0,Left-Back,away,4-3-2-1,4316293,349585
+43,Wesley,0,Right-Back,away,4-3-2-1,4316293,964580
+21,Allan,0,Defensive Midfield,away,4-3-2-1,4316293,385271
+48,Igor Jesus,0,Defensive Midfield,away,4-3-2-1,4316293,978037
+18,Nicolás de la Cruz,0,Central Midfield,away,4-3-2-1,4316293,397458
+8,Gerson,1,Attacking Midfield,away,4-3-2-1,4316293,341705
+27,Bruno Henrique,0,Second Striker,away,4-3-2-1,4316293,353108
+9,Pedro,0,Centre-Forward,away,4-3-2-1,4316293,432895
+25,Matheus Cunha,0,Goalkeeper,away,4-3-2-1,4316293,876739
+15,Fabrício Bruno,0,Centre-Back,away,4-3-2-1,4316293,432773
+23,David Luiz,0,Centre-Back,away,4-3-2-1,4316293,46741
+17,Matías Viña,0,Left-Back,away,4-3-2-1,4316293,439072
+2,Guillermo Varela,0,Right-Back,away,4-3-2-1,4316293,188862
+52,Evertton,0,Defensive Midfield,away,4-3-2-1,4316293,931007
+19,Lorran,0,Attacking Midfield,away,4-3-2-1,4316293,1009030
+29,Victor Hugo,0,Attacking Midfield,away,4-3-2-1,4316293,749559
+7,Luiz Araújo,0,Right Winger,away,4-3-2-1,4316293,435485
+20,Matheus Gonçalves,0,Right Winger,away,4-3-2-1,4316293,961046
+10,Gabriel Barbosa,0,Centre-Forward,away,4-3-2-1,4316293,244275
+22,Carlinhos,0,Centre-Forward,away,4-3-2-1,4316293,363173
+1,Fábio,0,Goalkeeper,home,4-2-3-1,4316290,22415
+26,Manoel,0,Centre-Back,home,4-2-3-1,4316290,113586
+30,Felipe Melo,1,Centre-Back,home,4-2-3-1,4316290,35537
+12,Marcelo,0,Left-Back,home,4-2-3-1,4316290,44501
+77,Marquinhos,0,Right-Back,home,4-2-3-1,4316290,668268
+8,Martinelli,0,Defensive Midfield,home,4-2-3-1,4316290,815558
+45,Lima,0,Defensive Midfield,home,4-2-3-1,4316290,387611
+90,Douglas Costa,0,Right Midfield,home,4-2-3-1,4316290,75615
+21,Jhon Arias,0,Left Midfield,home,4-2-3-1,4316290,588989
+10,Ganso,0,Attacking Midfield,home,4-2-3-1,4316290,67920
+14,Germán Cano,0,Centre-Forward,home,4-2-3-1,4316290,54590
+27,Felipe Alves,0,Goalkeeper,home,4-2-3-1,4316290,189682
+13,Felipe Andrade,0,Centre-Back,home,4-2-3-1,4316290,884070
+25,Antônio Carlos,0,Centre-Back,home,4-2-3-1,4316290,207446
+6,Diogo Barbosa,0,Left-Back,home,4-2-3-1,4316290,167724
+23,Guga,0,Right-Back,home,4-2-3-1,4316290,592344
+5,Alexsander,0,Defensive Midfield,home,4-2-3-1,4316290,997714
+20,Renato Augusto,0,Central Midfield,home,4-2-3-1,4316290,53058
+28,Arthur,0,Attacking Midfield,home,4-2-3-1,4316290,743585
+80,David Terans,0,Attacking Midfield,home,4-2-3-1,4316290,261309
+32,Isaac,0,Left Winger,home,4-2-3-1,4316290,1084667
+17,Jan Lucumi,0,Right Winger,home,4-2-3-1,4316290,909360
+19,Kauã Elias,0,Centre-Forward,home,4-2-3-1,4316290,1119009
+22,Everson,0,Goalkeeper,away,4-4-2,4316290,106032
+34,Jemerson,0,Centre-Back,away,4-4-2,4316290,258254
+21,Rodrigo Battaglia,0,Centre-Back,away,4-4-2,4316290,89297
+13,Guilherme Arana,0,Left-Back,away,4-4-2,4316290,346766
+26,Renzo Saravia,0,Right-Back,away,4-4-2,4316290,268642
+5,Otávio,0,Central Midfield,away,4-4-2,4316290,312314
+23,Alan Franco,0,Central Midfield,away,4-4-2,4316290,400960
+15,Matías Zaracho,0,Right Midfield,away,4-4-2,4316290,480774
+6,Gustavo Scarpa,0,Left Midfield,away,4-4-2,4316290,330085
+10,Paulinho,0,Centre-Forward,away,4-4-2,4316290,428791
+7,Hulk,1,Centre-Forward,away,4-4-2,4316290,80562
+31,Matheus Mendes,0,Goalkeeper,away,4-4-2,4316290,629077
+4,Mauricio Lemos,0,Centre-Back,away,4-4-2,4316290,303140
+16,Igor Rabello,0,Centre-Back,away,4-4-2,4316290,341701
+47,Rômulo,0,Centre-Back,away,4-4-2,4316290,743588
+25,Mariano,0,Right-Back,away,4-4-2,4316290,54155
+17,Igor Gomes,0,Attacking Midfield,away,4-4-2,4316290,553459
+30,Brahian Palacios,0,Right Winger,away,4-4-2,4316290,989925
+38,Pedrinho,0,Right Winger,away,4-4-2,4316290,515208
+45,Alisson,0,Right Winger,away,4-4-2,4316290,1083070
+11,Eduardo Vargas,0,Centre-Forward,away,4-4-2,4316290,89718
+14,Alan Kardec,0,Centre-Forward,away,4-4-2,4316290,53922
+42,Cadu,0,Centre-Forward,away,4-4-2,4316290,1083073
+22,Carlos Miguel,0,Goalkeeper,home,4-3-3 Attacking,4316272,641458
+3,Félix Torres,0,Centre-Back,home,4-3-3 Attacking,4316272,468174
+25,Cacá,0,Centre-Back,home,4-3-3 Attacking,4316272,603122
+46,Hugo,0,Left-Back,home,4-3-3 Attacking,4316272,730708
+23,Fagner,1,Right-Back,home,4-3-3 Attacking,4316272,47592
+14,Raniele,0,Defensive Midfield,home,4-3-3 Attacking,4316272,546530
+27,Breno Bidon,0,Central Midfield,home,4-3-3 Attacking,4316272,1029227
+10,Rodrigo Garro,0,Central Midfield,home,4-3-3 Attacking,4316272,565009
+36,Wesley,0,Left Winger,home,4-3-3 Attacking,4316272,1007378
+16,Pedro Henrique,0,Right Winger,home,4-3-3 Attacking,4316272,213368
+11,Ángel Romero,0,Centre-Forward,home,4-3-3 Attacking,4316272,262262
+12,Cássio,0,Goalkeeper,home,4-3-3 Attacking,4316272,50144
+4,Caetano,0,Centre-Back,home,4-3-3 Attacking,4316272,625345
+47,Tchoca,0,Centre-Back,home,4-3-3 Attacking,4316272,1005650
+21,Matheus Bidu,0,Left-Back,home,4-3-3 Attacking,4316272,670021
+2,Matheus França,0,Right-Back,home,4-3-3 Attacking,4316272,594226
+37,Ryan,0,Defensive Midfield,home,4-3-3 Attacking,4316272,1005642
+5,Fausto Vera,0,Defensive Midfield,home,4-3-3 Attacking,4316272,491701
+8,Paulinho,0,Central Midfield,home,4-3-3 Attacking,4316272,57229
+26,Biro,0,Right Winger,home,4-3-3 Attacking,4316272,743590
+19,Gustavo Silva,0,Right Winger,home,4-3-3 Attacking,4316272,636314
+17,Giovane,0,Centre-Forward,home,4-3-3 Attacking,4316272,1005165
+20,Pedro Raul,0,Centre-Forward,home,4-3-3 Attacking,4316272,547443
+1,Fábio,0,Goalkeeper,away,4-2-3-1,4316272,22415
+26,Manoel,0,Centre-Back,away,4-2-3-1,4316272,113586
+30,Felipe Melo,1,Centre-Back,away,4-2-3-1,4316272,35537
+12,Marcelo,0,Left-Back,away,4-2-3-1,4316272,44501
+23,Guga,0,Right-Back,away,4-2-3-1,4316272,592344
+8,Martinelli,0,Defensive Midfield,away,4-2-3-1,4316272,815558
+45,Lima,0,Defensive Midfield,away,4-2-3-1,4316272,387611
+77,Marquinhos,0,Right Midfield,away,4-2-3-1,4316272,668268
+21,Jhon Arias,0,Left Midfield,away,4-2-3-1,4316272,588989
+10,Ganso,0,Attacking Midfield,away,4-2-3-1,4316272,67920
+14,Germán Cano,0,Centre-Forward,away,4-2-3-1,4316272,54590
+27,Felipe Alves,0,Goalkeeper,away,4-2-3-1,4316272,189682
+46,Lucas Justen,0,Centre-Back,away,4-2-3-1,4316272,997717
+13,Felipe Andrade,0,Centre-Back,away,4-2-3-1,4316272,884070
+25,Antônio Carlos,0,Centre-Back,away,4-2-3-1,4316272,207446
+6,Diogo Barbosa,0,Left-Back,away,4-2-3-1,4316272,167724
+31,Calegari,0,Right-Back,away,4-2-3-1,4316272,686597
+20,Renato Augusto,0,Central Midfield,away,4-2-3-1,4316272,53058
+80,David Terans,0,Attacking Midfield,away,4-2-3-1,4316272,261309
+15,Matheus Reis,0,Left Winger,away,4-2-3-1,4316272,1124296
+32,Isaac,0,Left Winger,away,4-2-3-1,4316272,1084667
+90,Douglas Costa,0,Right Winger,away,4-2-3-1,4316272,75615
+17,Jan Lucumi,0,Right Winger,away,4-2-3-1,4316272,909360
+12,John Victor,0,Goalkeeper,home,4-2-3-1,4316291,432914
+3,Lucas Halter,0,Centre-Back,home,4-2-3-1,4316291,468302
+15,Bastos,0,Centre-Back,home,4-2-3-1,4316291,195810
+16,Hugo,0,Left-Back,home,4-2-3-1,4316291,740157
+22,Damián Suárez,0,Right-Back,home,4-2-3-1,4316291,76746
+17,Marlon Freitas,1,Defensive Midfield,home,4-2-3-1,4316291,364972
+5,Danilo Barbosa,0,Defensive Midfield,home,4-2-3-1,4316291,273438
+7,Luiz Henrique,0,Right Midfield,home,4-2-3-1,4316291,800175
+47,Jeffinho,0,Left Midfield,home,4-2-3-1,4316291,884072
+10,Jefferson Savarino,0,Attacking Midfield,home,4-2-3-1,4316291,309193
+11,Júnior Santos,0,Centre-Forward,home,4-2-3-1,4316291,592347
+1,Gatito Fernández,0,Goalkeeper,home,4-2-3-1,4316291,107318
+97,Raul,0,Goalkeeper,home,4-2-3-1,4316291,520093
+20,Alexander Barboza,0,Centre-Back,home,4-2-3-1,4316291,379752
+66,Cuiabano,0,Left-Back,home,4-2-3-1,4316291,891353
+4,Mateo Ponte,0,Right-Back,home,4-2-3-1,4316291,856047
+26,Gregore,0,Defensive Midfield,home,4-2-3-1,4316291,546036
+8,Patrick de Paula,0,Central Midfield,home,4-2-3-1,4316291,737821
+70,Óscar Romero,0,Attacking Midfield,home,4-2-3-1,4316291,217886
+77,Diego Hernández,0,Attacking Midfield,home,4-2-3-1,4316291,800732
+32,Jacob Montes,0,Attacking Midfield,home,4-2-3-1,4316291,497494
+67,Yarlen,0,Left Winger,home,4-2-3-1,4316291,1241278
+22,Marcos Felipe,0,Goalkeeper,away,4-4-2 Diamond,4316291,283166
+3,Gabriel Xavier,0,Centre-Back,away,4-4-2 Diamond,4316291,740501
+4,Kanu,0,Centre-Back,away,4-4-2 Diamond,4316291,524446
+46,Luciano Juba,0,Left-Back,away,4-4-2 Diamond,4316291,676035
+13,Santiago Arias,0,Right-Back,away,4-4-2 Diamond,4316291,120443
+19,Caio Alexandre,0,Defensive Midfield,away,4-4-2 Diamond,4316291,727751
+10,Everton Ribeiro,1,Right Midfield,away,4-4-2 Diamond,4316291,52896
+6,Jean Lucas,0,Left Midfield,away,4-4-2 Diamond,4316291,578872
+8,Cauly,0,Attacking Midfield,away,4-4-2 Diamond,4316291,162812
+16,Thaciano,0,Centre-Forward,away,4-4-2 Diamond,4316291,392487
+9,Everaldo,0,Centre-Forward,away,4-4-2 Diamond,4316291,205041
+1,Danilo Fernandes,0,Goalkeeper,away,4-4-2 Diamond,4316291,99439
+15,Victor Cuesta,0,Centre-Back,away,4-4-2 Diamond,4316291,104326
+33,David Duarte,0,Centre-Back,away,4-4-2 Diamond,4316291,373446
+2,Gilberto,0,Right-Back,away,4-4-2 Diamond,4316291,231614
+40,Cicinho,0,Right-Back,away,4-4-2 Diamond,4316291,101294
+5,Rezende,0,Defensive Midfield,away,4-4-2 Diamond,4316291,793815
+14,Carlos de Pena,0,Central Midfield,away,4-4-2 Diamond,4316291,257740
+20,Yago Felipe,0,Central Midfield,away,4-4-2 Diamond,4316291,346935
+11,Biel,0,Left Winger,away,4-4-2 Diamond,4316291,875328
+21,Rafael Ratão,0,Left Winger,away,4-4-2 Diamond,4316291,289802
+7,Ademir,0,Right Winger,away,4-4-2 Diamond,4316291,544259
+29,Óscar Estupiñán,0,Centre-Forward,away,4-4-2 Diamond,4316291,388266
+22,Marcos Felipe,0,Goalkeeper,home,4-2-3-1,4316269,283166
+3,Gabriel Xavier,0,Centre-Back,home,4-2-3-1,4316269,740501
+4,Kanu,0,Centre-Back,home,4-2-3-1,4316269,524446
+46,Luciano Juba,0,Left-Back,home,4-2-3-1,4316269,676035
+13,Santiago Arias,0,Right-Back,home,4-2-3-1,4316269,120443
+19,Caio Alexandre,0,Defensive Midfield,home,4-2-3-1,4316269,727751
+6,Jean Lucas,0,Defensive Midfield,home,4-2-3-1,4316269,578872
+10,Everton Ribeiro,1,Right Midfield,home,4-2-3-1,4316269,52896
+16,Thaciano,0,Left Midfield,home,4-2-3-1,4316269,392487
+8,Cauly,0,Attacking Midfield,home,4-2-3-1,4316269,162812
+9,Everaldo,0,Centre-Forward,home,4-2-3-1,4316269,205041
+1,Danilo Fernandes,0,Goalkeeper,home,4-2-3-1,4316269,99439
+33,David Duarte,0,Centre-Back,home,4-2-3-1,4316269,373446
+44,Marcos Victor,0,Centre-Back,home,4-2-3-1,4316269,980463
+2,Gilberto,0,Right-Back,home,4-2-3-1,4316269,231614
+40,Cicinho,0,Right-Back,home,4-2-3-1,4316269,101294
+5,Rezende,0,Defensive Midfield,home,4-2-3-1,4316269,793815
+14,Carlos de Pena,0,Central Midfield,home,4-2-3-1,4316269,257740
+20,Yago Felipe,0,Central Midfield,home,4-2-3-1,4316269,346935
+11,Biel,0,Left Winger,home,4-2-3-1,4316269,875328
+21,Rafael Ratão,0,Left Winger,home,4-2-3-1,4316269,289802
+7,Ademir,0,Right Winger,home,4-2-3-1,4316269,544259
+29,Óscar Estupiñán,0,Centre-Forward,home,4-2-3-1,4316269,388266
+33,Rafael Cabral,0,Goalkeeper,away,4-3-3 Attacking,4316269,103916
+4,Walter Kannemann,1,Centre-Back,away,4-3-3 Attacking,4316269,145400
+5,Rodrigo Ely,0,Centre-Back,away,4-3-3 Attacking,4316269,176140
+2,Fábio,0,Left-Back,away,4-3-3 Attacking,4316269,61891
+18,João Pedro,0,Right-Back,away,4-3-3 Attacking,4316269,342024
+17,Dodi,0,Defensive Midfield,away,4-3-3 Attacking,4316269,373174
+20,Mathías Villasanti,0,Central Midfield,away,4-3-3 Attacking,4316269,436385
+37,Du Queiroz,0,Central Midfield,away,4-3-3 Attacking,4316269,906774
+7,Yeferson Soteldo,0,Left Winger,away,4-3-3 Attacking,4316269,312294
+15,Edenilson,0,Right Winger,away,4-3-3 Attacking,4316269,169052
+19,Diego Costa,0,Centre-Forward,away,4-3-3 Attacking,4316269,44779
+97,Caíque,0,Goalkeeper,away,4-3-3 Attacking,4316269,384159
+36,Natã,0,Centre-Back,away,4-3-3 Attacking,4316269,978004
+46,Zé Guilherme,0,Left-Back,away,4-3-3 Attacking,4316269,1084816
+51,Wesley Costa,0,Left-Back,away,4-3-3 Attacking,4316269,1082969
+35,Ronald Falkoski,0,Defensive Midfield,away,4-3-3 Attacking,4316269,959092
+8,Felipe Carballo,0,Central Midfield,away,4-3-3 Attacking,4316269,394930
+10,Franco Cristaldo,0,Attacking Midfield,away,4-3-3 Attacking,4316269,332259
+14,Nathan,0,Attacking Midfield,away,4-3-3 Attacking,4316269,294798
+39,Gustavo Nunes,0,Left Winger,away,4-3-3 Attacking,4316269,1086375
+13,Everton Galdino,0,Right Winger,away,4-3-3 Attacking,4316269,458251
+32,Nathan Fernandes,0,Right Winger,away,4-3-3 Attacking,4316269,1083600
+11,João Pedro,0,Centre-Forward,away,4-3-3 Attacking,4316269,129129
+1,Sergio Rochet,0,Goalkeeper,home,4-4-2,4316267,264014
+25,Gabriel Mercado,0,Centre-Back,home,4-4-2,4316267,45319
+44,Vitão,0,Centre-Back,home,4-4-2,4316267,428783
+6,Renê,0,Left-Back,home,4-4-2,4316267,212209
+16,Fabricio Bustos,0,Right-Back,home,4-4-2,4316267,275381
+29,Thiago Maia,0,Central Midfield,home,4-4-2,4316267,294873
+8,Bruno Henrique,0,Central Midfield,home,4-4-2,4316267,277335
+21,Wesley,0,Right Midfield,home,4-4-2,4316267,674732
+27,Mauricio,1,Left Midfield,home,4-4-2,4316267,678439
+19,Rafael Borré,0,Centre-Forward,home,4-4-2,4316267,323831
+45,Lucca,0,Centre-Forward,home,4-4-2,4316267,982549
+12,Fabrício,0,Goalkeeper,home,4-4-2,4316267,150479
+4,Robert Renan,0,Centre-Back,home,4-4-2,4316267,958598
+3,Igor Gomes,0,Centre-Back,home,4-4-2,4316267,689640
+26,Alexandro Bernabéi,0,Left-Back,home,4-4-2,4316267,719635
+2,Hugo Mallo,0,Right-Back,home,4-4-2,4316267,119905
+5,Fernando,0,Defensive Midfield,home,4-4-2,4316267,51174
+15,Bruno Gomes,0,Defensive Midfield,home,4-4-2,4316267,703322
+40,Rômulo,0,Defensive Midfield,home,4-4-2,4316267,687359
+41,Matheus Dias,0,Defensive Midfield,home,4-4-2,4316267,815384
+47,Gustavo Prado,0,Central Midfield,home,4-4-2,4316267,1095552
+34,Gabriel Carvalho,0,Attacking Midfield,home,4-4-2,4316267,1089144
+31,Lucas Alario,0,Centre-Forward,home,4-4-2,4316267,193782
+1,Ronaldo,1,Goalkeeper,away,4-2-3-1,4316267,387925
+3,Adriano Martins,0,Centre-Back,away,4-2-3-1,4316267,739272
+4,Alix,0,Centre-Back,away,4-2-3-1,4316267,880217
+6,Guilherme Romão,0,Left-Back,away,4-2-3-1,4316267,519879
+2,Bruno Tubarão,0,Right-Back,away,4-2-3-1,4316267,550178
+5,Roni,0,Defensive Midfield,away,4-2-3-1,4316267,725049
+8,Rhaldney,0,Defensive Midfield,away,4-2-3-1,4316267,638269
+7,Maguinho,0,Right Midfield,away,4-2-3-1,4316267,350766
+10,Shaylon,0,Left Midfield,away,4-2-3-1,4316267,480274
+11,Luiz Fernando,0,Attacking Midfield,away,4-2-3-1,4316267,372013
+9,Emiliano Rodríguez,0,Centre-Forward,away,4-2-3-1,4316267,982198
+12,Pedro Rangel,0,Goalkeeper,away,4-2-3-1,4316267,841263
+13,Pedro Henrique,0,Centre-Back,away,4-2-3-1,4316267,164015
+15,Yeferson Rodallega,0,Left-Back,away,4-2-3-1,4316267,848561
+14,Lucas Kal,0,Defensive Midfield,away,4-2-3-1,4316267,435489
+16,Danielzinho,0,Central Midfield,away,4-2-3-1,4316267,418530
+20,Alejo Cruz,0,Left Winger,away,4-2-3-1,4316267,868491
+19,Max,0,Right Winger,away,4-2-3-1,4316267,1226150
+17,Derek,0,Centre-Forward,away,4-2-3-1,4316267,719251
+18,Vágner Love,0,Centre-Forward,away,4-2-3-1,4316267,18829
+23,Rafael,0,Goalkeeper,home,3-4-2-1,4316273,68097
+4,Diego Costa,0,Centre-Back,home,3-4-2-1,4316273,546212
+5,Robert Arboleda,0,Centre-Back,home,3-4-2-1,4316273,139867
+28,Alan Franco,0,Centre-Back,home,3-4-2-1,4316273,503343
+21,Damián Bobadilla,0,Defensive Midfield,home,3-4-2-1,4316273,861852
+25,Alisson,0,Defensive Midfield,home,3-4-2-1,4316273,229736
+2,Igor Vinícius,0,Right Midfield,home,3-4-2-1,4316273,552240
+6,Welington,0,Left Midfield,home,3-4-2-1,4316273,729264
+10,Luciano,0,Attacking Midfield,home,3-4-2-1,4316273,223560
+17,André Silva,0,Attacking Midfield,home,3-4-2-1,4316273,565232
+9,Jonathan Calleri,1,Centre-Forward,home,3-4-2-1,4316273,284727
+93,Jandrei,0,Goalkeeper,home,3-4-2-1,4316273,512344
+32,Nahuel Ferraresi,0,Centre-Back,home,3-4-2-1,4316273,466336
+36,Patryck,0,Left-Back,home,3-4-2-1,4316273,662326
+30,João Moreira,0,Right-Back,home,3-4-2-1,4316273,929866
+16,Luiz Gustavo,0,Defensive Midfield,home,3-4-2-1,4316273,10471
+11,Rodrigo Nestor,0,Central Midfield,home,3-4-2-1,4316273,468304
+15,Michel Araújo,0,Attacking Midfield,home,3-4-2-1,4316273,482144
+55,James Rodríguez,0,Attacking Midfield,home,3-4-2-1,4316273,88103
+8,Giuliano Galoppo,0,Attacking Midfield,home,3-4-2-1,4316273,567249
+47,Ferreirinha,0,Left Winger,home,3-4-2-1,4316273,689017
+33,Erick,0,Right Winger,home,3-4-2-1,4316273,515638
+31,Juan,0,Centre-Forward,home,3-4-2-1,4316273,662332
+21,Weverton,0,Goalkeeper,away,4-2-3-1,4316273,69400
+15,Gustavo Gómez,1,Centre-Back,away,4-2-3-1,4316273,215390
+26,Murilo,0,Centre-Back,away,4-2-3-1,4316273,458710
+22,Joaquín Piquerez,0,Left-Back,away,4-2-3-1,4316273,496268
+2,Marcos Rocha,0,Right-Back,away,4-2-3-1,4316273,75435
+5,Aníbal Moreno,0,Defensive Midfield,away,4-2-3-1,4316273,642758
+27,Richard Ríos,0,Defensive Midfield,away,4-2-3-1,4316273,735573
+41,Estêvão,0,Right Midfield,away,4-2-3-1,4316273,1056993
+9,Endrick,0,Left Midfield,away,4-2-3-1,4316273,971570
+23,Raphael Veiga,0,Attacking Midfield,away,4-2-3-1,4316273,432953
+42,José Manuel López,0,Centre-Forward,away,4-2-3-1,4316273,844797
+14,Marcelo Lomba,0,Goalkeeper,away,4-2-3-1,4316273,53015
+13,Luan,0,Centre-Back,away,4-2-3-1,4316273,178984
+6,Vanderlan,0,Left-Back,away,4-2-3-1,4316273,816129
+16,Caio Paulista,0,Left-Back,away,4-2-3-1,4316273,601011
+12,Mayke,0,Right-Back,away,4-2-3-1,4316273,147361
+32,Garcia,0,Right-Back,away,4-2-3-1,4316273,574758
+35,Fabinho,0,Defensive Midfield,away,4-2-3-1,4316273,627230
+25,Gabriel Menino,0,Central Midfield,away,4-2-3-1,4316273,608216
+20,Rômulo,0,Attacking Midfield,away,4-2-3-1,4316273,867461
+17,Lázaro,0,Left Winger,away,4-2-3-1,4316273,574772
+31,Luis Guilherme,0,Right Winger,away,4-2-3-1,4316273,991800
+10,Rony,0,Centre-Forward,away,4-2-3-1,4316273,371009
+1,Agustín Rossi,0,Goalkeeper,home,4-2-3-1,4316270,352324
+4,Léo Pereira,0,Centre-Back,home,4-2-3-1,4316270,288431
+15,Fabrício Bruno,0,Centre-Back,home,4-2-3-1,4316270,432773
+6,Ayrton Lucas,0,Left-Back,home,4-2-3-1,4316270,349585
+2,Guillermo Varela,0,Right-Back,home,4-2-3-1,4316270,188862
+5,Erick Pulgar,0,Defensive Midfield,home,4-2-3-1,4316270,215616
+18,Nicolás de la Cruz,0,Defensive Midfield,home,4-2-3-1,4316270,397458
+7,Luiz Araújo,0,Right Midfield,home,4-2-3-1,4316270,435485
+27,Bruno Henrique,0,Left Midfield,home,4-2-3-1,4316270,353108
+14,Giorgian de Arrascaeta,1,Attacking Midfield,home,4-2-3-1,4316270,248410
+9,Pedro,0,Centre-Forward,home,4-2-3-1,4316270,432895
+25,Matheus Cunha,0,Goalkeeper,home,4-2-3-1,4316270,876739
+3,Léo Ortiz,0,Centre-Back,home,4-2-3-1,4316270,374136
+23,David Luiz,0,Centre-Back,home,4-2-3-1,4316270,46741
+17,Matías Viña,0,Left-Back,home,4-2-3-1,4316270,439072
+43,Wesley,0,Right-Back,home,4-2-3-1,4316270,964580
+21,Allan,0,Defensive Midfield,home,4-2-3-1,4316270,385271
+48,Igor Jesus,0,Defensive Midfield,home,4-2-3-1,4316270,978037
+8,Gerson,0,Central Midfield,home,4-2-3-1,4316270,341705
+19,Lorran,0,Attacking Midfield,home,4-2-3-1,4316270,1009030
+29,Victor Hugo,0,Attacking Midfield,home,4-2-3-1,4316270,749559
+20,Matheus Gonçalves,0,Right Winger,home,4-2-3-1,4316270,961046
+22,Carlinhos,0,Centre-Forward,home,4-2-3-1,4316270,363173
+12,John Victor,0,Goalkeeper,away,4-4-2,4316270,432914
+3,Lucas Halter,0,Centre-Back,away,4-4-2,4316270,468302
+15,Bastos,0,Centre-Back,away,4-4-2,4316270,195810
+16,Hugo,0,Left-Back,away,4-4-2,4316270,740157
+22,Damián Suárez,0,Right-Back,away,4-4-2,4316270,76746
+17,Marlon Freitas,1,Central Midfield,away,4-4-2,4316270,364972
+5,Danilo Barbosa,0,Central Midfield,away,4-4-2,4316270,273438
+10,Jefferson Savarino,0,Right Midfield,away,4-4-2,4316270,309193
+7,Luiz Henrique,0,Left Midfield,away,4-4-2,4316270,800175
+33,Eduardo,0,Centre-Forward,away,4-4-2,4316270,110078
+11,Júnior Santos,0,Centre-Forward,away,4-4-2,4316270,592347
+1,Gatito Fernández,0,Goalkeeper,away,4-4-2,4316270,107318
+20,Alexander Barboza,0,Centre-Back,away,4-4-2,4316270,379752
+44,Luis Segovia,0,Centre-Back,away,4-4-2,4316270,385639
+66,Cuiabano,0,Left-Back,away,4-4-2,4316270,891353
+4,Mateo Ponte,0,Right-Back,away,4-4-2,4316270,856047
+26,Gregore,0,Defensive Midfield,away,4-4-2,4316270,546036
+8,Patrick de Paula,0,Central Midfield,away,4-4-2,4316270,737821
+6,Tchê Tchê,0,Central Midfield,away,4-4-2,4316270,364261
+70,Óscar Romero,0,Attacking Midfield,away,4-4-2,4316270,217886
+77,Diego Hernández,0,Attacking Midfield,away,4-4-2,4316270,800732
+67,Yarlen,0,Left Winger,away,4-4-2,4316270,1241278
+47,Jeffinho,0,Left Winger,away,4-4-2,4316270,884072
+1,Gabriel,0,Goalkeeper,home,4-2-3-1,4316276,79242
+3,Zé Marcos,0,Centre-Back,home,4-2-3-1,4316276,323850
+4,Danilo Boza,0,Centre-Back,home,4-2-3-1,4316276,606136
+28,Alan Ruschel,0,Left-Back,home,4-2-3-1,4316276,75080
+2,João Lucas,0,Right-Back,home,4-2-3-1,4316276,672292
+95,Caíque Gonçalves,0,Defensive Midfield,home,4-2-3-1,4316276,555310
+16,Jádson,0,Central Midfield,home,4-2-3-1,4316276,205179
+10,Nenê,1,Attacking Midfield,home,4-2-3-1,4316276,29091
+11,Marcelinho,0,Left Winger,home,4-2-3-1,4316276,813120
+21,Lucas Barbosa,0,Right Winger,home,4-2-3-1,4316276,816144
+7,Erick Farias,0,Centre-Forward,home,4-2-3-1,4316276,535037
+33,Renan,0,Goalkeeper,home,4-2-3-1,4316276,68102
+15,Mateus Schaffer,0,Centre-Back,home,4-2-3-1,4316276,1260621
+23,Abner,0,Centre-Back,home,4-2-3-1,4316276,1086632
+36,Da Rocha,0,Left-Back,home,4-2-3-1,4316276,1096266
+12,Gabriel Inocêncio,0,Right-Back,home,4-2-3-1,4316276,788402
+22,João Vitor,0,Right-Back,home,4-2-3-1,4316276,1226336
+8,Thiago Conti,0,Central Midfield,home,4-2-3-1,4316276,583064
+44,Mandaca,0,Central Midfield,home,4-2-3-1,4316276,892091
+29,Ruan,0,Left Winger,home,4-2-3-1,4316276,1053933
+37,Rildo,0,Right Winger,home,4-2-3-1,4316276,800177
+75,Kleiton,0,Right Winger,home,4-2-3-1,4316276,658665
+45,Werik Popó,0,Centre-Forward,home,4-2-3-1,4316276,902507
+1,Bento,0,Goalkeeper,away,4-2-3-1,4316276,691906
+15,Mateo Gamarra,0,Centre-Back,away,4-2-3-1,4316276,661245
+4,Kaique Rocha,0,Centre-Back,away,4-2-3-1,4316276,633377
+37,Lucas Esquivel,0,Left-Back,away,4-2-3-1,4316276,829969
+29,Leonardo Godoy,0,Right-Back,away,4-2-3-1,4316276,369556
+26,Erick,0,Defensive Midfield,away,4-2-3-1,4316276,633212
+23,Felipinho,0,Central Midfield,away,4-2-3-1,4316276,1115489
+5,Fernandinho,0,Attacking Midfield,away,4-2-3-1,4316276,26267
+88,Christian,0,Left Winger,away,4-2-3-1,4316276,658678
+28,Tomás Cuello,0,Right Winger,away,4-2-3-1,4316276,503052
+92,Pablo,0,Centre-Forward,away,4-2-3-1,4316276,148765
+41,Mycael,0,Goalkeeper,away,4-2-3-1,4316276,743586
+24,Léo Linck,0,Goalkeeper,away,4-2-3-1,4316276,742034
+46,Marcos André,0,Centre-Back,away,4-2-3-1,4316276,1196689
+6,Fernando,0,Left-Back,away,4-2-3-1,4316276,731057
+22,Madson,0,Right-Back,away,4-2-3-1,4316276,177845
+3,Gabriel,0,Defensive Midfield,away,4-2-3-1,4316276,213606
+30,Zé Vitor,0,Central Midfield,away,4-2-3-1,4316276,825780
+80,Alex Santana,0,Central Midfield,away,4-2-3-1,4316276,219835
+11,Nikão,0,Attacking Midfield,away,4-2-3-1,4316276,149572
+10,Bruno Zapelli,0,Attacking Midfield,away,4-2-3-1,4316276,711600
+9,Gonzalo Mastriani,0,Centre-Forward,away,4-2-3-1,4316276,195882
+20,Julimar,0,Centre-Forward,away,4-2-3-1,4316276,593205
+1,Walter,1,Goalkeeper,home,5-4-1,4316275,269860
+33,Alan Empereur,0,Centre-Back,home,5-4-1,4316275,169179
+4,Marllon,0,Centre-Back,home,5-4-1,4316275,166032
+34,Bruno Alves,0,Centre-Back,home,5-4-1,4316275,177534
+20,Rikelme,0,Left-Back,home,5-4-1,4316275,862358
+2,Matheus Alexandre,0,Right-Back,home,5-4-1,4316275,617687
+27,Denilson,0,Central Midfield,home,5-4-1,4316275,808507
+88,Fernando Sobral,0,Central Midfield,home,5-4-1,4316275,350342
+25,Clayson,0,Left Winger,home,5-4-1,4316275,392809
+22,Derik Lacerda,0,Right Winger,home,5-4-1,4316275,700933
+9,Isidro Pitta,0,Centre-Forward,home,5-4-1,4316275,675178
+12,Rhyan,0,Goalkeeper,home,5-4-1,4316275,1116620
+14,Mateus Pasinato,0,Goalkeeper,home,5-4-1,4316275,349418
+3,Allyson,0,Centre-Back,home,5-4-1,4316275,390695
+44,Gabriel,0,Centre-Back,home,5-4-1,4316275,995883
+23,Ramon,0,Left-Back,home,5-4-1,4316275,663578
+21,Railan,0,Right-Back,home,5-4-1,4316275,752558
+8,Guilherme Madruga,0,Defensive Midfield,home,5-4-1,4316275,1081036
+18,Lucas Fernandes,0,Attacking Midfield,home,5-4-1,4316275,430761
+11,Eliel,0,Left Winger,home,5-4-1,4316275,1035650
+97,André Luis,0,Right Winger,home,5-4-1,4316275,519851
+7,Jonathan Cafu,0,Right Winger,home,5-4-1,4316275,347100
+19,Luciano Giménez,0,Centre-Forward,home,5-4-1,4316275,985755
+22,Everson,0,Goalkeeper,away,3-5-2 flat,4316275,106032
+3,Bruno Fuchs,0,Centre-Back,away,3-5-2 flat,4316275,563692
+4,Mauricio Lemos,0,Centre-Back,away,3-5-2 flat,4316275,303140
+26,Renzo Saravia,0,Centre-Back,away,3-5-2 flat,4316275,268642
+5,Otávio,1,Defensive Midfield,away,3-5-2 flat,4316275,312314
+23,Alan Franco,0,Central Midfield,away,3-5-2 flat,4316275,400960
+15,Matías Zaracho,0,Central Midfield,away,3-5-2 flat,4316275,480774
+45,Alisson,0,Right Midfield,away,3-5-2 flat,4316275,1083070
+6,Gustavo Scarpa,0,Left Midfield,away,3-5-2 flat,4316275,330085
+10,Paulinho,0,Centre-Forward,away,3-5-2 flat,4316275,428791
+11,Eduardo Vargas,0,Centre-Forward,away,3-5-2 flat,4316275,89718
+31,Matheus Mendes,0,Goalkeeper,away,3-5-2 flat,4316275,629077
+16,Igor Rabello,0,Centre-Back,away,3-5-2 flat,4316275,341701
+34,Jemerson,0,Centre-Back,away,3-5-2 flat,4316275,258254
+13,Guilherme Arana,0,Left-Back,away,3-5-2 flat,4316275,346766
+25,Mariano,0,Right-Back,away,3-5-2 flat,4316275,54155
+21,Rodrigo Battaglia,0,Defensive Midfield,away,3-5-2 flat,4316275,89297
+17,Igor Gomes,0,Attacking Midfield,away,3-5-2 flat,4316275,553459
+30,Brahian Palacios,0,Right Winger,away,3-5-2 flat,4316275,989925
+38,Pedrinho,0,Right Winger,away,3-5-2 flat,4316275,515208
+41,Isaac,0,Centre-Forward,away,3-5-2 flat,4316275,1083069
+14,Alan Kardec,0,Centre-Forward,away,3-5-2 flat,4316275,53922
+42,Cadu,0,Centre-Forward,away,3-5-2 flat,4316275,1083073
+1,Léo Jardim,0,Goalkeeper,home,4-2-3-1,4316271,288415
+3,Léo,0,Centre-Back,home,4-2-3-1,4316271,403296
+17,Gary Medel,1,Centre-Back,home,4-2-3-1,4316271,60889
+6,Lucas Piton,0,Left-Back,home,4-2-3-1,4316271,670201
+96,Paulo Henrique,0,Right-Back,home,4-2-3-1,4316271,412594
+20,Juan Sforza,0,Defensive Midfield,home,4-2-3-1,4316271,659264
+25,Hugo Moura,0,Defensive Midfield,home,4-2-3-1,4316271,644157
+77,Rayan,0,Right Midfield,home,4-2-3-1,4316271,1012564
+7,David,0,Left Midfield,home,4-2-3-1,4316271,373189
+10,Dimitri Payet,0,Attacking Midfield,home,4-2-3-1,4316271,37647
+99,Pablo Vegetti,0,Centre-Forward,home,4-2-3-1,4316271,334229
+13,Keiller,0,Goalkeeper,home,4-2-3-1,4316271,417084
+4,Maicon,0,Centre-Back,home,4-2-3-1,4316271,84695
+32,Robert Rojas,0,Centre-Back,home,4-2-3-1,4316271,527494
+38,João Victor,0,Centre-Back,home,4-2-3-1,4316271,671145
+12,Victor Luís,0,Left-Back,home,4-2-3-1,4316271,234538
+85,Mateus Carvalho,0,Central Midfield,home,4-2-3-1,4316271,862574
+98,JP,0,Central Midfield,home,4-2-3-1,4316271,1083970
+27,Pablo Galdames,0,Central Midfield,home,4-2-3-1,4316271,313830
+16,Erick Marcus,0,Left Winger,home,4-2-3-1,4316271,834481
+28,Adson,0,Right Winger,home,4-2-3-1,4316271,868891
+31,Rossi,0,Right Winger,home,4-2-3-1,4316271,212114
+9,Clayton,0,Centre-Forward,home,4-2-3-1,4316271,733579
+1,Gustavo,0,Goalkeeper,away,4-4-2,4316271,667411
+3,Rodrigo,1,Centre-Back,away,4-4-2,4316271,349420
+4,Wilker Ángel,0,Centre-Back,away,4-4-2,4316271,178400
+22,Marcelo Hermes,0,Left-Back,away,4-4-2,4316271,348769
+27,Claudinho,0,Right-Back,away,4-4-2,4316271,697845
+5,Meritão,0,Central Midfield,away,4-4-2,4316271,646432
+88,Barreto,0,Central Midfield,away,4-4-2,4316271,348262
+7,Fellipe Mateus,0,Right Midfield,away,4-4-2,4316271,520470
+10,Marquinhos Gabriel,0,Left Midfield,away,4-4-2,4316271,100091
+11,Yannick Bolasie,0,Centre-Forward,away,4-4-2,4316271,75471
+35,Arthur Caíke,0,Centre-Forward,away,4-4-2,4316271,224481
+25,Alisson,0,Goalkeeper,away,4-4-2,4316271,375532
+32,Matheus Teixeira,0,Goalkeeper,away,4-4-2,4316271,598975
+33,Maia,0,Centre-Back,away,4-4-2,4316271,188715
+14,Miguel Trauco,0,Left-Back,away,4-4-2,4316271,177690
+19,Yerson Candelo,0,Right-Back,away,4-4-2,4316271,158333
+6,Ronald,0,Defensive Midfield,away,4-4-2,4316271,688684
+8,Newton,0,Defensive Midfield,away,4-4-2,4316271,811219
+30,Mateo Barcia,0,Defensive Midfield,away,4-4-2,4316271,891569
+17,Matheusinho,0,Attacking Midfield,away,4-4-2,4316271,401533
+21,João Carlos,0,Right Winger,away,4-4-2,4316271,738502
+9,Felipe Vizeu,0,Centre-Forward,away,4-4-2,4316271,425462
+23,Éder,0,Centre-Forward,away,4-4-2,4316271,37418
+98,Anderson,0,Goalkeeper,home,4-3-3 Attacking,4316268,598974
+5,Zé Ivaldo,0,Centre-Back,home,4-3-3 Attacking,4316268,484848
+43,João Marcelo,0,Centre-Back,home,4-3-3 Attacking,4316268,744024
+3,Marlon,0,Left-Back,home,4-3-3 Attacking,4316268,406675
+12,William,0,Right-Back,home,4-3-3 Attacking,4316268,341710
+29,Lucas Romero,0,Defensive Midfield,home,4-3-3 Attacking,4316268,242201
+16,Lucas Silva,1,Central Midfield,home,4-3-3 Attacking,4316268,218118
+18,José Cifuentes,0,Central Midfield,home,4-3-3 Attacking,4316268,450211
+11,Arthur Gomes,0,Left Winger,home,4-3-3 Attacking,4316268,401534
+8,Rafa Silva,0,Right Winger,home,4-3-3 Attacking,4316268,213619
+10,Matheus Pereira,0,Centre-Forward,home,4-3-3 Attacking,4316268,225984
+41,Léo Aragão,0,Goalkeeper,home,4-3-3 Attacking,4316268,1022342
+25,Lucas Villalba,0,Centre-Back,home,4-3-3 Attacking,4316268,240913
+27,Neris,0,Centre-Back,home,4-3-3 Attacking,4316268,349513
+6,Kaiki,0,Left-Back,home,4-3-3 Attacking,4316268,879217
+28,Helibelton Palacios,0,Right-Back,home,4-3-3 Attacking,4316268,211389
+23,Filipe Machado,0,Defensive Midfield,home,4-3-3 Attacking,4316268,520629
+22,Vitinho,0,Attacking Midfield,home,4-3-3 Attacking,4316268,1072630
+7,Mateus Vital,0,Attacking Midfield,home,4-3-3 Attacking,4316268,408958
+21,Álvaro Barreal,0,Left Winger,home,4-3-3 Attacking,4316268,613873
+30,Gabriel Veron,0,Right Winger,home,4-3-3 Attacking,4316268,627221
+55,João Pedro,0,Right Winger,home,4-3-3 Attacking,4316268,987503
+19,Rafael Elias,0,Centre-Forward,home,4-3-3 Attacking,4316268,587328
+1,Lucas Arcanjo,0,Goalkeeper,away,4-4-2,4316268,645602
+4,Wagner Leonardo,0,Centre-Back,away,4-4-2,4316268,671572
+25,Bruno Uvini,0,Centre-Back,away,4-4-2,4316268,147396
+16,Lucas Esteves,0,Left-Back,away,4-4-2,4316268,688668
+2,Zeca,1,Right-Back,away,4-4-2,4316268,325196
+8,Luan Santos,0,Central Midfield,away,4-4-2,4316268,574904
+29,Willian Oliveira,0,Central Midfield,away,4-4-2,4316268,252900
+23,Mateus Gonçalves,0,Right Midfield,away,4-4-2,4316268,352890
+11,Osvaldo,0,Left Midfield,away,4-4-2,4316268,76191
+30,Matheuzinho,0,Centre-Forward,away,4-4-2,4316268,365368
+9,Alerrandro,0,Centre-Forward,away,4-4-2,4316268,371996
+22,Muriel,0,Goalkeeper,away,4-4-2,4316268,27349
+40,Reynaldo,0,Centre-Back,away,4-4-2,4316268,514297
+3,Cristián Zapata,0,Centre-Back,away,4-4-2,4316268,34344
+14,PK,0,Left-Back,away,4-4-2,4316268,373192
+97,Willean Lepo,0,Right-Back,away,4-4-2,4316268,544464
+5,Léo Naldi,0,Defensive Midfield,away,4-4-2,4316268,859135
+15,Caio Vinicius,0,Defensive Midfield,away,4-4-2,4316268,565443
+10,Jean Mota,0,Central Midfield,away,4-4-2,4316268,215212
+80,Daniel Jr,0,Attacking Midfield,away,4-4-2,4316268,746358
+17,Zé Hugo,0,Left Winger,away,4-4-2,4316268,940479
+39,Janderson,0,Centre-Forward,away,4-4-2,4316268,976561
+99,Léo Gamalho,0,Centre-Forward,away,4-4-2,4316268,143817
+1,Bento,0,Goalkeeper,home,4-2-3-1,4316234,691906
+4,Kaique Rocha,0,Centre-Back,home,4-2-3-1,4316234,633377
+44,Thiago Heleno,1,Centre-Back,home,4-2-3-1,4316234,45431
+37,Lucas Esquivel,0,Left-Back,home,4-2-3-1,4316234,829969
+29,Leonardo Godoy,0,Right-Back,home,4-2-3-1,4316234,369556
+5,Fernandinho,0,Defensive Midfield,home,4-2-3-1,4316234,26267
+26,Erick,0,Defensive Midfield,home,4-2-3-1,4316234,633212
+28,Tomás Cuello,0,Left Winger,home,4-2-3-1,4316234,503052
+20,Julimar,0,Right Winger,home,4-2-3-1,4316234,593205
+14,Agustín Canobbio,0,Second Striker,home,4-2-3-1,4316234,457533
+92,Pablo,0,Centre-Forward,home,4-2-3-1,4316234,148765
+41,Mycael,0,Goalkeeper,home,4-2-3-1,4316234,743586
+24,Léo Linck,0,Goalkeeper,home,4-2-3-1,4316234,742034
+15,Mateo Gamarra,0,Centre-Back,home,4-2-3-1,4316234,661245
+6,Fernando,0,Left-Back,home,4-2-3-1,4316234,731057
+22,Madson,0,Right-Back,home,4-2-3-1,4316234,177845
+23,Felipinho,0,Central Midfield,home,4-2-3-1,4316234,1115489
+30,Zé Vitor,0,Central Midfield,home,4-2-3-1,4316234,825780
+80,Alex Santana,0,Central Midfield,home,4-2-3-1,4316234,219835
+88,Christian,0,Central Midfield,home,4-2-3-1,4316234,658678
+10,Bruno Zapelli,0,Attacking Midfield,home,4-2-3-1,4316234,711600
+18,Jader,0,Left Winger,home,4-2-3-1,4316234,924533
+9,Gonzalo Mastriani,0,Centre-Forward,home,4-2-3-1,4316234,195882
+1,Sergio Rochet,0,Goalkeeper,away,4-2-3-1,4316234,264014
+4,Robert Renan,0,Centre-Back,away,4-2-3-1,4316234,958598
+44,Vitão,0,Centre-Back,away,4-2-3-1,4316234,428783
+6,Renê,1,Left-Back,away,4-2-3-1,4316234,212209
+2,Hugo Mallo,0,Right-Back,away,4-2-3-1,4316234,119905
+40,Rômulo,0,Defensive Midfield,away,4-2-3-1,4316234,687359
+8,Bruno Henrique,0,Defensive Midfield,away,4-2-3-1,4316234,277335
+21,Wesley,0,Right Midfield,away,4-2-3-1,4316234,674732
+11,Wanderson,0,Left Midfield,away,4-2-3-1,4316234,236202
+27,Mauricio,0,Attacking Midfield,away,4-2-3-1,4316234,678439
+19,Rafael Borré,0,Centre-Forward,away,4-2-3-1,4316234,323831
+12,Fabrício,0,Goalkeeper,away,4-2-3-1,4316234,150479
+3,Igor Gomes,0,Centre-Back,away,4-2-3-1,4316234,689640
+25,Gabriel Mercado,0,Centre-Back,away,4-2-3-1,4316234,45319
+26,Alexandro Bernabéi,0,Left-Back,away,4-2-3-1,4316234,719635
+16,Fabricio Bustos,0,Right-Back,away,4-2-3-1,4316234,275381
+29,Thiago Maia,0,Defensive Midfield,away,4-2-3-1,4316234,294873
+15,Bruno Gomes,0,Defensive Midfield,away,4-2-3-1,4316234,703322
+41,Matheus Dias,0,Defensive Midfield,away,4-2-3-1,4316234,815384
+47,Gustavo Prado,0,Central Midfield,away,4-2-3-1,4316234,1095552
+34,Gabriel Carvalho,0,Attacking Midfield,away,4-2-3-1,4316234,1089144
+45,Lucca,0,Centre-Forward,away,4-2-3-1,4316234,982549
+1,Gatito Fernández,1,Goalkeeper,home,4-4-2,4316231,107318
+3,Lucas Halter,0,Centre-Back,home,4-4-2,4316231,468302
+15,Bastos,0,Centre-Back,home,4-4-2,4316231,195810
+16,Hugo,0,Left-Back,home,4-4-2,4316231,740157
+4,Mateo Ponte,0,Right-Back,home,4-4-2,4316231,856047
+17,Marlon Freitas,0,Central Midfield,home,4-4-2,4316231,364972
+5,Danilo Barbosa,0,Central Midfield,home,4-4-2,4316231,273438
+47,Jeffinho,0,Right Midfield,home,4-4-2,4316231,884072
+11,Júnior Santos,0,Left Midfield,home,4-4-2,4316231,592347
+10,Jefferson Savarino,0,Centre-Forward,home,4-4-2,4316231,309193
+9,Tiquinho Soares,0,Centre-Forward,home,4-4-2,4316231,103381
+12,John Victor,0,Goalkeeper,home,4-4-2,4316231,432914
+97,Raul,0,Goalkeeper,home,4-4-2,4316231,520093
+20,Alexander Barboza,0,Centre-Back,home,4-4-2,4316231,379752
+23,Pablo,0,Centre-Back,home,4-4-2,4316231,149577
+22,Damián Suárez,0,Right-Back,home,4-4-2,4316231,76746
+26,Gregore,0,Defensive Midfield,home,4-4-2,4316231,546036
+8,Patrick de Paula,0,Central Midfield,home,4-4-2,4316231,737821
+70,Óscar Romero,0,Attacking Midfield,home,4-4-2,4316231,217886
+77,Diego Hernández,0,Attacking Midfield,home,4-4-2,4316231,800732
+32,Jacob Montes,0,Attacking Midfield,home,4-4-2,4316231,497494
+33,Eduardo,0,Attacking Midfield,home,4-4-2,4316231,110078
+7,Luiz Henrique,0,Right Winger,home,4-4-2,4316231,800175
+1,Gabriel,0,Goalkeeper,away,4-2-3-1,4316231,79242
+43,Lucas Freitas,0,Centre-Back,away,4-2-3-1,4316231,809716
+4,Danilo Boza,0,Centre-Back,away,4-2-3-1,4316231,606136
+12,Gabriel Inocêncio,0,Left-Back,away,4-2-3-1,4316231,788402
+2,João Lucas,0,Right-Back,away,4-2-3-1,4316231,672292
+95,Caíque Gonçalves,0,Defensive Midfield,away,4-2-3-1,4316231,555310
+44,Mandaca,0,Defensive Midfield,away,4-2-3-1,4316231,892091
+21,Lucas Barbosa,0,Right Midfield,away,4-2-3-1,4316231,816144
+20,Jean Carlos,0,Left Midfield,away,4-2-3-1,4316231,102574
+10,Nenê,1,Attacking Midfield,away,4-2-3-1,4316231,29091
+7,Erick Farias,0,Centre-Forward,away,4-2-3-1,4316231,535037
+33,Renan,0,Goalkeeper,away,4-2-3-1,4316231,68102
+23,Abner,0,Centre-Back,away,4-2-3-1,4316231,1086632
+34,Rodrigo Sam,0,Centre-Back,away,4-2-3-1,4316231,363174
+36,Da Rocha,0,Left-Back,away,4-2-3-1,4316231,1096266
+22,João Vitor,0,Right-Back,away,4-2-3-1,4316231,1226336
+8,Thiago Conti,0,Central Midfield,away,4-2-3-1,4316231,583064
+29,Ruan,0,Left Winger,away,4-2-3-1,4316231,1053933
+11,Marcelinho,0,Right Winger,away,4-2-3-1,4316231,813120
+37,Rildo,0,Right Winger,away,4-2-3-1,4316231,800177
+75,Kleiton,0,Right Winger,away,4-2-3-1,4316231,658665
+45,Werik Popó,0,Centre-Forward,away,4-2-3-1,4316231,902507
+1,Ronaldo,1,Goalkeeper,home,4-4-2 double 6,4316235,387925
+3,Luiz Felipe,0,Centre-Back,home,4-4-2 double 6,4316235,373150
+4,Alix,0,Centre-Back,home,4-4-2 double 6,4316235,880217
+6,Guilherme Romão,0,Left-Back,home,4-4-2 double 6,4316235,519879
+2,Bruno Tubarão,0,Right-Back,home,4-4-2 double 6,4316235,550178
+5,Roni,0,Defensive Midfield,home,4-4-2 double 6,4316235,725049
+8,Baralhas,0,Defensive Midfield,home,4-4-2 double 6,4316235,552242
+7,Alejo Cruz,0,Left Winger,home,4-4-2 double 6,4316235,868491
+10,Shaylon,0,Right Winger,home,4-4-2 double 6,4316235,480274
+11,Luiz Fernando,0,Second Striker,home,4-4-2 double 6,4316235,372013
+9,Emiliano Rodríguez,0,Centre-Forward,home,4-4-2 double 6,4316235,982198
+12,Pedro Rangel,0,Goalkeeper,home,4-4-2 double 6,4316235,841263
+14,Pedro Henrique,0,Centre-Back,home,4-4-2 double 6,4316235,164015
+16,Yeferson Rodallega,0,Left-Back,home,4-4-2 double 6,4316235,848561
+13,Maguinho,0,Right-Back,home,4-4-2 double 6,4316235,350766
+15,Lucas Kal,0,Defensive Midfield,home,4-4-2 double 6,4316235,435489
+17,Rhaldney,0,Defensive Midfield,home,4-4-2 double 6,4316235,638269
+18,Danielzinho,0,Central Midfield,home,4-4-2 double 6,4316235,418530
+19,Gabriel Barros,0,Right Winger,home,4-4-2 double 6,4316235,738507
+22,Max,0,Right Winger,home,4-4-2 double 6,4316235,1226150
+21,Derek,0,Centre-Forward,home,4-4-2 double 6,4316235,719251
+20,Vágner Love,0,Centre-Forward,home,4-4-2 double 6,4316235,18829
+23,Rafael,0,Goalkeeper,away,3-4-2-1,4316235,68097
+4,Diego Costa,0,Centre-Back,away,3-4-2-1,4316235,546212
+5,Robert Arboleda,0,Centre-Back,away,3-4-2-1,4316235,139867
+28,Alan Franco,0,Centre-Back,away,3-4-2-1,4316235,503343
+29,Pablo Maia,0,Defensive Midfield,away,3-4-2-1,4316235,892089
+25,Alisson,0,Central Midfield,away,3-4-2-1,4316235,229736
+2,Igor Vinícius,0,Right Midfield,away,3-4-2-1,4316235,552240
+6,Welington,0,Left Midfield,away,3-4-2-1,4316235,729264
+10,Luciano,0,Second Striker,away,3-4-2-1,4316235,223560
+17,André Silva,0,Second Striker,away,3-4-2-1,4316235,565232
+9,Jonathan Calleri,1,Centre-Forward,away,3-4-2-1,4316235,284727
+93,Jandrei,0,Goalkeeper,away,3-4-2-1,4316235,512344
+35,Sabino,0,Centre-Back,away,3-4-2-1,4316235,546033
+32,Nahuel Ferraresi,0,Centre-Back,away,3-4-2-1,4316235,466336
+36,Patryck,0,Left-Back,away,3-4-2-1,4316235,662326
+11,Rodrigo Nestor,0,Central Midfield,away,3-4-2-1,4316235,468304
+21,Damián Bobadilla,0,Central Midfield,away,3-4-2-1,4316235,861852
+15,Michel Araújo,0,Attacking Midfield,away,3-4-2-1,4316235,482144
+8,Giuliano Galoppo,0,Attacking Midfield,away,3-4-2-1,4316235,567249
+39,William Gomes,0,Left Winger,away,3-4-2-1,4316235,1004725
+47,Ferreirinha,0,Left Winger,away,3-4-2-1,4316235,689017
+33,Erick,0,Right Winger,away,3-4-2-1,4316235,515638
+31,Juan,0,Centre-Forward,away,3-4-2-1,4316235,662332
+1,Cleiton,1,Goalkeeper,home,4-3-3 Attacking,4316233,468247
+39,Douglas Mendes,0,Centre-Back,home,4-3-3 Attacking,4316233,921863
+36,Luan Cândido,0,Centre-Back,home,4-3-3 Attacking,4316233,432166
+29,Juninho Capixaba,0,Left-Back,home,4-3-3 Attacking,4316233,406676
+34,Andrés Hurtado,0,Right-Back,home,4-3-3 Attacking,4316233,680506
+5,Jadsom,0,Defensive Midfield,home,4-3-3 Attacking,4316233,612162
+7,Eric Ramires,0,Central Midfield,home,4-3-3 Attacking,4316233,614328
+22,Gustavo Neves,0,Central Midfield,home,4-3-3 Attacking,4316233,1084081
+28,Vitinho,0,Left Winger,home,4-3-3 Attacking,4316233,670965
+17,Bruno Gonçalves,0,Right Winger,home,4-3-3 Attacking,4316233,668234
+19,Eduardo Sasha,0,Centre-Forward,home,4-3-3 Attacking,4316233,162883
+40,Lucão,0,Goalkeeper,home,4-3-3 Attacking,4316233,412372
+57,Caetano,0,Centre-Back,home,4-3-3 Attacking,4316233,843499
+2,Leonardo Realpe,0,Centre-Back,home,4-3-3 Attacking,4316233,656409
+3,Eduardo Santos,0,Centre-Back,home,4-3-3 Attacking,4316233,564546
+4,Lucas Cunha,0,Centre-Back,home,4-3-3 Attacking,4316233,355496
+31,Guilherme Lopes,0,Left-Back,home,4-3-3 Attacking,4316233,678502
+58,Dija,0,Right-Back,home,4-3-3 Attacking,4316233,1072796
+23,Raul,0,Defensive Midfield,home,4-3-3 Attacking,4316233,479587
+21,Talisson,0,Left Winger,home,4-3-3 Attacking,4316233,1084074
+30,Henry Mosquera,0,Left Winger,home,4-3-3 Attacking,4316233,975191
+33,Ignacio Laquintana,0,Right Winger,home,4-3-3 Attacking,4316233,577407
+18,Thiago Borbas,0,Centre-Forward,home,4-3-3 Attacking,4316233,743951
+12,Cássio,1,Goalkeeper,away,4-2-3-1,4316233,50144
+34,Raul Gustavo,0,Centre-Back,away,4-2-3-1,4316233,792345
+3,Félix Torres,0,Centre-Back,away,4-2-3-1,4316233,468174
+46,Hugo,0,Left-Back,away,4-2-3-1,4316233,730708
+2,Matheus França,0,Right-Back,away,4-2-3-1,4316233,594226
+5,Fausto Vera,0,Defensive Midfield,away,4-2-3-1,4316233,491701
+14,Raniele,0,Defensive Midfield,away,4-2-3-1,4316233,546530
+77,Igor Coronado,0,Right Midfield,away,4-2-3-1,4316233,215915
+16,Pedro Henrique,0,Left Midfield,away,4-2-3-1,4316233,213368
+10,Rodrigo Garro,0,Attacking Midfield,away,4-2-3-1,4316233,565009
+20,Pedro Raul,0,Centre-Forward,away,4-2-3-1,4316233,547443
+22,Carlos Miguel,0,Goalkeeper,away,4-2-3-1,4316233,641458
+4,Caetano,0,Centre-Back,away,4-2-3-1,4316233,625345
+25,Cacá,0,Centre-Back,away,4-2-3-1,4316233,603122
+21,Matheus Bidu,0,Left-Back,away,4-2-3-1,4316233,670021
+23,Fagner,0,Right-Back,away,4-2-3-1,4316233,47592
+27,Breno Bidon,0,Central Midfield,away,4-2-3-1,4316233,1029227
+8,Paulinho,0,Central Midfield,away,4-2-3-1,4316233,57229
+11,Ángel Romero,0,Left Winger,away,4-2-3-1,4316233,262262
+36,Wesley,0,Left Winger,away,4-2-3-1,4316233,1007378
+19,Gustavo Silva,0,Right Winger,away,4-2-3-1,4316233,636314
+17,Giovane,0,Centre-Forward,away,4-2-3-1,4316233,1005165
+9,Yuri Alberto,0,Centre-Forward,away,4-2-3-1,4316233,489893
+1,Agustín Marchesín,0,Goalkeeper,home,4-2-3-1,4316227,54534
+5,Rodrigo Ely,0,Centre-Back,home,4-2-3-1,4316227,176140
+53,Gustavo Martins,0,Centre-Back,home,4-2-3-1,4316227,874223
+46,Zé Guilherme,0,Left-Back,home,4-2-3-1,4316227,1084816
+18,João Pedro,0,Right-Back,home,4-2-3-1,4316227,342024
+20,Mathías Villasanti,1,Defensive Midfield,home,4-2-3-1,4316227,436385
+37,Du Queiroz,0,Defensive Midfield,home,4-2-3-1,4316227,906774
+39,Gustavo Nunes,0,Right Midfield,home,4-2-3-1,4316227,1086375
+7,Yeferson Soteldo,0,Left Midfield,home,4-2-3-1,4316227,312294
+10,Franco Cristaldo,0,Attacking Midfield,home,4-2-3-1,4316227,332259
+11,João Pedro,0,Centre-Forward,home,4-2-3-1,4316227,129129
+97,Caíque,0,Goalkeeper,home,4-2-3-1,4316227,384159
+4,Walter Kannemann,0,Centre-Back,home,4-2-3-1,4316227,145400
+36,Natã,0,Centre-Back,home,4-2-3-1,4316227,978004
+44,Viery,0,Centre-Back,home,4-2-3-1,4316227,950393
+51,Wesley Costa,0,Left-Back,home,4-2-3-1,4316227,1082969
+2,Fábio,0,Right-Back,home,4-2-3-1,4316227,61891
+17,Dodi,0,Defensive Midfield,home,4-2-3-1,4316227,373174
+35,Ronald Falkoski,0,Defensive Midfield,home,4-2-3-1,4316227,959092
+14,Nathan,0,Attacking Midfield,home,4-2-3-1,4316227,294798
+22,Lucas Besozzi,0,Left Winger,home,4-2-3-1,4316227,829381
+13,Everton Galdino,0,Right Winger,home,4-2-3-1,4316227,458251
+32,Nathan Fernandes,0,Right Winger,home,4-2-3-1,4316227,1083600
+1,Walter,1,Goalkeeper,away,5-4-1,4316227,269860
+33,Alan Empereur,0,Centre-Back,away,5-4-1,4316227,169179
+4,Marllon,0,Centre-Back,away,5-4-1,4316227,166032
+34,Bruno Alves,0,Centre-Back,away,5-4-1,4316227,177534
+20,Rikelme,0,Left-Back,away,5-4-1,4316227,862358
+2,Matheus Alexandre,0,Right-Back,away,5-4-1,4316227,617687
+27,Denilson,0,Central Midfield,away,5-4-1,4316227,808507
+88,Fernando Sobral,0,Central Midfield,away,5-4-1,4316227,350342
+25,Clayson,0,Left Winger,away,5-4-1,4316227,392809
+7,Jonathan Cafu,0,Right Winger,away,5-4-1,4316227,347100
+9,Isidro Pitta,0,Centre-Forward,away,5-4-1,4316227,675178
+12,Rhyan,0,Goalkeeper,away,5-4-1,4316227,1116620
+14,Mateus Pasinato,0,Goalkeeper,away,5-4-1,4316227,349418
+3,Allyson,0,Centre-Back,away,5-4-1,4316227,390695
+44,Gabriel,0,Centre-Back,away,5-4-1,4316227,995883
+21,Railan,0,Right-Back,away,5-4-1,4316227,752558
+30,Lucas Mineiro,0,Defensive Midfield,away,5-4-1,4316227,432958
+8,Guilherme Madruga,0,Defensive Midfield,away,5-4-1,4316227,1081036
+18,Lucas Fernandes,0,Attacking Midfield,away,5-4-1,4316227,430761
+11,Eliel,0,Left Winger,away,5-4-1,4316227,1035650
+97,André Luis,0,Right Winger,away,5-4-1,4316227,519851
+22,Derik Lacerda,0,Centre-Forward,away,5-4-1,4316227,700933
+19,Luciano Giménez,0,Centre-Forward,away,5-4-1,4316227,985755
+23,Rafael,0,Goalkeeper,home,4-2-3-1,4316313,68097
+5,Robert Arboleda,0,Centre-Back,home,4-2-3-1,4316313,139867
+28,Alan Franco,0,Centre-Back,home,4-2-3-1,4316313,503343
+36,Patryck,0,Left-Back,home,4-2-3-1,4316313,662326
+2,Igor Vinícius,0,Right-Back,home,4-2-3-1,4316313,552240
+21,Damián Bobadilla,0,Defensive Midfield,home,4-2-3-1,4316313,861852
+25,Alisson,0,Defensive Midfield,home,4-2-3-1,4316313,229736
+17,André Silva,0,Right Midfield,home,4-2-3-1,4316313,565232
+31,Juan,0,Left Midfield,home,4-2-3-1,4316313,662332
+11,Rodrigo Nestor,0,Attacking Midfield,home,4-2-3-1,4316313,468304
+10,Luciano,1,Centre-Forward,home,4-2-3-1,4316313,223560
+93,Jandrei,0,Goalkeeper,home,4-2-3-1,4316313,512344
+35,Sabino,0,Centre-Back,home,4-2-3-1,4316313,546033
+4,Diego Costa,0,Centre-Back,home,4-2-3-1,4316313,546212
+32,Nahuel Ferraresi,0,Centre-Back,home,4-2-3-1,4316313,466336
+6,Welington,0,Left-Back,home,4-2-3-1,4316313,729264
+30,João Moreira,0,Right-Back,home,4-2-3-1,4316313,929866
+16,Luiz Gustavo,0,Defensive Midfield,home,4-2-3-1,4316313,10471
+18,Rodriguinho,0,Central Midfield,home,4-2-3-1,4316313,743593
+8,Giuliano Galoppo,0,Attacking Midfield,home,4-2-3-1,4316313,567249
+39,William Gomes,0,Left Winger,home,4-2-3-1,4316313,1004725
+47,Ferreirinha,0,Left Winger,home,4-2-3-1,4316313,689017
+33,Erick,0,Right Winger,home,4-2-3-1,4316313,515638
+1,Fábio,1,Goalkeeper,away,4-2-3-1,4316313,22415
+25,Antônio Carlos,0,Centre-Back,away,4-2-3-1,4316313,207446
+26,Manoel,0,Centre-Back,away,4-2-3-1,4316313,113586
+6,Diogo Barbosa,0,Left-Back,away,4-2-3-1,4316313,167724
+77,Marquinhos,0,Right-Back,away,4-2-3-1,4316313,668268
+5,Alexsander,0,Defensive Midfield,away,4-2-3-1,4316313,997714
+8,Martinelli,0,Defensive Midfield,away,4-2-3-1,4316313,815558
+21,Jhon Arias,0,Right Midfield,away,4-2-3-1,4316313,588989
+11,Keno,0,Left Midfield,away,4-2-3-1,4316313,346065
+45,Lima,0,Attacking Midfield,away,4-2-3-1,4316313,387611
+19,Kauã Elias,0,Centre-Forward,away,4-2-3-1,4316313,1119009
+27,Felipe Alves,0,Goalkeeper,away,4-2-3-1,4316313,189682
+13,Felipe Andrade,0,Centre-Back,away,4-2-3-1,4316313,884070
+30,Felipe Melo,0,Centre-Back,away,4-2-3-1,4316313,35537
+12,Marcelo,0,Left-Back,away,4-2-3-1,4316313,44501
+23,Guga,0,Right-Back,away,4-2-3-1,4316313,592344
+31,Calegari,0,Right-Back,away,4-2-3-1,4316313,686597
+28,Arthur,0,Attacking Midfield,away,4-2-3-1,4316313,743585
+80,David Terans,0,Attacking Midfield,away,4-2-3-1,4316313,261309
+32,Isaac,0,Left Winger,away,4-2-3-1,4316313,1084667
+17,Jan Lucumi,0,Right Winger,away,4-2-3-1,4316313,909360
+9,John Kennedy,0,Centre-Forward,away,4-2-3-1,4316313,856085
+14,Germán Cano,0,Centre-Forward,away,4-2-3-1,4316313,54590
+21,Weverton,0,Goalkeeper,home,3-4-2-1,4316232,69400
+13,Luan,0,Centre-Back,home,3-4-2-1,4316232,178984
+15,Gustavo Gómez,1,Centre-Back,home,3-4-2-1,4316232,215390
+26,Murilo,0,Centre-Back,home,3-4-2-1,4316232,458710
+5,Aníbal Moreno,0,Defensive Midfield,home,3-4-2-1,4316232,642758
+27,Richard Ríos,0,Defensive Midfield,home,3-4-2-1,4316232,735573
+12,Mayke,0,Right Midfield,home,3-4-2-1,4316232,147361
+22,Joaquín Piquerez,0,Left Midfield,home,3-4-2-1,4316232,496268
+23,Raphael Veiga,0,Attacking Midfield,home,3-4-2-1,4316232,432953
+9,Endrick,0,Attacking Midfield,home,3-4-2-1,4316232,971570
+42,José Manuel López,0,Centre-Forward,home,3-4-2-1,4316232,844797
+14,Marcelo Lomba,0,Goalkeeper,home,3-4-2-1,4316232,53015
+34,Naves,0,Centre-Back,home,3-4-2-1,4316232,964591
+6,Vanderlan,0,Left-Back,home,3-4-2-1,4316232,816129
+16,Caio Paulista,0,Left-Back,home,3-4-2-1,4316232,601011
+2,Marcos Rocha,0,Right-Back,home,3-4-2-1,4316232,75435
+35,Fabinho,0,Defensive Midfield,home,3-4-2-1,4316232,627230
+25,Gabriel Menino,0,Central Midfield,home,3-4-2-1,4316232,608216
+20,Rômulo,0,Attacking Midfield,home,3-4-2-1,4316232,867461
+17,Lázaro,0,Left Winger,home,3-4-2-1,4316232,574772
+31,Luis Guilherme,0,Right Winger,home,3-4-2-1,4316232,991800
+41,Estêvão,0,Right Winger,home,3-4-2-1,4316232,1056993
+10,Rony,0,Centre-Forward,home,3-4-2-1,4316232,371009
+1,Agustín Rossi,0,Goalkeeper,away,4-2-3-1,4316232,352324
+4,Léo Pereira,0,Centre-Back,away,4-2-3-1,4316232,288431
+15,Fabrício Bruno,0,Centre-Back,away,4-2-3-1,4316232,432773
+6,Ayrton Lucas,0,Left-Back,away,4-2-3-1,4316232,349585
+2,Guillermo Varela,0,Right-Back,away,4-2-3-1,4316232,188862
+21,Allan,0,Defensive Midfield,away,4-2-3-1,4316232,385271
+5,Erick Pulgar,0,Defensive Midfield,away,4-2-3-1,4316232,215616
+7,Luiz Araújo,0,Right Midfield,away,4-2-3-1,4316232,435485
+27,Bruno Henrique,0,Left Midfield,away,4-2-3-1,4316232,353108
+14,Giorgian de Arrascaeta,1,Attacking Midfield,away,4-2-3-1,4316232,248410
+22,Carlinhos,0,Centre-Forward,away,4-2-3-1,4316232,363173
+25,Matheus Cunha,0,Goalkeeper,away,4-2-3-1,4316232,876739
+3,Léo Ortiz,0,Centre-Back,away,4-2-3-1,4316232,374136
+23,David Luiz,0,Centre-Back,away,4-2-3-1,4316232,46741
+17,Matías Viña,0,Left-Back,away,4-2-3-1,4316232,439072
+43,Wesley,0,Right-Back,away,4-2-3-1,4316232,964580
+48,Igor Jesus,0,Defensive Midfield,away,4-2-3-1,4316232,978037
+8,Gerson,0,Central Midfield,away,4-2-3-1,4316232,341705
+18,Nicolás de la Cruz,0,Central Midfield,away,4-2-3-1,4316232,397458
+19,Lorran,0,Attacking Midfield,away,4-2-3-1,4316232,1009030
+29,Victor Hugo,0,Attacking Midfield,away,4-2-3-1,4316232,749559
+20,Matheus Gonçalves,0,Right Winger,away,4-2-3-1,4316232,961046
+9,Pedro,0,Centre-Forward,away,4-2-3-1,4316232,432895
+1,Léo Jardim,0,Goalkeeper,home,4-2-3-1,4316311,288415
+3,Léo,1,Centre-Back,home,4-2-3-1,4316311,403296
+4,Maicon,0,Centre-Back,home,4-2-3-1,4316311,84695
+6,Lucas Piton,0,Left-Back,home,4-2-3-1,4316311,670201
+38,João Victor,0,Right-Back,home,4-2-3-1,4316311,671145
+20,Juan Sforza,0,Defensive Midfield,home,4-2-3-1,4316311,659264
+27,Pablo Galdames,0,Central Midfield,home,4-2-3-1,4316311,313830
+10,Dimitri Payet,0,Attacking Midfield,home,4-2-3-1,4316311,37647
+7,David,0,Left Winger,home,4-2-3-1,4316311,373189
+31,Rossi,0,Right Winger,home,4-2-3-1,4316311,212114
+99,Pablo Vegetti,0,Centre-Forward,home,4-2-3-1,4316311,334229
+13,Keiller,0,Goalkeeper,home,4-2-3-1,4316311,417084
+17,Gary Medel,0,Centre-Back,home,4-2-3-1,4316311,60889
+32,Robert Rojas,0,Centre-Back,home,4-2-3-1,4316311,527494
+12,Victor Luís,0,Left-Back,home,4-2-3-1,4316311,234538
+2,José Luis Rodríguez,0,Right-Back,home,4-2-3-1,4316311,430339
+96,Paulo Henrique,0,Right-Back,home,4-2-3-1,4316311,412594
+23,Zé Gabriel,0,Defensive Midfield,home,4-2-3-1,4316311,670968
+21,Praxedes,0,Central Midfield,home,4-2-3-1,4316311,574765
+85,Mateus Carvalho,0,Central Midfield,home,4-2-3-1,4316311,862574
+28,Adson,0,Right Winger,home,4-2-3-1,4316311,868891
+77,Rayan,0,Right Winger,home,4-2-3-1,4316311,1012564
+9,Clayton,0,Centre-Forward,home,4-2-3-1,4316311,733579
+1,Lucas Arcanjo,0,Goalkeeper,away,3-4-1-2,4316311,645602
+40,Reynaldo,0,Centre-Back,away,3-4-1-2,4316311,514297
+13,Camutanga,1,Centre-Back,away,3-4-1-2,4316311,607817
+97,Willean Lepo,0,Centre-Back,away,3-4-1-2,4316311,544464
+21,Dudu,0,Defensive Midfield,away,3-4-1-2,4316311,691811
+8,Luan Santos,0,Defensive Midfield,away,3-4-1-2,4316311,574904
+14,PK,0,Left Midfield,away,3-4-1-2,4316311,373192
+30,Matheuzinho,0,Attacking Midfield,away,3-4-1-2,4316311,365368
+39,Janderson,0,Right Winger,away,3-4-1-2,4316311,976561
+32,Rodrigo Andrade,0,Second Striker,away,3-4-1-2,4316311,435239
+9,Alerrandro,0,Centre-Forward,away,3-4-1-2,4316311,371996
+22,Muriel,0,Goalkeeper,away,3-4-1-2,4316311,27349
+25,Bruno Uvini,0,Centre-Back,away,3-4-1-2,4316311,147396
+3,Cristián Zapata,0,Centre-Back,away,3-4-1-2,4316311,34344
+16,Lucas Esteves,0,Left-Back,away,3-4-1-2,4316311,688668
+2,Zeca,0,Right-Back,away,3-4-1-2,4316311,325196
+5,Léo Naldi,0,Defensive Midfield,away,3-4-1-2,4316311,859135
+29,Willian Oliveira,0,Defensive Midfield,away,3-4-1-2,4316311,252900
+10,Jean Mota,0,Central Midfield,away,3-4-1-2,4316311,215212
+17,Zé Hugo,0,Left Winger,away,3-4-1-2,4316311,940479
+23,Mateus Gonçalves,0,Left Winger,away,3-4-1-2,4316311,352890
+7,Iury Castilho,0,Centre-Forward,away,3-4-1-2,4316311,366450
+12,Luiz Adriano,0,Centre-Forward,away,3-4-1-2,4316311,48974
+1,Lucas Arcanjo,0,Goalkeeper,home,4-3-3 Attacking,4316229,645602
+4,Wagner Leonardo,0,Centre-Back,home,4-3-3 Attacking,4316229,671572
+25,Bruno Uvini,0,Centre-Back,home,4-3-3 Attacking,4316229,147396
+16,Lucas Esteves,0,Left-Back,home,4-3-3 Attacking,4316229,688668
+2,Zeca,1,Right-Back,home,4-3-3 Attacking,4316229,325196
+29,Willian Oliveira,0,Defensive Midfield,home,4-3-3 Attacking,4316229,252900
+5,Léo Naldi,0,Central Midfield,home,4-3-3 Attacking,4316229,859135
+32,Rodrigo Andrade,0,Central Midfield,home,4-3-3 Attacking,4316229,435239
+11,Osvaldo,0,Left Winger,home,4-3-3 Attacking,4316229,76191
+30,Matheuzinho,0,Right Winger,home,4-3-3 Attacking,4316229,365368
+9,Alerrandro,0,Centre-Forward,home,4-3-3 Attacking,4316229,371996
+40,Reynaldo,0,Centre-Back,home,4-3-3 Attacking,4316229,514297
+3,Cristián Zapata,0,Centre-Back,home,4-3-3 Attacking,4316229,34344
+22,Raúl Cáceres,0,Right-Back,home,4-3-3 Attacking,4316229,147410
+97,Willean Lepo,0,Right-Back,home,4-3-3 Attacking,4316229,544464
+8,Luan Santos,0,Defensive Midfield,home,4-3-3 Attacking,4316229,574904
+15,Caio Vinicius,0,Defensive Midfield,home,4-3-3 Attacking,4316229,565443
+10,Jean Mota,0,Central Midfield,home,4-3-3 Attacking,4316229,215212
+80,Daniel Jr,0,Attacking Midfield,home,4-3-3 Attacking,4316229,746358
+17,Zé Hugo,0,Left Winger,home,4-3-3 Attacking,4316229,940479
+23,Mateus Gonçalves,0,Left Winger,home,4-3-3 Attacking,4316229,352890
+7,Iury Castilho,0,Centre-Forward,home,4-3-3 Attacking,4316229,366450
+12,Luiz Adriano,0,Centre-Forward,home,4-3-3 Attacking,4316229,48974
+22,Marcos Felipe,0,Goalkeeper,away,4-3-3 Attacking,4316229,283166
+15,Victor Cuesta,0,Centre-Back,away,4-3-3 Attacking,4316229,104326
+3,Gabriel Xavier,0,Centre-Back,away,4-3-3 Attacking,4316229,740501
+46,Luciano Juba,0,Left-Back,away,4-3-3 Attacking,4316229,676035
+13,Santiago Arias,0,Right-Back,away,4-3-3 Attacking,4316229,120443
+19,Caio Alexandre,0,Defensive Midfield,away,4-3-3 Attacking,4316229,727751
+6,Jean Lucas,0,Central Midfield,away,4-3-3 Attacking,4316229,578872
+10,Everton Ribeiro,1,Central Midfield,away,4-3-3 Attacking,4316229,52896
+16,Thaciano,0,Left Winger,away,4-3-3 Attacking,4316229,392487
+7,Ademir,0,Right Winger,away,4-3-3 Attacking,4316229,544259
+8,Cauly,0,Centre-Forward,away,4-3-3 Attacking,4316229,162812
+23,Adriel,0,Goalkeeper,away,4-3-3 Attacking,4316229,808445
+4,Kanu,0,Centre-Back,away,4-3-3 Attacking,4316229,524446
+33,David Duarte,0,Centre-Back,away,4-3-3 Attacking,4316229,373446
+2,Gilberto,0,Right-Back,away,4-3-3 Attacking,4316229,231614
+40,Cicinho,0,Right-Back,away,4-3-3 Attacking,4316229,101294
+5,Rezende,0,Defensive Midfield,away,4-3-3 Attacking,4316229,793815
+14,Carlos de Pena,0,Central Midfield,away,4-3-3 Attacking,4316229,257740
+20,Yago Felipe,0,Central Midfield,away,4-3-3 Attacking,4316229,346935
+11,Biel,0,Left Winger,away,4-3-3 Attacking,4316229,875328
+21,Rafael Ratão,0,Left Winger,away,4-3-3 Attacking,4316229,289802
+29,Óscar Estupiñán,0,Centre-Forward,away,4-3-3 Attacking,4316229,388266
+9,Everaldo,0,Centre-Forward,away,4-3-3 Attacking,4316229,205041
+22,Everson,0,Goalkeeper,home,4-4-2,4316228,106032
+34,Jemerson,0,Centre-Back,home,4-4-2,4316228,258254
+21,Rodrigo Battaglia,0,Centre-Back,home,4-4-2,4316228,89297
+13,Guilherme Arana,0,Left-Back,home,4-4-2,4316228,346766
+26,Renzo Saravia,0,Right-Back,home,4-4-2,4316228,268642
+5,Otávio,0,Central Midfield,home,4-4-2,4316228,312314
+23,Alan Franco,0,Central Midfield,home,4-4-2,4316228,400960
+15,Matías Zaracho,0,Right Midfield,home,4-4-2,4316228,480774
+6,Gustavo Scarpa,0,Left Midfield,home,4-4-2,4316228,330085
+10,Paulinho,0,Centre-Forward,home,4-4-2,4316228,428791
+7,Hulk,1,Centre-Forward,home,4-4-2,4316228,80562
+31,Matheus Mendes,0,Goalkeeper,home,4-4-2,4316228,629077
+4,Mauricio Lemos,0,Centre-Back,home,4-4-2,4316228,303140
+16,Igor Rabello,0,Centre-Back,home,4-4-2,4316228,341701
+47,Rômulo,0,Centre-Back,home,4-4-2,4316228,743588
+25,Mariano,0,Right-Back,home,4-4-2,4316228,54155
+17,Igor Gomes,0,Attacking Midfield,home,4-4-2,4316228,553459
+38,Pedrinho,0,Right Winger,home,4-4-2,4316228,515208
+45,Alisson,0,Right Winger,home,4-4-2,4316228,1083070
+41,Isaac,0,Centre-Forward,home,4-4-2,4316228,1083069
+11,Eduardo Vargas,0,Centre-Forward,home,4-4-2,4316228,89718
+14,Alan Kardec,0,Centre-Forward,home,4-4-2,4316228,53922
+42,Cadu,0,Centre-Forward,home,4-4-2,4316228,1083073
+98,Anderson,0,Goalkeeper,away,4-3-3 Attacking,4316228,598974
+27,Neris,0,Centre-Back,away,4-3-3 Attacking,4316228,349513
+43,João Marcelo,0,Centre-Back,away,4-3-3 Attacking,4316228,744024
+3,Marlon,0,Left-Back,away,4-3-3 Attacking,4316228,406675
+12,William,0,Right-Back,away,4-3-3 Attacking,4316228,341710
+23,Filipe Machado,0,Defensive Midfield,away,4-3-3 Attacking,4316228,520629
+16,Lucas Silva,1,Central Midfield,away,4-3-3 Attacking,4316228,218118
+17,Ramiro,0,Central Midfield,away,4-3-3 Attacking,4316228,258070
+11,Arthur Gomes,0,Left Winger,away,4-3-3 Attacking,4316228,401534
+10,Matheus Pereira,0,Right Winger,away,4-3-3 Attacking,4316228,225984
+8,Rafa Silva,0,Centre-Forward,away,4-3-3 Attacking,4316228,213619
+41,Léo Aragão,0,Goalkeeper,away,4-3-3 Attacking,4316228,1022342
+25,Lucas Villalba,0,Centre-Back,away,4-3-3 Attacking,4316228,240913
+5,Zé Ivaldo,0,Centre-Back,away,4-3-3 Attacking,4316228,484848
+6,Kaiki,0,Left-Back,away,4-3-3 Attacking,4316228,879217
+28,Helibelton Palacios,0,Right-Back,away,4-3-3 Attacking,4316228,211389
+18,José Cifuentes,0,Central Midfield,away,4-3-3 Attacking,4316228,450211
+22,Vitinho,0,Attacking Midfield,away,4-3-3 Attacking,4316228,1072630
+7,Mateus Vital,0,Attacking Midfield,away,4-3-3 Attacking,4316228,408958
+21,Álvaro Barreal,0,Left Winger,away,4-3-3 Attacking,4316228,613873
+80,Robert,0,Left Winger,away,4-3-3 Attacking,4316228,1084714
+30,Gabriel Veron,0,Right Winger,away,4-3-3 Attacking,4316228,627221
+19,Rafael Elias,0,Centre-Forward,away,4-3-3 Attacking,4316228,587328
+1,Ronaldo,1,Goalkeeper,home,4-2-3-1,4316315,387925
+3,Adriano Martins,0,Centre-Back,home,4-2-3-1,4316315,739272
+4,Alix,0,Centre-Back,home,4-2-3-1,4316315,880217
+6,Guilherme Romão,0,Left-Back,home,4-2-3-1,4316315,519879
+2,Bruno Tubarão,0,Right-Back,home,4-2-3-1,4316315,550178
+5,Lucas Kal,0,Defensive Midfield,home,4-2-3-1,4316315,435489
+8,Baralhas,0,Defensive Midfield,home,4-2-3-1,4316315,552242
+7,Gabriel Barros,0,Right Midfield,home,4-2-3-1,4316315,738507
+11,Luiz Fernando,0,Left Midfield,home,4-2-3-1,4316315,372013
+10,Shaylon,0,Attacking Midfield,home,4-2-3-1,4316315,480274
+9,Derek,0,Centre-Forward,home,4-2-3-1,4316315,719251
+12,Pedro Rangel,0,Goalkeeper,home,4-2-3-1,4316315,841263
+14,Luiz Gustavo,0,Centre-Back,home,4-2-3-1,4316315,991846
+15,Pedro Henrique,0,Centre-Back,home,4-2-3-1,4316315,164015
+16,Yeferson Rodallega,0,Left-Back,home,4-2-3-1,4316315,848561
+13,Maguinho,0,Right-Back,home,4-2-3-1,4316315,350766
+17,Danielzinho,0,Central Midfield,home,4-2-3-1,4316315,418530
+18,Alejo Cruz,0,Left Winger,home,4-2-3-1,4316315,868491
+19,Yony González,0,Right Winger,home,4-2-3-1,4316315,262474
+22,Max,0,Right Winger,home,4-2-3-1,4316315,1226150
+21,Emiliano Rodríguez,0,Centre-Forward,home,4-2-3-1,4316315,982198
+20,Vágner Love,0,Centre-Forward,home,4-2-3-1,4316315,18829
+98,Anderson,0,Goalkeeper,away,4-3-3 Attacking,4316315,598974
+5,Zé Ivaldo,0,Centre-Back,away,4-3-3 Attacking,4316315,484848
+43,João Marcelo,0,Centre-Back,away,4-3-3 Attacking,4316315,744024
+3,Marlon,0,Left-Back,away,4-3-3 Attacking,4316315,406675
+12,William,0,Right-Back,away,4-3-3 Attacking,4316315,341710
+29,Lucas Romero,0,Defensive Midfield,away,4-3-3 Attacking,4316315,242201
+16,Lucas Silva,1,Central Midfield,away,4-3-3 Attacking,4316315,218118
+21,Álvaro Barreal,0,Central Midfield,away,4-3-3 Attacking,4316315,613873
+11,Arthur Gomes,0,Left Winger,away,4-3-3 Attacking,4316315,401534
+8,Rafa Silva,0,Right Winger,away,4-3-3 Attacking,4316315,213619
+10,Matheus Pereira,0,Centre-Forward,away,4-3-3 Attacking,4316315,225984
+81,Gabriel Grando,0,Goalkeeper,away,4-3-3 Attacking,4316315,878037
+25,Lucas Villalba,0,Centre-Back,away,4-3-3 Attacking,4316315,240913
+27,Neris,0,Centre-Back,away,4-3-3 Attacking,4316315,349513
+6,Kaiki,0,Left-Back,away,4-3-3 Attacking,4316315,879217
+28,Helibelton Palacios,0,Right-Back,away,4-3-3 Attacking,4316315,211389
+17,Ramiro,0,Central Midfield,away,4-3-3 Attacking,4316315,258070
+18,José Cifuentes,0,Central Midfield,away,4-3-3 Attacking,4316315,450211
+20,Jhosefer,0,Right Midfield,away,4-3-3 Attacking,4316315,637809
+22,Vitinho,0,Attacking Midfield,away,4-3-3 Attacking,4316315,1072630
+80,Robert,0,Left Winger,away,4-3-3 Attacking,4316315,1084714
+30,Gabriel Veron,0,Right Winger,away,4-3-3 Attacking,4316315,627221
+19,Rafael Elias,0,Centre-Forward,away,4-3-3 Attacking,4316315,587328
+1,Fábio,0,Goalkeeper,home,4-2-3-1,4316230,22415
+26,Manoel,0,Centre-Back,home,4-2-3-1,4316230,113586
+30,Felipe Melo,1,Centre-Back,home,4-2-3-1,4316230,35537
+12,Marcelo,0,Left-Back,home,4-2-3-1,4316230,44501
+2,Samuel Xavier,0,Right-Back,home,4-2-3-1,4316230,198250
+7,André,0,Defensive Midfield,home,4-2-3-1,4316230,800176
+8,Martinelli,0,Defensive Midfield,home,4-2-3-1,4316230,815558
+77,Marquinhos,0,Right Midfield,home,4-2-3-1,4316230,668268
+21,Jhon Arias,0,Left Midfield,home,4-2-3-1,4316230,588989
+10,Ganso,0,Attacking Midfield,home,4-2-3-1,4316230,67920
+14,Germán Cano,0,Centre-Forward,home,4-2-3-1,4316230,54590
+27,Felipe Alves,0,Goalkeeper,home,4-2-3-1,4316230,189682
+13,Felipe Andrade,0,Centre-Back,home,4-2-3-1,4316230,884070
+25,Antônio Carlos,0,Centre-Back,home,4-2-3-1,4316230,207446
+6,Diogo Barbosa,0,Left-Back,home,4-2-3-1,4316230,167724
+23,Guga,0,Right-Back,home,4-2-3-1,4316230,592344
+5,Alexsander,0,Defensive Midfield,home,4-2-3-1,4316230,997714
+80,David Terans,0,Attacking Midfield,home,4-2-3-1,4316230,261309
+45,Lima,0,Attacking Midfield,home,4-2-3-1,4316230,387611
+90,Douglas Costa,0,Right Winger,home,4-2-3-1,4316230,75615
+17,Jan Lucumi,0,Right Winger,home,4-2-3-1,4316230,909360
+9,John Kennedy,0,Centre-Forward,home,4-2-3-1,4316230,856085
+19,Kauã Elias,0,Centre-Forward,home,4-2-3-1,4316230,1119009
+1,Léo Jardim,0,Goalkeeper,away,4-3-3 Attacking,4316230,288415
+3,Léo,1,Centre-Back,away,4-3-3 Attacking,4316230,403296
+4,Maicon,0,Centre-Back,away,4-3-3 Attacking,4316230,84695
+6,Lucas Piton,0,Left-Back,away,4-3-3 Attacking,4316230,670201
+96,Paulo Henrique,0,Right-Back,away,4-3-3 Attacking,4316230,412594
+20,Juan Sforza,0,Defensive Midfield,away,4-3-3 Attacking,4316230,659264
+85,Mateus Carvalho,0,Central Midfield,away,4-3-3 Attacking,4316230,862574
+27,Pablo Galdames,0,Central Midfield,away,4-3-3 Attacking,4316230,313830
+7,David,0,Left Winger,away,4-3-3 Attacking,4316230,373189
+31,Rossi,0,Right Winger,away,4-3-3 Attacking,4316230,212114
+99,Pablo Vegetti,0,Centre-Forward,away,4-3-3 Attacking,4316230,334229
+13,Keiller,0,Goalkeeper,away,4-3-3 Attacking,4316230,417084
+32,Robert Rojas,0,Centre-Back,away,4-3-3 Attacking,4316230,527494
+38,João Victor,0,Centre-Back,away,4-3-3 Attacking,4316230,671145
+12,Victor Luís,0,Left-Back,away,4-3-3 Attacking,4316230,234538
+2,José Luis Rodríguez,0,Right-Back,away,4-3-3 Attacking,4316230,430339
+23,Zé Gabriel,0,Defensive Midfield,away,4-3-3 Attacking,4316230,670968
+25,Hugo Moura,0,Defensive Midfield,away,4-3-3 Attacking,4316230,644157
+98,JP,0,Central Midfield,away,4-3-3 Attacking,4316230,1083970
+16,Erick Marcus,0,Left Winger,away,4-3-3 Attacking,4316230,834481
+28,Adson,0,Right Winger,away,4-3-3 Attacking,4316230,868891
+77,Rayan,0,Right Winger,away,4-3-3 Attacking,4316230,1012564
+9,Clayton,0,Centre-Forward,away,4-3-3 Attacking,4316230,733579
+22,Marcos Felipe,0,Goalkeeper,home,4-4-2 Diamond,4316309,283166
+3,Gabriel Xavier,0,Centre-Back,home,4-4-2 Diamond,4316309,740501
+4,Kanu,0,Centre-Back,home,4-4-2 Diamond,4316309,524446
+46,Luciano Juba,0,Left-Back,home,4-4-2 Diamond,4316309,676035
+13,Santiago Arias,0,Right-Back,home,4-4-2 Diamond,4316309,120443
+19,Caio Alexandre,0,Defensive Midfield,home,4-4-2 Diamond,4316309,727751
+10,Everton Ribeiro,1,Right Midfield,home,4-4-2 Diamond,4316309,52896
+6,Jean Lucas,0,Left Midfield,home,4-4-2 Diamond,4316309,578872
+8,Cauly,0,Attacking Midfield,home,4-4-2 Diamond,4316309,162812
+16,Thaciano,0,Centre-Forward,home,4-4-2 Diamond,4316309,392487
+9,Everaldo,0,Centre-Forward,home,4-4-2 Diamond,4316309,205041
+1,Danilo Fernandes,0,Goalkeeper,home,4-4-2 Diamond,4316309,99439
+15,Victor Cuesta,0,Centre-Back,home,4-4-2 Diamond,4316309,104326
+33,David Duarte,0,Centre-Back,home,4-4-2 Diamond,4316309,373446
+2,Gilberto,0,Right-Back,home,4-4-2 Diamond,4316309,231614
+40,Cicinho,0,Right-Back,home,4-4-2 Diamond,4316309,101294
+5,Rezende,0,Defensive Midfield,home,4-4-2 Diamond,4316309,793815
+14,Carlos de Pena,0,Central Midfield,home,4-4-2 Diamond,4316309,257740
+20,Yago Felipe,0,Central Midfield,home,4-4-2 Diamond,4316309,346935
+11,Biel,0,Left Winger,home,4-4-2 Diamond,4316309,875328
+21,Rafael Ratão,0,Left Winger,home,4-4-2 Diamond,4316309,289802
+7,Ademir,0,Right Winger,home,4-4-2 Diamond,4316309,544259
+29,Óscar Estupiñán,0,Centre-Forward,home,4-4-2 Diamond,4316309,388266
+1,Cleiton,1,Goalkeeper,away,4-3-3 Attacking,4316309,468247
+3,Eduardo Santos,0,Centre-Back,away,4-3-3 Attacking,4316309,564546
+14,Pedro Henrique,0,Centre-Back,away,4-3-3 Attacking,4316309,329720
+36,Luan Cândido,0,Left-Back,away,4-3-3 Attacking,4316309,432166
+45,Nathan Mendes,0,Right-Back,away,4-3-3 Attacking,4316309,887801
+5,Jadsom,0,Defensive Midfield,away,4-3-3 Attacking,4316309,612162
+8,Lucas Evangelista,0,Central Midfield,away,4-3-3 Attacking,4316309,270188
+22,Gustavo Neves,0,Central Midfield,away,4-3-3 Attacking,4316309,1084081
+28,Vitinho,0,Left Winger,away,4-3-3 Attacking,4316309,670965
+11,Helinho,0,Right Winger,away,4-3-3 Attacking,4316309,412365
+18,Thiago Borbas,0,Centre-Forward,away,4-3-3 Attacking,4316309,743951
+40,Lucão,0,Goalkeeper,away,4-3-3 Attacking,4316309,412372
+2,Leonardo Realpe,0,Centre-Back,away,4-3-3 Attacking,4316309,656409
+4,Lucas Cunha,0,Centre-Back,away,4-3-3 Attacking,4316309,355496
+29,Juninho Capixaba,0,Left-Back,away,4-3-3 Attacking,4316309,406676
+31,Guilherme Lopes,0,Left-Back,away,4-3-3 Attacking,4316309,678502
+35,Matheus Fernandes,0,Defensive Midfield,away,4-3-3 Attacking,4316309,351892
+7,Eric Ramires,0,Central Midfield,away,4-3-3 Attacking,4316309,614328
+10,Lincoln,0,Attacking Midfield,away,4-3-3 Attacking,4316309,351738
+21,Talisson,0,Left Winger,away,4-3-3 Attacking,4316309,1084074
+30,Henry Mosquera,0,Left Winger,away,4-3-3 Attacking,4316309,975191
+55,Everton,0,Left Winger,away,4-3-3 Attacking,4316309,839034
+33,Ignacio Laquintana,0,Right Winger,away,4-3-3 Attacking,4316309,577407
+1,João Ricardo,0,Goalkeeper,home,4-2-3-1,4316314,270420
+4,Titi,0,Centre-Back,home,4-2-3-1,4316314,55250
+13,Benjamín Kuscevic,0,Centre-Back,home,4-2-3-1,4316314,340840
+36,Felipe Jonatan,0,Left-Back,home,4-2-3-1,4316314,587786
+2,Tinga,1,Right-Back,home,4-2-3-1,4316314,273442
+16,Matheus Rossetto,0,Central Midfield,home,4-2-3-1,4316314,445000
+35,Hércules,0,Central Midfield,home,4-2-3-1,4316314,982617
+7,Tomás Pochettino,0,Attacking Midfield,home,4-2-3-1,4316314,348354
+26,Breno Lopes,0,Left Winger,home,4-2-3-1,4316314,542598
+11,Marinho,0,Right Winger,home,4-2-3-1,4316314,74758
+79,Renato Kayzer,0,Centre-Forward,home,4-2-3-1,4316314,404321
+23,Santos,0,Goalkeeper,home,4-2-3-1,4316314,140811
+19,Emanuel Brítez,0,Centre-Back,home,4-2-3-1,4316314,262851
+6,Bruno Pacheco,0,Left-Back,home,4-2-3-1,4316314,435163
+20,Dudu,0,Right-Back,home,4-2-3-1,4316314,476362
+17,Zé Welison,0,Defensive Midfield,home,4-2-3-1,4316314,323452
+37,Kauan,0,Central Midfield,home,4-2-3-1,4316314,1074479
+8,Emmanuel Martínez,0,Attacking Midfield,home,4-2-3-1,4316314,360526
+77,Kervin Andrade,0,Attacking Midfield,home,4-2-3-1,4316314,896338
+21,Moisés,0,Left Winger,home,4-2-3-1,4316314,788361
+22,Pikachu,0,Right Winger,home,4-2-3-1,4316314,265660
+39,Imanol Machuca,0,Right Winger,home,4-2-3-1,4316314,829968
+9,Juan Martín Lucero,0,Centre-Forward,home,4-2-3-1,4316314,162807
+12,John Victor,0,Goalkeeper,away,4-2-3-1,4316314,432914
+20,Alexander Barboza,0,Centre-Back,away,4-2-3-1,4316314,379752
+15,Bastos,0,Centre-Back,away,4-2-3-1,4316314,195810
+66,Cuiabano,0,Left-Back,away,4-2-3-1,4316314,891353
+4,Mateo Ponte,0,Right-Back,away,4-2-3-1,4316314,856047
+26,Gregore,0,Defensive Midfield,away,4-2-3-1,4316314,546036
+5,Danilo Barbosa,0,Central Midfield,away,4-2-3-1,4316314,273438
+6,Tchê Tchê,1,Attacking Midfield,away,4-2-3-1,4316314,364261
+47,Jeffinho,0,Left Winger,away,4-2-3-1,4316314,884072
+70,Óscar Romero,0,Right Winger,away,4-2-3-1,4316314,217886
+7,Luiz Henrique,0,Centre-Forward,away,4-2-3-1,4316314,800175
+1,Gatito Fernández,0,Goalkeeper,away,4-2-3-1,4316314,107318
+3,Lucas Halter,0,Centre-Back,away,4-2-3-1,4316314,468302
+16,Hugo,0,Left-Back,away,4-2-3-1,4316314,740157
+22,Damián Suárez,0,Right-Back,away,4-2-3-1,4316314,76746
+17,Marlon Freitas,0,Defensive Midfield,away,4-2-3-1,4316314,364972
+8,Patrick de Paula,0,Central Midfield,away,4-2-3-1,4316314,737821
+77,Diego Hernández,0,Attacking Midfield,away,4-2-3-1,4316314,800732
+32,Jacob Montes,0,Attacking Midfield,away,4-2-3-1,4316314,497494
+67,Yarlen,0,Left Winger,away,4-2-3-1,4316314,1241278
+10,Jefferson Savarino,0,Right Winger,away,4-2-3-1,4316314,309193
+11,Júnior Santos,0,Right Winger,away,4-2-3-1,4316314,592347
+79,Fabiano,0,Right Winger,away,4-2-3-1,4316314,1093843
+1,Agustín Rossi,0,Goalkeeper,home,4-2-3-1,4316260,352324
+4,Léo Pereira,0,Centre-Back,home,4-2-3-1,4316260,288431
+15,Fabrício Bruno,0,Centre-Back,home,4-2-3-1,4316260,432773
+6,Ayrton Lucas,0,Left-Back,home,4-2-3-1,4316260,349585
+2,Guillermo Varela,0,Right-Back,home,4-2-3-1,4316260,188862
+21,Allan,0,Defensive Midfield,home,4-2-3-1,4316260,385271
+5,Erick Pulgar,0,Defensive Midfield,home,4-2-3-1,4316260,215616
+27,Bruno Henrique,1,Right Midfield,home,4-2-3-1,4316260,353108
+11,Everton,0,Left Midfield,home,4-2-3-1,4316260,321239
+18,Nicolás de la Cruz,0,Attacking Midfield,home,4-2-3-1,4316260,397458
+9,Pedro,0,Centre-Forward,home,4-2-3-1,4316260,432895
+25,Matheus Cunha,0,Goalkeeper,home,4-2-3-1,4316260,876739
+33,Cleiton,0,Centre-Back,home,4-2-3-1,4316260,943237
+3,Léo Ortiz,0,Centre-Back,home,4-2-3-1,4316260,374136
+23,David Luiz,0,Centre-Back,home,4-2-3-1,4316260,46741
+43,Wesley,0,Right-Back,home,4-2-3-1,4316260,964580
+48,Igor Jesus,0,Defensive Midfield,home,4-2-3-1,4316260,978037
+8,Gerson,0,Central Midfield,home,4-2-3-1,4316260,341705
+19,Lorran,0,Attacking Midfield,home,4-2-3-1,4316260,1009030
+29,Victor Hugo,0,Attacking Midfield,home,4-2-3-1,4316260,749559
+14,Giorgian de Arrascaeta,0,Attacking Midfield,home,4-2-3-1,4316260,248410
+7,Luiz Araújo,0,Right Winger,home,4-2-3-1,4316260,435485
+22,Carlinhos,0,Centre-Forward,home,4-2-3-1,4316260,363173
+23,Rafael,0,Goalkeeper,away,3-4-2-1,4316260,68097
+4,Diego Costa,0,Centre-Back,away,3-4-2-1,4316260,546212
+5,Robert Arboleda,0,Centre-Back,away,3-4-2-1,4316260,139867
+32,Nahuel Ferraresi,0,Centre-Back,away,3-4-2-1,4316260,466336
+29,Pablo Maia,0,Defensive Midfield,away,3-4-2-1,4316260,892089
+25,Alisson,0,Defensive Midfield,away,3-4-2-1,4316260,229736
+2,Igor Vinícius,0,Right Midfield,away,3-4-2-1,4316260,552240
+6,Welington,0,Left Midfield,away,3-4-2-1,4316260,729264
+15,Michel Araújo,0,Attacking Midfield,away,3-4-2-1,4316260,482144
+10,Luciano,0,Attacking Midfield,away,3-4-2-1,4316260,223560
+9,Jonathan Calleri,1,Centre-Forward,away,3-4-2-1,4316260,284727
+93,Jandrei,0,Goalkeeper,away,3-4-2-1,4316260,512344
+35,Sabino,0,Centre-Back,away,3-4-2-1,4316260,546033
+28,Alan Franco,0,Centre-Back,away,3-4-2-1,4316260,503343
+36,Patryck,0,Left-Back,away,3-4-2-1,4316260,662326
+11,Rodrigo Nestor,0,Central Midfield,away,3-4-2-1,4316260,468304
+21,Damián Bobadilla,0,Central Midfield,away,3-4-2-1,4316260,861852
+8,Giuliano Galoppo,0,Attacking Midfield,away,3-4-2-1,4316260,567249
+39,William Gomes,0,Left Winger,away,3-4-2-1,4316260,1004725
+47,Ferreirinha,0,Left Winger,away,3-4-2-1,4316260,689017
+33,Erick,0,Right Winger,away,3-4-2-1,4316260,515638
+17,André Silva,0,Centre-Forward,away,3-4-2-1,4316260,565232
+31,Juan,0,Centre-Forward,away,3-4-2-1,4316260,662332
+23,Rafael,0,Goalkeeper,home,3-4-1-2,4316193,68097
+4,Diego Costa,0,Centre-Back,home,3-4-1-2,4316193,546212
+5,Robert Arboleda,0,Centre-Back,home,3-4-1-2,4316193,139867
+32,Nahuel Ferraresi,0,Centre-Back,home,3-4-1-2,4316193,466336
+29,Pablo Maia,0,Defensive Midfield,home,3-4-1-2,4316193,892089
+25,Alisson,0,Defensive Midfield,home,3-4-1-2,4316193,229736
+2,Igor Vinícius,0,Right Midfield,home,3-4-1-2,4316193,552240
+15,Michel Araújo,0,Left Midfield,home,3-4-1-2,4316193,482144
+8,Giuliano Galoppo,0,Attacking Midfield,home,3-4-1-2,4316193,567249
+10,Luciano,0,Centre-Forward,home,3-4-1-2,4316193,223560
+9,Jonathan Calleri,1,Centre-Forward,home,3-4-1-2,4316193,284727
+93,Jandrei,0,Goalkeeper,home,3-4-1-2,4316193,512344
+35,Sabino,0,Centre-Back,home,3-4-1-2,4316193,546033
+44,Matheus Belém,0,Centre-Back,home,3-4-1-2,4316193,980825
+28,Alan Franco,0,Centre-Back,home,3-4-1-2,4316193,503343
+6,Welington,0,Left-Back,home,3-4-1-2,4316193,729264
+11,Rodrigo Nestor,0,Central Midfield,home,3-4-1-2,4316193,468304
+21,Damián Bobadilla,0,Central Midfield,home,3-4-1-2,4316193,861852
+55,James Rodríguez,0,Attacking Midfield,home,3-4-1-2,4316193,88103
+39,William Gomes,0,Left Winger,home,3-4-1-2,4316193,1004725
+33,Erick,0,Right Winger,home,3-4-1-2,4316193,515638
+17,André Silva,0,Centre-Forward,home,3-4-1-2,4316193,565232
+31,Juan,0,Centre-Forward,home,3-4-1-2,4316193,662332
+1,João Ricardo,0,Goalkeeper,away,3-5-2 flat,4316193,270420
+4,Titi,1,Centre-Back,away,3-5-2 flat,4316193,55250
+13,Benjamín Kuscevic,0,Centre-Back,away,3-5-2 flat,4316193,340840
+19,Emanuel Brítez,0,Centre-Back,away,3-5-2 flat,4316193,262851
+7,Tomás Pochettino,0,Defensive Midfield,away,3-5-2 flat,4316193,348354
+17,Zé Welison,0,Central Midfield,away,3-5-2 flat,4316193,323452
+35,Hércules,0,Central Midfield,away,3-5-2 flat,4316193,982617
+22,Pikachu,0,Right Midfield,away,3-5-2 flat,4316193,265660
+6,Bruno Pacheco,0,Left Midfield,away,3-5-2 flat,4316193,435163
+11,Marinho,0,Centre-Forward,away,3-5-2 flat,4316193,74758
+9,Juan Martín Lucero,0,Centre-Forward,away,3-5-2 flat,4316193,162807
+23,Santos,0,Goalkeeper,away,3-5-2 flat,4316193,140811
+30,Mauricio Kozlinski,0,Goalkeeper,away,3-5-2 flat,4316193,438431
+33,Gonzalo Escobar,0,Left-Back,away,3-5-2 flat,4316193,440377
+2,Tinga,0,Right-Back,away,3-5-2 flat,4316193,273442
+20,Dudu,0,Right-Back,away,3-5-2 flat,4316193,476362
+88,Lucas Sasha,0,Defensive Midfield,away,3-5-2 flat,4316193,121986
+28,Pedro Augusto,0,Central Midfield,away,3-5-2 flat,4316193,594105
+37,Kauan,0,Central Midfield,away,3-5-2 flat,4316193,1074479
+77,Kervin Andrade,0,Attacking Midfield,away,3-5-2 flat,4316193,896338
+21,Moisés,0,Left Winger,away,3-5-2 flat,4316193,788361
+32,Pedro Rocha,0,Left Winger,away,3-5-2 flat,4316193,362844
+39,Imanol Machuca,0,Right Winger,away,3-5-2 flat,4316193,829968
+1,Gatito Fernández,1,Goalkeeper,home,4-4-2 double 6,4316261,107318
+3,Lucas Halter,0,Centre-Back,home,4-4-2 double 6,4316261,468302
+15,Bastos,0,Centre-Back,home,4-4-2 double 6,4316261,195810
+16,Hugo,0,Left-Back,home,4-4-2 double 6,4316261,740157
+4,Mateo Ponte,0,Right-Back,home,4-4-2 double 6,4316261,856047
+26,Gregore,0,Defensive Midfield,home,4-4-2 double 6,4316261,546036
+6,Tchê Tchê,0,Defensive Midfield,home,4-4-2 double 6,4316261,364261
+47,Jeffinho,0,Left Winger,home,4-4-2 double 6,4316261,884072
+7,Luiz Henrique,0,Right Winger,home,4-4-2 double 6,4316261,800175
+11,Júnior Santos,0,Centre-Forward,home,4-4-2 double 6,4316261,592347
+90,Matheus Nascimento,0,Centre-Forward,home,4-4-2 double 6,4316261,743594
+12,John Victor,0,Goalkeeper,home,4-4-2 double 6,4316261,432914
+44,Luis Segovia,0,Centre-Back,home,4-4-2 double 6,4316261,385639
+23,Pablo,0,Centre-Back,home,4-4-2 double 6,4316261,149577
+8,Patrick de Paula,0,Central Midfield,home,4-4-2 double 6,4316261,737821
+5,Danilo Barbosa,0,Central Midfield,home,4-4-2 double 6,4316261,273438
+25,Kauê,0,Central Midfield,home,4-4-2 double 6,4316261,834467
+70,Óscar Romero,0,Attacking Midfield,home,4-4-2 double 6,4316261,217886
+77,Diego Hernández,0,Attacking Midfield,home,4-4-2 double 6,4316261,800732
+32,Jacob Montes,0,Attacking Midfield,home,4-4-2 double 6,4316261,497494
+67,Yarlen,0,Left Winger,home,4-4-2 double 6,4316261,1241278
+10,Jefferson Savarino,0,Right Winger,home,4-4-2 double 6,4316261,309193
+9,Tiquinho Soares,0,Centre-Forward,home,4-4-2 double 6,4316261,103381
+1,Ronaldo,1,Goalkeeper,away,4-4-2 double 6,4316261,387925
+4,Pedro Henrique,0,Centre-Back,away,4-4-2 double 6,4316261,164015
+3,Luiz Felipe,0,Centre-Back,away,4-4-2 double 6,4316261,373150
+6,Guilherme Romão,0,Left-Back,away,4-4-2 double 6,4316261,519879
+2,Bruno Tubarão,0,Right-Back,away,4-4-2 double 6,4316261,550178
+5,Rhaldney,0,Defensive Midfield,away,4-4-2 double 6,4316261,638269
+8,Baralhas,0,Defensive Midfield,away,4-4-2 double 6,4316261,552242
+7,Alejo Cruz,0,Left Winger,away,4-4-2 double 6,4316261,868491
+10,Shaylon,0,Right Winger,away,4-4-2 double 6,4316261,480274
+11,Luiz Fernando,0,Centre-Forward,away,4-4-2 double 6,4316261,372013
+9,Emiliano Rodríguez,0,Centre-Forward,away,4-4-2 double 6,4316261,982198
+12,Pedro Rangel,0,Goalkeeper,away,4-4-2 double 6,4316261,841263
+14,Marcão,0,Centre-Back,away,4-4-2 double 6,4316261,996242
+15,Yeferson Rodallega,0,Left-Back,away,4-4-2 double 6,4316261,848561
+13,Lucas Kal,0,Defensive Midfield,away,4-4-2 double 6,4316261,435489
+16,Roni,0,Defensive Midfield,away,4-4-2 double 6,4316261,725049
+17,Danielzinho,0,Central Midfield,away,4-4-2 double 6,4316261,418530
+22,Gabriel Barros,0,Right Winger,away,4-4-2 double 6,4316261,738507
+19,Yony González,0,Right Winger,away,4-4-2 double 6,4316261,262474
+21,Max,0,Right Winger,away,4-4-2 double 6,4316261,1226150
+18,Derek,0,Centre-Forward,away,4-4-2 double 6,4316261,719251
+20,Vágner Love,0,Centre-Forward,away,4-4-2 double 6,4316261,18829
+25,Alisson,0,Goalkeeper,home,4-3-1-2,4316196,375532
+3,Rodrigo,1,Centre-Back,home,4-3-1-2,4316196,349420
+33,Maia,0,Centre-Back,home,4-3-1-2,4316196,188715
+22,Marcelo Hermes,0,Left-Back,home,4-3-1-2,4316196,348769
+27,Claudinho,0,Right-Back,home,4-3-1-2,4316196,697845
+5,Meritão,0,Defensive Midfield,home,4-3-1-2,4316196,646432
+88,Barreto,0,Defensive Midfield,home,4-3-1-2,4316196,348262
+7,Fellipe Mateus,0,Defensive Midfield,home,4-3-1-2,4316196,520470
+10,Marquinhos Gabriel,0,Attacking Midfield,home,4-3-1-2,4316196,100091
+23,Éder,0,Centre-Forward,home,4-3-1-2,4316196,37418
+79,Renato Kayzer,0,Centre-Forward,home,4-3-1-2,4316196,404321
+32,Matheus Teixeira,0,Goalkeeper,home,4-3-1-2,4316196,598975
+41,Erick Garcia,0,Centre-Back,home,4-3-1-2,4316196,1215637
+14,Miguel Trauco,0,Left-Back,home,4-3-1-2,4316196,177690
+19,Yerson Candelo,0,Right-Back,home,4-3-1-2,4316196,158333
+15,Eliedson,0,Defensive Midfield,home,4-3-1-2,4316196,1027713
+26,Léo Gonçalves,0,Defensive Midfield,home,4-3-1-2,4316196,872452
+30,Mateo Barcia,0,Defensive Midfield,home,4-3-1-2,4316196,891569
+17,Matheusinho,0,Attacking Midfield,home,4-3-1-2,4316196,401533
+11,Yannick Bolasie,0,Left Winger,home,4-3-1-2,4316196,75471
+35,Arthur Caíke,0,Left Winger,home,4-3-1-2,4316196,224481
+73,Adriano,0,Left Winger,home,4-3-1-2,4316196,1017149
+21,João Carlos,0,Right Winger,home,4-3-1-2,4316196,738502
+1,Gabriel,0,Goalkeeper,away,4-4-2,4316196,79242
+3,Zé Marcos,0,Centre-Back,away,4-4-2,4316196,323850
+34,Rodrigo Sam,0,Centre-Back,away,4-4-2,4316196,363174
+12,Gabriel Inocêncio,0,Left-Back,away,4-4-2,4316196,788402
+2,João Lucas,0,Right-Back,away,4-4-2,4316196,672292
+95,Caíque Gonçalves,0,Central Midfield,away,4-4-2,4316196,555310
+16,Jádson,0,Central Midfield,away,4-4-2,4316196,205179
+10,Nenê,1,Right Midfield,away,4-4-2,4316196,29091
+21,Lucas Barbosa,0,Left Midfield,away,4-4-2,4316196,816144
+20,Jean Carlos,0,Centre-Forward,away,4-4-2,4316196,102574
+9,Gilberto,0,Centre-Forward,away,4-4-2,4316196,164013
+77,Mateus Claus,0,Goalkeeper,away,4-4-2,4316196,733453
+23,Abner,0,Centre-Back,away,4-4-2,4316196,1086632
+43,Lucas Freitas,0,Centre-Back,away,4-4-2,4316196,809716
+36,Da Rocha,0,Left-Back,away,4-4-2,4316196,1096266
+22,João Vitor,0,Right-Back,away,4-4-2,4316196,1226336
+8,Thiago Conti,0,Central Midfield,away,4-4-2,4316196,583064
+44,Mandaca,0,Central Midfield,away,4-4-2,4316196,892091
+7,Erick Farias,0,Left Winger,away,4-4-2,4316196,535037
+29,Ruan,0,Left Winger,away,4-4-2,4316196,1053933
+11,Marcelinho,0,Right Winger,away,4-4-2,4316196,813120
+37,Rildo,0,Right Winger,away,4-4-2,4316196,800177
+75,Kleiton,0,Right Winger,away,4-4-2,4316196,658665
+1,Gabriel,0,Goalkeeper,home,4-4-2,4316266,79242
+3,Zé Marcos,0,Centre-Back,home,4-4-2,4316266,323850
+4,Danilo Boza,0,Centre-Back,home,4-4-2,4316266,606136
+12,Gabriel Inocêncio,0,Left-Back,home,4-4-2,4316266,788402
+2,João Lucas,0,Right-Back,home,4-4-2,4316266,672292
+95,Caíque Gonçalves,0,Central Midfield,home,4-4-2,4316266,555310
+16,Jádson,0,Central Midfield,home,4-4-2,4316266,205179
+20,Jean Carlos,0,Right Midfield,home,4-4-2,4316266,102574
+21,Lucas Barbosa,0,Left Midfield,home,4-4-2,4316266,816144
+10,Nenê,1,Centre-Forward,home,4-4-2,4316266,29091
+7,Erick Farias,0,Centre-Forward,home,4-4-2,4316266,535037
+77,Mateus Claus,0,Goalkeeper,home,4-4-2,4316266,733453
+43,Lucas Freitas,0,Centre-Back,home,4-4-2,4316266,809716
+34,Rodrigo Sam,0,Centre-Back,home,4-4-2,4316266,363174
+36,Da Rocha,0,Left-Back,home,4-4-2,4316266,1096266
+22,João Vitor,0,Right-Back,home,4-4-2,4316266,1226336
+8,Thiago Conti,0,Central Midfield,home,4-4-2,4316266,583064
+44,Mandaca,0,Central Midfield,home,4-4-2,4316266,892091
+29,Ruan,0,Left Winger,home,4-4-2,4316266,1053933
+11,Marcelinho,0,Right Winger,home,4-4-2,4316266,813120
+37,Rildo,0,Right Winger,home,4-4-2,4316266,800177
+75,Kleiton,0,Right Winger,home,4-4-2,4316266,658665
+45,Werik Popó,0,Centre-Forward,home,4-4-2,4316266,902507
+12,Cássio,1,Goalkeeper,away,4-2-3-1,4316266,50144
+3,Félix Torres,0,Centre-Back,away,4-2-3-1,4316266,468174
+13,Gustavo Henrique,0,Centre-Back,away,4-2-3-1,4316266,208681
+46,Hugo,0,Left-Back,away,4-2-3-1,4316266,730708
+23,Fagner,0,Right-Back,away,4-2-3-1,4316266,47592
+14,Raniele,0,Defensive Midfield,away,4-2-3-1,4316266,546530
+77,Igor Coronado,0,Defensive Midfield,away,4-2-3-1,4316266,215915
+11,Ángel Romero,0,Right Midfield,away,4-2-3-1,4316266,262262
+36,Wesley,0,Left Midfield,away,4-2-3-1,4316266,1007378
+10,Rodrigo Garro,0,Attacking Midfield,away,4-2-3-1,4316266,565009
+9,Yuri Alberto,0,Centre-Forward,away,4-2-3-1,4316266,489893
+22,Carlos Miguel,0,Goalkeeper,away,4-2-3-1,4316266,641458
+34,Raul Gustavo,0,Centre-Back,away,4-2-3-1,4316266,792345
+25,Cacá,0,Centre-Back,away,4-2-3-1,4316266,603122
+21,Matheus Bidu,0,Left-Back,away,4-2-3-1,4316266,670021
+2,Matheus França,0,Right-Back,away,4-2-3-1,4316266,594226
+5,Fausto Vera,0,Defensive Midfield,away,4-2-3-1,4316266,491701
+7,Maycon,0,Central Midfield,away,4-2-3-1,4316266,421935
+27,Breno Bidon,0,Central Midfield,away,4-2-3-1,4316266,1029227
+8,Paulinho,0,Central Midfield,away,4-2-3-1,4316266,57229
+16,Pedro Henrique,0,Right Winger,away,4-2-3-1,4316266,213368
+19,Gustavo Silva,0,Right Winger,away,4-2-3-1,4316266,636314
+20,Pedro Raul,0,Centre-Forward,away,4-2-3-1,4316266,547443
+21,Weverton,0,Goalkeeper,home,4-2-3-1,4316312,69400
+13,Luan,0,Centre-Back,home,4-2-3-1,4316312,178984
+15,Gustavo Gómez,1,Centre-Back,home,4-2-3-1,4316312,215390
+22,Joaquín Piquerez,0,Left-Back,home,4-2-3-1,4316312,496268
+12,Mayke,0,Right-Back,home,4-2-3-1,4316312,147361
+8,Zé Rafael,0,Defensive Midfield,home,4-2-3-1,4316312,225432
+25,Gabriel Menino,0,Defensive Midfield,home,4-2-3-1,4316312,608216
+41,Estêvão,0,Right Midfield,home,4-2-3-1,4316312,1056993
+10,Rony,0,Left Midfield,home,4-2-3-1,4316312,371009
+23,Raphael Veiga,0,Attacking Midfield,home,4-2-3-1,4316312,432953
+9,Endrick,0,Centre-Forward,home,4-2-3-1,4316312,971570
+14,Marcelo Lomba,0,Goalkeeper,home,4-2-3-1,4316312,53015
+34,Naves,0,Centre-Back,home,4-2-3-1,4316312,964591
+6,Vanderlan,0,Left-Back,home,4-2-3-1,4316312,816129
+16,Caio Paulista,0,Left-Back,home,4-2-3-1,4316312,601011
+2,Marcos Rocha,0,Right-Back,home,4-2-3-1,4316312,75435
+35,Fabinho,0,Defensive Midfield,home,4-2-3-1,4316312,627230
+27,Richard Ríos,0,Central Midfield,home,4-2-3-1,4316312,735573
+20,Rômulo,0,Attacking Midfield,home,4-2-3-1,4316312,867461
+40,Jhon Jhon,0,Attacking Midfield,home,4-2-3-1,4316312,964582
+17,Lázaro,0,Left Winger,home,4-2-3-1,4316312,574772
+31,Luis Guilherme,0,Right Winger,home,4-2-3-1,4316312,991800
+42,José Manuel López,0,Centre-Forward,home,4-2-3-1,4316312,844797
+1,Bento,0,Goalkeeper,away,4-2-3-1,4316312,691906
+15,Mateo Gamarra,0,Centre-Back,away,4-2-3-1,4316312,661245
+4,Kaique Rocha,0,Centre-Back,away,4-2-3-1,4316312,633377
+37,Lucas Esquivel,0,Left-Back,away,4-2-3-1,4316312,829969
+29,Leonardo Godoy,0,Right-Back,away,4-2-3-1,4316312,369556
+5,Fernandinho,1,Defensive Midfield,away,4-2-3-1,4316312,26267
+26,Erick,0,Defensive Midfield,away,4-2-3-1,4316312,633212
+10,Bruno Zapelli,0,Attacking Midfield,away,4-2-3-1,4316312,711600
+28,Tomás Cuello,0,Left Winger,away,4-2-3-1,4316312,503052
+11,Nikão,0,Right Winger,away,4-2-3-1,4316312,149572
+92,Pablo,0,Centre-Forward,away,4-2-3-1,4316312,148765
+24,Léo Linck,0,Goalkeeper,away,4-2-3-1,4316312,742034
+46,Marcos André,0,Centre-Back,away,4-2-3-1,4316312,1196689
+6,Fernando,0,Left-Back,away,4-2-3-1,4316312,731057
+22,Madson,0,Right-Back,away,4-2-3-1,4316312,177845
+3,Gabriel,0,Defensive Midfield,away,4-2-3-1,4316312,213606
+23,Felipinho,0,Central Midfield,away,4-2-3-1,4316312,1115489
+30,Zé Vitor,0,Central Midfield,away,4-2-3-1,4316312,825780
+80,Alex Santana,0,Central Midfield,away,4-2-3-1,4316312,219835
+14,Agustín Canobbio,0,Right Winger,away,4-2-3-1,4316312,457533
+9,Gonzalo Mastriani,0,Centre-Forward,away,4-2-3-1,4316312,195882
+7,Lucas Di Yorio,0,Centre-Forward,away,4-2-3-1,4316312,439108
+20,Julimar,0,Centre-Forward,away,4-2-3-1,4316312,593205
+21,Weverton,0,Goalkeeper,home,3-4-2-1,4316262,69400
+15,Gustavo Gómez,1,Centre-Back,home,3-4-2-1,4316262,215390
+26,Murilo,0,Centre-Back,home,3-4-2-1,4316262,458710
+22,Joaquín Piquerez,0,Centre-Back,home,3-4-2-1,4316262,496268
+5,Aníbal Moreno,0,Defensive Midfield,home,3-4-2-1,4316262,642758
+27,Richard Ríos,0,Central Midfield,home,3-4-2-1,4316262,735573
+12,Mayke,0,Right Midfield,home,3-4-2-1,4316262,147361
+17,Lázaro,0,Left Midfield,home,3-4-2-1,4316262,574772
+23,Raphael Veiga,0,Attacking Midfield,home,3-4-2-1,4316262,432953
+9,Endrick,0,Second Striker,home,3-4-2-1,4316262,971570
+42,José Manuel López,0,Centre-Forward,home,3-4-2-1,4316262,844797
+14,Marcelo Lomba,0,Goalkeeper,home,3-4-2-1,4316262,53015
+13,Luan,0,Centre-Back,home,3-4-2-1,4316262,178984
+6,Vanderlan,0,Left-Back,home,3-4-2-1,4316262,816129
+16,Caio Paulista,0,Left-Back,home,3-4-2-1,4316262,601011
+2,Marcos Rocha,0,Right-Back,home,3-4-2-1,4316262,75435
+35,Fabinho,0,Defensive Midfield,home,3-4-2-1,4316262,627230
+25,Gabriel Menino,0,Central Midfield,home,3-4-2-1,4316262,608216
+20,Rômulo,0,Attacking Midfield,home,3-4-2-1,4316262,867461
+40,Jhon Jhon,0,Attacking Midfield,home,3-4-2-1,4316262,964582
+31,Luis Guilherme,0,Right Winger,home,3-4-2-1,4316262,991800
+41,Estêvão,0,Right Winger,home,3-4-2-1,4316262,1056993
+10,Rony,0,Centre-Forward,home,3-4-2-1,4316262,371009
+1,Sergio Rochet,0,Goalkeeper,away,4-2-3-1,4316262,264014
+25,Gabriel Mercado,1,Centre-Back,away,4-2-3-1,4316262,45319
+44,Vitão,0,Centre-Back,away,4-2-3-1,4316262,428783
+6,Renê,0,Left-Back,away,4-2-3-1,4316262,212209
+16,Fabricio Bustos,0,Right-Back,away,4-2-3-1,4316262,275381
+29,Thiago Maia,0,Defensive Midfield,away,4-2-3-1,4316262,294873
+8,Bruno Henrique,0,Central Midfield,away,4-2-3-1,4316262,277335
+27,Mauricio,0,Attacking Midfield,away,4-2-3-1,4316262,678439
+11,Wanderson,0,Left Winger,away,4-2-3-1,4316262,236202
+21,Wesley,0,Right Winger,away,4-2-3-1,4316262,674732
+19,Rafael Borré,0,Centre-Forward,away,4-2-3-1,4316262,323831
+12,Fabrício,0,Goalkeeper,away,4-2-3-1,4316262,150479
+4,Robert Renan,0,Centre-Back,away,4-2-3-1,4316262,958598
+3,Igor Gomes,0,Centre-Back,away,4-2-3-1,4316262,689640
+26,Alexandro Bernabéi,0,Left-Back,away,4-2-3-1,4316262,719635
+2,Hugo Mallo,0,Right-Back,away,4-2-3-1,4316262,119905
+15,Bruno Gomes,0,Defensive Midfield,away,4-2-3-1,4316262,703322
+40,Rômulo,0,Defensive Midfield,away,4-2-3-1,4316262,687359
+41,Matheus Dias,0,Defensive Midfield,away,4-2-3-1,4316262,815384
+47,Gustavo Prado,0,Central Midfield,away,4-2-3-1,4316262,1095552
+34,Gabriel Carvalho,0,Attacking Midfield,away,4-2-3-1,4316262,1089144
+31,Lucas Alario,0,Centre-Forward,away,4-2-3-1,4316262,193782
+45,Lucca,0,Centre-Forward,away,4-2-3-1,4316262,982549
+22,Everson,0,Goalkeeper,home,4-2-3-1,4316258,106032
+4,Mauricio Lemos,0,Centre-Back,home,4-2-3-1,4316258,303140
+16,Igor Rabello,0,Centre-Back,home,4-2-3-1,4316258,341701
+44,Rubens,0,Left-Back,home,4-2-3-1,4316258,843397
+26,Renzo Saravia,0,Right-Back,home,4-2-3-1,4316258,268642
+5,Otávio,0,Defensive Midfield,home,4-2-3-1,4316258,312314
+23,Alan Franco,0,Defensive Midfield,home,4-2-3-1,4316258,400960
+6,Gustavo Scarpa,0,Right Midfield,home,4-2-3-1,4316258,330085
+7,Hulk,1,Left Midfield,home,4-2-3-1,4316258,80562
+17,Igor Gomes,0,Attacking Midfield,home,4-2-3-1,4316258,553459
+10,Paulinho,0,Centre-Forward,home,4-2-3-1,4316258,428791
+31,Matheus Mendes,0,Goalkeeper,home,4-2-3-1,4316258,629077
+47,Rômulo,0,Centre-Back,home,4-2-3-1,4316258,743588
+13,Guilherme Arana,0,Left-Back,home,4-2-3-1,4316258,346766
+25,Mariano,0,Right-Back,home,4-2-3-1,4316258,54155
+15,Matías Zaracho,0,Attacking Midfield,home,4-2-3-1,4316258,480774
+38,Pedrinho,0,Right Winger,home,4-2-3-1,4316258,515208
+45,Alisson,0,Right Winger,home,4-2-3-1,4316258,1083070
+41,Isaac,0,Centre-Forward,home,4-2-3-1,4316258,1083069
+11,Eduardo Vargas,0,Centre-Forward,home,4-2-3-1,4316258,89718
+14,Alan Kardec,0,Centre-Forward,home,4-2-3-1,4316258,53922
+42,Cadu,0,Centre-Forward,home,4-2-3-1,4316258,1083073
+25,Alisson,0,Goalkeeper,away,4-3-2-1,4316258,375532
+3,Rodrigo,1,Centre-Back,away,4-3-2-1,4316258,349420
+33,Maia,0,Centre-Back,away,4-3-2-1,4316258,188715
+14,Miguel Trauco,0,Left-Back,away,4-3-2-1,4316258,177690
+27,Claudinho,0,Right-Back,away,4-3-2-1,4316258,697845
+5,Meritão,0,Defensive Midfield,away,4-3-2-1,4316258,646432
+22,Marcelo Hermes,0,Right Midfield,away,4-3-2-1,4316258,348769
+88,Barreto,0,Left Midfield,away,4-3-2-1,4316258,348262
+7,Fellipe Mateus,0,Attacking Midfield,away,4-3-2-1,4316258,520470
+10,Marquinhos Gabriel,0,Attacking Midfield,away,4-3-2-1,4316258,100091
+11,Yannick Bolasie,0,Centre-Forward,away,4-3-2-1,4316258,75471
+32,Matheus Teixeira,0,Goalkeeper,away,4-3-2-1,4316258,598975
+4,Wilker Ángel,0,Centre-Back,away,4-3-2-1,4316258,178400
+41,Erick Garcia,0,Centre-Back,away,4-3-2-1,4316258,1215637
+66,Guilherme,0,Left-Back,away,4-3-2-1,4316258,1008160
+19,Yerson Candelo,0,Right-Back,away,4-3-2-1,4316258,158333
+15,Eliedson,0,Defensive Midfield,away,4-3-2-1,4316258,1027713
+26,Léo Gonçalves,0,Defensive Midfield,away,4-3-2-1,4316258,872452
+30,Mateo Barcia,0,Defensive Midfield,away,4-3-2-1,4316258,891569
+17,Matheusinho,0,Attacking Midfield,away,4-3-2-1,4316258,401533
+35,Arthur Caíke,0,Left Winger,away,4-3-2-1,4316258,224481
+99,Eduardo Melo,0,Left Winger,away,4-3-2-1,4316258,738503
+21,João Carlos,0,Right Winger,away,4-3-2-1,4316258,738502
+1,João Ricardo,0,Goalkeeper,home,3-5-2 flat,4316264,270420
+4,Titi,0,Centre-Back,home,3-5-2 flat,4316264,55250
+19,Emanuel Brítez,0,Centre-Back,home,3-5-2 flat,4316264,262851
+2,Tinga,1,Centre-Back,home,3-5-2 flat,4316264,273442
+17,Zé Welison,0,Defensive Midfield,home,3-5-2 flat,4316264,323452
+35,Hércules,0,Central Midfield,home,3-5-2 flat,4316264,982617
+7,Tomás Pochettino,0,Central Midfield,home,3-5-2 flat,4316264,348354
+22,Pikachu,0,Right Midfield,home,3-5-2 flat,4316264,265660
+6,Bruno Pacheco,0,Left Midfield,home,3-5-2 flat,4316264,435163
+39,Imanol Machuca,0,Second Striker,home,3-5-2 flat,4316264,829968
+9,Juan Martín Lucero,0,Centre-Forward,home,3-5-2 flat,4316264,162807
+23,Santos,0,Goalkeeper,home,3-5-2 flat,4316264,140811
+20,Dudu,0,Right-Back,home,3-5-2 flat,4316264,476362
+88,Lucas Sasha,0,Defensive Midfield,home,3-5-2 flat,4316264,121986
+28,Pedro Augusto,0,Central Midfield,home,3-5-2 flat,4316264,594105
+37,Kauan,0,Central Midfield,home,3-5-2 flat,4316264,1074479
+8,Emmanuel Martínez,0,Attacking Midfield,home,3-5-2 flat,4316264,360526
+77,Kervin Andrade,0,Attacking Midfield,home,3-5-2 flat,4316264,896338
+21,Moisés,0,Left Winger,home,3-5-2 flat,4316264,788361
+32,Pedro Rocha,0,Left Winger,home,3-5-2 flat,4316264,362844
+11,Marinho,0,Right Winger,home,3-5-2 flat,4316264,74758
+79,Renato Kayzer,0,Centre-Forward,home,3-5-2 flat,4316264,404321
+98,Anderson,0,Goalkeeper,away,4-3-3 Attacking,4316264,598974
+27,Neris,0,Centre-Back,away,4-3-3 Attacking,4316264,349513
+43,João Marcelo,0,Centre-Back,away,4-3-3 Attacking,4316264,744024
+3,Marlon,0,Left-Back,away,4-3-3 Attacking,4316264,406675
+12,William,0,Right-Back,away,4-3-3 Attacking,4316264,341710
+16,Lucas Silva,1,Defensive Midfield,away,4-3-3 Attacking,4316264,218118
+29,Lucas Romero,0,Central Midfield,away,4-3-3 Attacking,4316264,242201
+17,Ramiro,0,Central Midfield,away,4-3-3 Attacking,4316264,258070
+11,Arthur Gomes,0,Left Winger,away,4-3-3 Attacking,4316264,401534
+10,Matheus Pereira,0,Right Winger,away,4-3-3 Attacking,4316264,225984
+8,Rafa Silva,0,Centre-Forward,away,4-3-3 Attacking,4316264,213619
+41,Léo Aragão,0,Goalkeeper,away,4-3-3 Attacking,4316264,1022342
+25,Lucas Villalba,0,Centre-Back,away,4-3-3 Attacking,4316264,240913
+5,Zé Ivaldo,0,Centre-Back,away,4-3-3 Attacking,4316264,484848
+6,Kaiki,0,Left-Back,away,4-3-3 Attacking,4316264,879217
+2,Wesley Gasolina,0,Right-Back,away,4-3-3 Attacking,4316264,371967
+23,Filipe Machado,0,Defensive Midfield,away,4-3-3 Attacking,4316264,520629
+18,José Cifuentes,0,Central Midfield,away,4-3-3 Attacking,4316264,450211
+7,Mateus Vital,0,Attacking Midfield,away,4-3-3 Attacking,4316264,408958
+21,Álvaro Barreal,0,Left Winger,away,4-3-3 Attacking,4316264,613873
+80,Robert,0,Left Winger,away,4-3-3 Attacking,4316264,1084714
+30,Gabriel Veron,0,Right Winger,away,4-3-3 Attacking,4316264,627221
+19,Rafael Elias,0,Centre-Forward,away,4-3-3 Attacking,4316264,587328
+1,Lucas Arcanjo,0,Goalkeeper,home,4-3-3 Attacking,4316189,645602
+4,Wagner Leonardo,0,Centre-Back,home,4-3-3 Attacking,4316189,671572
+13,Camutanga,0,Centre-Back,home,4-3-3 Attacking,4316189,607817
+16,Lucas Esteves,0,Left-Back,home,4-3-3 Attacking,4316189,688668
+2,Zeca,1,Right-Back,home,4-3-3 Attacking,4316189,325196
+29,Willian Oliveira,0,Defensive Midfield,home,4-3-3 Attacking,4316189,252900
+21,Dudu,0,Central Midfield,home,4-3-3 Attacking,4316189,691811
+32,Rodrigo Andrade,0,Central Midfield,home,4-3-3 Attacking,4316189,435239
+11,Osvaldo,0,Left Winger,home,4-3-3 Attacking,4316189,76191
+30,Matheuzinho,0,Right Winger,home,4-3-3 Attacking,4316189,365368
+9,Alerrandro,0,Centre-Forward,home,4-3-3 Attacking,4316189,371996
+22,Muriel,0,Goalkeeper,home,4-3-3 Attacking,4316189,27349
+25,Bruno Uvini,0,Centre-Back,home,4-3-3 Attacking,4316189,147396
+3,Cristián Zapata,0,Centre-Back,home,4-3-3 Attacking,4316189,34344
+5,Léo Naldi,0,Defensive Midfield,home,4-3-3 Attacking,4316189,859135
+8,Luan Santos,0,Defensive Midfield,home,4-3-3 Attacking,4316189,574904
+15,Caio Vinicius,0,Defensive Midfield,home,4-3-3 Attacking,4316189,565443
+10,Jean Mota,0,Central Midfield,home,4-3-3 Attacking,4316189,215212
+80,Daniel Jr,0,Attacking Midfield,home,4-3-3 Attacking,4316189,746358
+17,Zé Hugo,0,Left Winger,home,4-3-3 Attacking,4316189,940479
+23,Mateus Gonçalves,0,Left Winger,home,4-3-3 Attacking,4316189,352890
+7,Iury Castilho,0,Centre-Forward,home,4-3-3 Attacking,4316189,366450
+12,Luiz Adriano,0,Centre-Forward,home,4-3-3 Attacking,4316189,48974
+21,Weverton,0,Goalkeeper,away,4-2-3-1,4316189,69400
+13,Luan,1,Centre-Back,away,4-2-3-1,4316189,178984
+26,Murilo,0,Centre-Back,away,4-2-3-1,4316189,458710
+6,Vanderlan,0,Left-Back,away,4-2-3-1,4316189,816129
+12,Mayke,0,Right-Back,away,4-2-3-1,4316189,147361
+25,Gabriel Menino,0,Defensive Midfield,away,4-2-3-1,4316189,608216
+27,Richard Ríos,0,Central Midfield,away,4-2-3-1,4316189,735573
+23,Raphael Veiga,0,Attacking Midfield,away,4-2-3-1,4316189,432953
+10,Rony,0,Left Winger,away,4-2-3-1,4316189,371009
+41,Estêvão,0,Right Winger,away,4-2-3-1,4316189,1056993
+9,Endrick,0,Centre-Forward,away,4-2-3-1,4316189,971570
+14,Marcelo Lomba,0,Goalkeeper,away,4-2-3-1,4316189,53015
+34,Naves,0,Centre-Back,away,4-2-3-1,4316189,964591
+16,Caio Paulista,0,Left-Back,away,4-2-3-1,4316189,601011
+22,Joaquín Piquerez,0,Left-Back,away,4-2-3-1,4316189,496268
+2,Marcos Rocha,0,Right-Back,away,4-2-3-1,4316189,75435
+35,Fabinho,0,Defensive Midfield,away,4-2-3-1,4316189,627230
+20,Rômulo,0,Attacking Midfield,away,4-2-3-1,4316189,867461
+40,Jhon Jhon,0,Attacking Midfield,away,4-2-3-1,4316189,964582
+17,Lázaro,0,Left Winger,away,4-2-3-1,4316189,574772
+19,Breno Lopes,0,Left Winger,away,4-2-3-1,4316189,542598
+31,Luis Guilherme,0,Right Winger,away,4-2-3-1,4316189,991800
+42,José Manuel López,0,Centre-Forward,away,4-2-3-1,4316189,844797
+22,Marcos Felipe,0,Goalkeeper,home,4-2-3-1,4316259,283166
+15,Victor Cuesta,0,Centre-Back,home,4-2-3-1,4316259,104326
+3,Gabriel Xavier,0,Centre-Back,home,4-2-3-1,4316259,740501
+46,Luciano Juba,0,Left-Back,home,4-2-3-1,4316259,676035
+13,Santiago Arias,0,Right-Back,home,4-2-3-1,4316259,120443
+19,Caio Alexandre,0,Defensive Midfield,home,4-2-3-1,4316259,727751
+6,Jean Lucas,0,Defensive Midfield,home,4-2-3-1,4316259,578872
+10,Everton Ribeiro,1,Right Midfield,home,4-2-3-1,4316259,52896
+7,Ademir,0,Left Midfield,home,4-2-3-1,4316259,544259
+8,Cauly,0,Attacking Midfield,home,4-2-3-1,4316259,162812
+16,Thaciano,0,Centre-Forward,home,4-2-3-1,4316259,392487
+1,Danilo Fernandes,0,Goalkeeper,home,4-2-3-1,4316259,99439
+4,Kanu,0,Centre-Back,home,4-2-3-1,4316259,524446
+33,David Duarte,0,Centre-Back,home,4-2-3-1,4316259,373446
+2,Gilberto,0,Right-Back,home,4-2-3-1,4316259,231614
+40,Cicinho,0,Right-Back,home,4-2-3-1,4316259,101294
+5,Rezende,0,Defensive Midfield,home,4-2-3-1,4316259,793815
+14,Carlos de Pena,0,Central Midfield,home,4-2-3-1,4316259,257740
+20,Yago Felipe,0,Central Midfield,home,4-2-3-1,4316259,346935
+11,Biel,0,Left Winger,home,4-2-3-1,4316259,875328
+21,Rafael Ratão,0,Left Winger,home,4-2-3-1,4316259,289802
+29,Óscar Estupiñán,0,Centre-Forward,home,4-2-3-1,4316259,388266
+9,Everaldo,0,Centre-Forward,home,4-2-3-1,4316259,205041
+1,Fábio,1,Goalkeeper,away,4-2-3-1,4316259,22415
+26,Manoel,0,Centre-Back,away,4-2-3-1,4316259,113586
+8,Martinelli,0,Centre-Back,away,4-2-3-1,4316259,815558
+6,Diogo Barbosa,0,Left-Back,away,4-2-3-1,4316259,167724
+2,Samuel Xavier,0,Right-Back,away,4-2-3-1,4316259,198250
+7,André,0,Defensive Midfield,away,4-2-3-1,4316259,800176
+45,Lima,0,Defensive Midfield,away,4-2-3-1,4316259,387611
+77,Marquinhos,0,Right Midfield,away,4-2-3-1,4316259,668268
+21,Jhon Arias,0,Left Midfield,away,4-2-3-1,4316259,588989
+10,Ganso,0,Attacking Midfield,away,4-2-3-1,4316259,67920
+14,Germán Cano,0,Centre-Forward,away,4-2-3-1,4316259,54590
+27,Felipe Alves,0,Goalkeeper,away,4-2-3-1,4316259,189682
+13,Felipe Andrade,0,Centre-Back,away,4-2-3-1,4316259,884070
+25,Antônio Carlos,0,Centre-Back,away,4-2-3-1,4316259,207446
+23,Guga,0,Right-Back,away,4-2-3-1,4316259,592344
+5,Alexsander,0,Defensive Midfield,away,4-2-3-1,4316259,997714
+28,Arthur,0,Attacking Midfield,away,4-2-3-1,4316259,743585
+80,David Terans,0,Attacking Midfield,away,4-2-3-1,4316259,261309
+32,Isaac,0,Left Winger,away,4-2-3-1,4316259,1084667
+90,Douglas Costa,0,Right Winger,away,4-2-3-1,4316259,75615
+17,Jan Lucumi,0,Right Winger,away,4-2-3-1,4316259,909360
+9,John Kennedy,0,Centre-Forward,away,4-2-3-1,4316259,856085
+19,Kauã Elias,0,Centre-Forward,away,4-2-3-1,4316259,1119009
+1,Agustín Marchesín,0,Goalkeeper,home,4-3-3 Attacking,4316257,54534
+3,Pedro Geromel,1,Centre-Back,home,4-3-3 Attacking,4316257,32568
+53,Gustavo Martins,0,Centre-Back,home,4-3-3 Attacking,4316257,874223
+54,Cuiabano,0,Left-Back,home,4-3-3 Attacking,4316257,891353
+2,Fábio,0,Right-Back,home,4-3-3 Attacking,4316257,61891
+17,Dodi,0,Defensive Midfield,home,4-3-3 Attacking,4316257,373174
+20,Mathías Villasanti,0,Central Midfield,home,4-3-3 Attacking,4316257,436385
+10,Franco Cristaldo,0,Central Midfield,home,4-3-3 Attacking,4316257,332259
+7,Yeferson Soteldo,0,Left Winger,home,4-3-3 Attacking,4316257,312294
+21,Cristian Pavón,0,Right Winger,home,4-3-3 Attacking,4316257,373170
+11,João Pedro,0,Centre-Forward,home,4-3-3 Attacking,4316257,129129
+12,Gabriel Grando,0,Goalkeeper,home,4-3-3 Attacking,4316257,878037
+31,Caíque,0,Goalkeeper,home,4-3-3 Attacking,4316257,384159
+5,Rodrigo Ely,0,Centre-Back,home,4-3-3 Attacking,4316257,176140
+36,Natã,0,Centre-Back,home,4-3-3 Attacking,4316257,978004
+46,Zé Guilherme,0,Left-Back,home,4-3-3 Attacking,4316257,1084816
+18,João Pedro,0,Right-Back,home,4-3-3 Attacking,4316257,342024
+35,Ronald Falkoski,0,Defensive Midfield,home,4-3-3 Attacking,4316257,959092
+37,Du Queiroz,0,Central Midfield,home,4-3-3 Attacking,4316257,906774
+14,Nathan,0,Attacking Midfield,home,4-3-3 Attacking,4316257,294798
+39,Gustavo Nunes,0,Left Winger,home,4-3-3 Attacking,4316257,1086375
+13,Everton Galdino,0,Right Winger,home,4-3-3 Attacking,4316257,458251
+32,Nathan Fernandes,0,Right Winger,home,4-3-3 Attacking,4316257,1083600
+1,Bento,0,Goalkeeper,away,4-2-3-1,4316257,691906
+4,Kaique Rocha,0,Centre-Back,away,4-2-3-1,4316257,633377
+44,Thiago Heleno,1,Centre-Back,away,4-2-3-1,4316257,45431
+37,Lucas Esquivel,0,Left-Back,away,4-2-3-1,4316257,829969
+22,Madson,0,Right-Back,away,4-2-3-1,4316257,177845
+5,Fernandinho,0,Defensive Midfield,away,4-2-3-1,4316257,26267
+26,Erick,0,Defensive Midfield,away,4-2-3-1,4316257,633212
+20,Julimar,0,Right Midfield,away,4-2-3-1,4316257,593205
+28,Tomás Cuello,0,Left Midfield,away,4-2-3-1,4316257,503052
+14,Agustín Canobbio,0,Attacking Midfield,away,4-2-3-1,4316257,457533
+9,Gonzalo Mastriani,0,Centre-Forward,away,4-2-3-1,4316257,195882
+41,Mycael,0,Goalkeeper,away,4-2-3-1,4316257,743586
+24,Léo Linck,0,Goalkeeper,away,4-2-3-1,4316257,742034
+15,Mateo Gamarra,0,Centre-Back,away,4-2-3-1,4316257,661245
+34,Pedro Henrique,0,Centre-Back,away,4-2-3-1,4316257,329720
+29,Leonardo Godoy,0,Right-Back,away,4-2-3-1,4316257,369556
+23,Felipinho,0,Central Midfield,away,4-2-3-1,4316257,1115489
+30,Zé Vitor,0,Central Midfield,away,4-2-3-1,4316257,825780
+80,Alex Santana,0,Central Midfield,away,4-2-3-1,4316257,219835
+88,Christian,0,Central Midfield,away,4-2-3-1,4316257,658678
+10,Bruno Zapelli,0,Attacking Midfield,away,4-2-3-1,4316257,711600
+18,Jader,0,Left Winger,away,4-2-3-1,4316257,924533
+50,Renan Viana,0,Centre-Forward,away,4-2-3-1,4316257,869007
+40,Lucão,0,Goalkeeper,home,4-3-3 Attacking,4316263,412372
+39,Douglas Mendes,0,Centre-Back,home,4-3-3 Attacking,4316263,921863
+36,Luan Cândido,0,Centre-Back,home,4-3-3 Attacking,4316263,432166
+31,Guilherme Lopes,0,Left-Back,home,4-3-3 Attacking,4316263,678502
+34,Andrés Hurtado,0,Right-Back,home,4-3-3 Attacking,4316263,680506
+23,Raul,0,Defensive Midfield,home,4-3-3 Attacking,4316263,479587
+29,Juninho Capixaba,0,Central Midfield,home,4-3-3 Attacking,4316263,406676
+22,Gustavo Neves,0,Central Midfield,home,4-3-3 Attacking,4316263,1084081
+30,Henry Mosquera,0,Left Winger,home,4-3-3 Attacking,4316263,975191
+33,Ignacio Laquintana,0,Right Winger,home,4-3-3 Attacking,4316263,577407
+19,Eduardo Sasha,1,Centre-Forward,home,4-3-3 Attacking,4316263,162883
+37,Fabrício,0,Goalkeeper,home,4-3-3 Attacking,4316263,722457
+2,Leonardo Realpe,0,Centre-Back,home,4-3-3 Attacking,4316263,656409
+3,Eduardo Santos,0,Centre-Back,home,4-3-3 Attacking,4316263,564546
+4,Lucas Cunha,0,Centre-Back,home,4-3-3 Attacking,4316263,355496
+58,Dija,0,Right-Back,home,4-3-3 Attacking,4316263,1072796
+5,Jadsom,0,Defensive Midfield,home,4-3-3 Attacking,4316263,612162
+7,Eric Ramires,0,Central Midfield,home,4-3-3 Attacking,4316263,614328
+17,Bruno Gonçalves,0,Attacking Midfield,home,4-3-3 Attacking,4316263,668234
+21,Talisson,0,Left Winger,home,4-3-3 Attacking,4316263,1084074
+28,Vitinho,0,Left Winger,home,4-3-3 Attacking,4316263,670965
+54,Vinicinho,0,Left Winger,home,4-3-3 Attacking,4316263,1082593
+18,Thiago Borbas,0,Centre-Forward,home,4-3-3 Attacking,4316263,743951
+1,Léo Jardim,0,Goalkeeper,away,4-3-3 Attacking,4316263,288415
+3,Léo,1,Centre-Back,away,4-3-3 Attacking,4316263,403296
+38,João Victor,0,Centre-Back,away,4-3-3 Attacking,4316263,671145
+6,Lucas Piton,0,Left-Back,away,4-3-3 Attacking,4316263,670201
+96,Paulo Henrique,0,Right-Back,away,4-3-3 Attacking,4316263,412594
+20,Juan Sforza,0,Defensive Midfield,away,4-3-3 Attacking,4316263,659264
+85,Mateus Carvalho,0,Central Midfield,away,4-3-3 Attacking,4316263,862574
+27,Pablo Galdames,0,Central Midfield,away,4-3-3 Attacking,4316263,313830
+7,David,0,Left Winger,away,4-3-3 Attacking,4316263,373189
+31,Rossi,0,Right Winger,away,4-3-3 Attacking,4316263,212114
+99,Pablo Vegetti,0,Centre-Forward,away,4-3-3 Attacking,4316263,334229
+13,Keiller,0,Goalkeeper,away,4-3-3 Attacking,4316263,417084
+4,Maicon,0,Centre-Back,away,4-3-3 Attacking,4316263,84695
+32,Robert Rojas,0,Centre-Back,away,4-3-3 Attacking,4316263,527494
+12,Victor Luís,0,Left-Back,away,4-3-3 Attacking,4316263,234538
+2,José Luis Rodríguez,0,Right-Back,away,4-3-3 Attacking,4316263,430339
+5,Patrick de Lucca,0,Defensive Midfield,away,4-3-3 Attacking,4316263,689737
+23,Zé Gabriel,0,Defensive Midfield,away,4-3-3 Attacking,4316263,670968
+98,JP,0,Central Midfield,away,4-3-3 Attacking,4316263,1083970
+70,Serginho,0,Left Winger,away,4-3-3 Attacking,4316263,456449
+28,Adson,0,Right Winger,away,4-3-3 Attacking,4316263,868891
+77,Rayan,0,Right Winger,away,4-3-3 Attacking,4316263,1012564
+9,Clayton,0,Centre-Forward,away,4-3-3 Attacking,4316263,733579
+1,Ronaldo,1,Goalkeeper,home,4-1-3-2,4316195,387925
+3,Adriano Martins,0,Centre-Back,home,4-1-3-2,4316195,739272
+4,Alix,0,Centre-Back,home,4-1-3-2,4316195,880217
+6,Guilherme Romão,0,Left-Back,home,4-1-3-2,4316195,519879
+2,Maguinho,0,Right-Back,home,4-1-3-2,4316195,350766
+8,Rhaldney,0,Defensive Midfield,home,4-1-3-2,4316195,638269
+5,Baralhas,0,Attacking Midfield,home,4-1-3-2,4316195,552242
+7,Alejo Cruz,0,Left Winger,home,4-1-3-2,4316195,868491
+10,Shaylon,0,Right Winger,home,4-1-3-2,4316195,480274
+11,Luiz Fernando,0,Second Striker,home,4-1-3-2,4316195,372013
+9,Emiliano Rodríguez,0,Centre-Forward,home,4-1-3-2,4316195,982198
+12,Pedro Rangel,0,Goalkeeper,home,4-1-3-2,4316195,841263
+14,Pedro Henrique,0,Centre-Back,home,4-1-3-2,4316195,164015
+13,Luiz Felipe,0,Centre-Back,home,4-1-3-2,4316195,373150
+15,Yeferson Rodallega,0,Left-Back,home,4-1-3-2,4316195,848561
+16,Lucas Kal,0,Defensive Midfield,home,4-1-3-2,4316195,435489
+17,Danielzinho,0,Central Midfield,home,4-1-3-2,4316195,418530
+18,Gabriel Barros,0,Right Winger,home,4-1-3-2,4316195,738507
+21,Yony González,0,Right Winger,home,4-1-3-2,4316195,262474
+22,Max,0,Right Winger,home,4-1-3-2,4316195,1226150
+19,Derek,0,Centre-Forward,home,4-1-3-2,4316195,719251
+20,Vágner Love,0,Centre-Forward,home,4-1-3-2,4316195,18829
+1,Agustín Rossi,0,Goalkeeper,away,4-2-3-1,4316195,352324
+4,Léo Pereira,0,Centre-Back,away,4-2-3-1,4316195,288431
+15,Fabrício Bruno,0,Centre-Back,away,4-2-3-1,4316195,432773
+17,Matías Viña,0,Left-Back,away,4-2-3-1,4316195,439072
+6,Ayrton Lucas,0,Right-Back,away,4-2-3-1,4316195,349585
+5,Erick Pulgar,0,Defensive Midfield,away,4-2-3-1,4316195,215616
+18,Nicolás de la Cruz,0,Central Midfield,away,4-2-3-1,4316195,397458
+14,Giorgian de Arrascaeta,1,Attacking Midfield,away,4-2-3-1,4316195,248410
+11,Everton,0,Left Winger,away,4-2-3-1,4316195,321239
+7,Luiz Araújo,0,Right Winger,away,4-2-3-1,4316195,435485
+9,Pedro,0,Centre-Forward,away,4-2-3-1,4316195,432895
+49,Dyogo Alves,0,Goalkeeper,away,4-2-3-1,4316195,1082543
+25,Matheus Cunha,0,Goalkeeper,away,4-2-3-1,4316195,876739
+3,Léo Ortiz,0,Centre-Back,away,4-2-3-1,4316195,374136
+23,David Luiz,0,Centre-Back,away,4-2-3-1,4316195,46741
+52,Evertton,0,Defensive Midfield,away,4-2-3-1,4316195,931007
+21,Allan,0,Defensive Midfield,away,4-2-3-1,4316195,385271
+48,Igor Jesus,0,Defensive Midfield,away,4-2-3-1,4316195,978037
+8,Gerson,0,Central Midfield,away,4-2-3-1,4316195,341705
+19,Lorran,0,Attacking Midfield,away,4-2-3-1,4316195,1009030
+29,Victor Hugo,0,Attacking Midfield,away,4-2-3-1,4316195,749559
+27,Bruno Henrique,0,Left Winger,away,4-2-3-1,4316195,353108
+22,Carlinhos,0,Centre-Forward,away,4-2-3-1,4316195,363173
+12,Cássio,1,Goalkeeper,home,4-2-3-1,4316192,50144
+3,Félix Torres,0,Centre-Back,home,4-2-3-1,4316192,468174
+13,Gustavo Henrique,0,Centre-Back,home,4-2-3-1,4316192,208681
+46,Hugo,0,Left-Back,home,4-2-3-1,4316192,730708
+23,Fagner,0,Right-Back,home,4-2-3-1,4316192,47592
+5,Fausto Vera,0,Defensive Midfield,home,4-2-3-1,4316192,491701
+14,Raniele,0,Defensive Midfield,home,4-2-3-1,4316192,546530
+11,Ángel Romero,0,Right Midfield,home,4-2-3-1,4316192,262262
+36,Wesley,0,Left Midfield,home,4-2-3-1,4316192,1007378
+10,Rodrigo Garro,0,Attacking Midfield,home,4-2-3-1,4316192,565009
+9,Yuri Alberto,0,Centre-Forward,home,4-2-3-1,4316192,489893
+22,Carlos Miguel,0,Goalkeeper,home,4-2-3-1,4316192,641458
+34,Raul Gustavo,0,Centre-Back,home,4-2-3-1,4316192,792345
+25,Cacá,0,Centre-Back,home,4-2-3-1,4316192,603122
+21,Matheus Bidu,0,Left-Back,home,4-2-3-1,4316192,670021
+2,Matheus França,0,Right-Back,home,4-2-3-1,4316192,594226
+7,Maycon,0,Central Midfield,home,4-2-3-1,4316192,421935
+27,Breno Bidon,0,Central Midfield,home,4-2-3-1,4316192,1029227
+8,Paulinho,0,Central Midfield,home,4-2-3-1,4316192,57229
+77,Igor Coronado,0,Attacking Midfield,home,4-2-3-1,4316192,215915
+16,Pedro Henrique,0,Right Winger,home,4-2-3-1,4316192,213368
+19,Gustavo Silva,0,Right Winger,home,4-2-3-1,4316192,636314
+20,Pedro Raul,0,Centre-Forward,home,4-2-3-1,4316192,547443
+22,Everson,0,Goalkeeper,away,3-4-1-2,4316192,106032
+4,Mauricio Lemos,0,Centre-Back,away,3-4-1-2,4316192,303140
+34,Jemerson,0,Centre-Back,away,3-4-1-2,4316192,258254
+21,Rodrigo Battaglia,0,Centre-Back,away,3-4-1-2,4316192,89297
+5,Otávio,0,Defensive Midfield,away,3-4-1-2,4316192,312314
+15,Matías Zaracho,0,Defensive Midfield,away,3-4-1-2,4316192,480774
+26,Renzo Saravia,0,Right Midfield,away,3-4-1-2,4316192,268642
+13,Guilherme Arana,0,Left Midfield,away,3-4-1-2,4316192,346766
+17,Igor Gomes,0,Attacking Midfield,away,3-4-1-2,4316192,553459
+10,Paulinho,0,Centre-Forward,away,3-4-1-2,4316192,428791
+7,Hulk,1,Centre-Forward,away,3-4-1-2,4316192,80562
+31,Matheus Mendes,0,Goalkeeper,away,3-4-1-2,4316192,629077
+16,Igor Rabello,0,Centre-Back,away,3-4-1-2,4316192,341701
+47,Rômulo,0,Centre-Back,away,3-4-1-2,4316192,743588
+44,Rubens,0,Left-Back,away,3-4-1-2,4316192,843397
+25,Mariano,0,Right-Back,away,3-4-1-2,4316192,54155
+23,Alan Franco,0,Central Midfield,away,3-4-1-2,4316192,400960
+6,Gustavo Scarpa,0,Attacking Midfield,away,3-4-1-2,4316192,330085
+38,Pedrinho,0,Right Winger,away,3-4-1-2,4316192,515208
+45,Alisson,0,Right Winger,away,3-4-1-2,4316192,1083070
+11,Eduardo Vargas,0,Centre-Forward,away,3-4-1-2,4316192,89718
+14,Alan Kardec,0,Centre-Forward,away,3-4-1-2,4316192,53922
+42,Cadu,0,Centre-Forward,away,3-4-1-2,4316192,1083073
+98,Anderson,0,Goalkeeper,home,4-3-3 Attacking,4316188,598974
+5,Zé Ivaldo,0,Centre-Back,home,4-3-3 Attacking,4316188,484848
+27,Neris,0,Centre-Back,home,4-3-3 Attacking,4316188,349513
+3,Marlon,0,Left-Back,home,4-3-3 Attacking,4316188,406675
+12,William,0,Right-Back,home,4-3-3 Attacking,4316188,341710
+29,Lucas Romero,0,Defensive Midfield,home,4-3-3 Attacking,4316188,242201
+16,Lucas Silva,1,Central Midfield,home,4-3-3 Attacking,4316188,218118
+17,Ramiro,0,Central Midfield,home,4-3-3 Attacking,4316188,258070
+11,Arthur Gomes,0,Left Winger,home,4-3-3 Attacking,4316188,401534
+8,Rafa Silva,0,Right Winger,home,4-3-3 Attacking,4316188,213619
+10,Matheus Pereira,0,Centre-Forward,home,4-3-3 Attacking,4316188,225984
+41,Léo Aragão,0,Goalkeeper,home,4-3-3 Attacking,4316188,1022342
+25,Lucas Villalba,0,Centre-Back,home,4-3-3 Attacking,4316188,240913
+43,João Marcelo,0,Centre-Back,home,4-3-3 Attacking,4316188,744024
+6,Kaiki,0,Left-Back,home,4-3-3 Attacking,4316188,879217
+2,Wesley Gasolina,0,Right-Back,home,4-3-3 Attacking,4316188,371967
+23,Filipe Machado,0,Defensive Midfield,home,4-3-3 Attacking,4316188,520629
+18,José Cifuentes,0,Central Midfield,home,4-3-3 Attacking,4316188,450211
+7,Mateus Vital,0,Attacking Midfield,home,4-3-3 Attacking,4316188,408958
+21,Álvaro Barreal,0,Left Winger,home,4-3-3 Attacking,4316188,613873
+80,Robert,0,Left Winger,home,4-3-3 Attacking,4316188,1084714
+30,Gabriel Veron,0,Right Winger,home,4-3-3 Attacking,4316188,627221
+19,Rafael Elias,0,Centre-Forward,home,4-3-3 Attacking,4316188,587328
+1,Gatito Fernández,1,Goalkeeper,away,4-4-2,4316188,107318
+3,Lucas Halter,0,Centre-Back,away,4-4-2,4316188,468302
+15,Bastos,0,Centre-Back,away,4-4-2,4316188,195810
+21,Marçal,0,Left-Back,away,4-4-2,4316188,137745
+4,Mateo Ponte,0,Right-Back,away,4-4-2,4316188,856047
+17,Marlon Freitas,0,Central Midfield,away,4-4-2,4316188,364972
+26,Gregore,0,Central Midfield,away,4-4-2,4316188,546036
+47,Jeffinho,0,Right Midfield,away,4-4-2,4316188,884072
+7,Luiz Henrique,0,Left Midfield,away,4-4-2,4316188,800175
+11,Júnior Santos,0,Centre-Forward,away,4-4-2,4316188,592347
+9,Tiquinho Soares,0,Centre-Forward,away,4-4-2,4316188,103381
+12,John Victor,0,Goalkeeper,away,4-4-2,4316188,432914
+20,Alexander Barboza,0,Centre-Back,away,4-4-2,4316188,379752
+44,Luis Segovia,0,Centre-Back,away,4-4-2,4316188,385639
+16,Hugo,0,Left-Back,away,4-4-2,4316188,740157
+8,Patrick de Paula,0,Central Midfield,away,4-4-2,4316188,737821
+6,Tchê Tchê,0,Central Midfield,away,4-4-2,4316188,364261
+5,Danilo Barbosa,0,Central Midfield,away,4-4-2,4316188,273438
+70,Óscar Romero,0,Attacking Midfield,away,4-4-2,4316188,217886
+67,Yarlen,0,Left Winger,away,4-4-2,4316188,1241278
+10,Jefferson Savarino,0,Right Winger,away,4-4-2,4316188,309193
+39,Janderson,0,Centre-Forward,away,4-4-2,4316188,976561
+90,Matheus Nascimento,0,Centre-Forward,away,4-4-2,4316188,743594
+1,Léo Jardim,0,Goalkeeper,home,4-3-3 Attacking,4316191,288415
+3,Léo,0,Centre-Back,home,4-3-3 Attacking,4316191,403296
+17,Gary Medel,1,Centre-Back,home,4-3-3 Attacking,4316191,60889
+6,Lucas Piton,0,Left-Back,home,4-3-3 Attacking,4316191,670201
+96,Paulo Henrique,0,Right-Back,home,4-3-3 Attacking,4316191,412594
+20,Juan Sforza,0,Defensive Midfield,home,4-3-3 Attacking,4316191,659264
+85,Mateus Carvalho,0,Central Midfield,home,4-3-3 Attacking,4316191,862574
+27,Pablo Galdames,0,Central Midfield,home,4-3-3 Attacking,4316191,313830
+7,David,0,Left Winger,home,4-3-3 Attacking,4316191,373189
+31,Rossi,0,Right Winger,home,4-3-3 Attacking,4316191,212114
+99,Pablo Vegetti,0,Centre-Forward,home,4-3-3 Attacking,4316191,334229
+13,Keiller,0,Goalkeeper,home,4-3-3 Attacking,4316191,417084
+4,Maicon,0,Centre-Back,home,4-3-3 Attacking,4316191,84695
+32,Robert Rojas,0,Centre-Back,home,4-3-3 Attacking,4316191,527494
+38,João Victor,0,Centre-Back,home,4-3-3 Attacking,4316191,671145
+12,Victor Luís,0,Left-Back,home,4-3-3 Attacking,4316191,234538
+2,José Luis Rodríguez,0,Right-Back,home,4-3-3 Attacking,4316191,430339
+5,Patrick de Lucca,0,Defensive Midfield,home,4-3-3 Attacking,4316191,689737
+21,Praxedes,0,Central Midfield,home,4-3-3 Attacking,4316191,574765
+98,JP,0,Central Midfield,home,4-3-3 Attacking,4316191,1083970
+28,Adson,0,Right Winger,home,4-3-3 Attacking,4316191,868891
+77,Rayan,0,Right Winger,home,4-3-3 Attacking,4316191,1012564
+9,Clayton,0,Centre-Forward,home,4-3-3 Attacking,4316191,733579
+1,Agustín Marchesín,0,Goalkeeper,away,4-2-3-1,4316191,54534
+4,Walter Kannemann,1,Centre-Back,away,4-2-3-1,4316191,145400
+5,Rodrigo Ely,0,Centre-Back,away,4-2-3-1,4316191,176140
+54,Cuiabano,0,Left-Back,away,4-2-3-1,4316191,891353
+18,João Pedro,0,Right-Back,away,4-2-3-1,4316191,342024
+20,Mathías Villasanti,0,Defensive Midfield,away,4-2-3-1,4316191,436385
+37,Du Queiroz,0,Defensive Midfield,away,4-2-3-1,4316191,906774
+21,Cristian Pavón,0,Right Midfield,away,4-2-3-1,4316191,373170
+7,Yeferson Soteldo,0,Left Midfield,away,4-2-3-1,4316191,312294
+10,Franco Cristaldo,0,Attacking Midfield,away,4-2-3-1,4316191,332259
+19,Diego Costa,0,Centre-Forward,away,4-2-3-1,4316191,44779
+12,Gabriel Grando,0,Goalkeeper,away,4-2-3-1,4316191,878037
+36,Natã,0,Centre-Back,away,4-2-3-1,4316191,978004
+53,Gustavo Martins,0,Centre-Back,away,4-2-3-1,4316191,874223
+46,Zé Guilherme,0,Left-Back,away,4-2-3-1,4316191,1084816
+2,Fábio,0,Right-Back,away,4-2-3-1,4316191,61891
+17,Dodi,0,Defensive Midfield,away,4-2-3-1,4316191,373174
+35,Ronald Falkoski,0,Defensive Midfield,away,4-2-3-1,4316191,959092
+14,Nathan,0,Attacking Midfield,away,4-2-3-1,4316191,294798
+39,Gustavo Nunes,0,Left Winger,away,4-2-3-1,4316191,1086375
+13,Everton Galdino,0,Right Winger,away,4-2-3-1,4316191,458251
+32,Nathan Fernandes,0,Right Winger,away,4-2-3-1,4316191,1083600
+11,João Pedro,0,Centre-Forward,away,4-2-3-1,4316191,129129
+1,Bento,0,Goalkeeper,home,4-4-2 Diamond,4316194,691906
+4,Kaique Rocha,0,Centre-Back,home,4-4-2 Diamond,4316194,633377
+44,Thiago Heleno,1,Centre-Back,home,4-4-2 Diamond,4316194,45431
+37,Lucas Esquivel,0,Left-Back,home,4-4-2 Diamond,4316194,829969
+29,Leonardo Godoy,0,Right-Back,home,4-4-2 Diamond,4316194,369556
+26,Erick,0,Defensive Midfield,home,4-4-2 Diamond,4316194,633212
+5,Fernandinho,0,Attacking Midfield,home,4-4-2 Diamond,4316194,26267
+28,Tomás Cuello,0,Left Winger,home,4-4-2 Diamond,4316194,503052
+20,Julimar,0,Right Winger,home,4-4-2 Diamond,4316194,593205
+14,Agustín Canobbio,0,Second Striker,home,4-4-2 Diamond,4316194,457533
+92,Pablo,0,Centre-Forward,home,4-4-2 Diamond,4316194,148765
+41,Mycael,0,Goalkeeper,home,4-4-2 Diamond,4316194,743586
+24,Léo Linck,0,Goalkeeper,home,4-4-2 Diamond,4316194,742034
+15,Mateo Gamarra,0,Centre-Back,home,4-4-2 Diamond,4316194,661245
+34,Pedro Henrique,0,Centre-Back,home,4-4-2 Diamond,4316194,329720
+22,Madson,0,Right-Back,home,4-4-2 Diamond,4316194,177845
+23,Felipinho,0,Central Midfield,home,4-4-2 Diamond,4316194,1115489
+30,Zé Vitor,0,Central Midfield,home,4-4-2 Diamond,4316194,825780
+80,Alex Santana,0,Central Midfield,home,4-4-2 Diamond,4316194,219835
+88,Christian,0,Central Midfield,home,4-4-2 Diamond,4316194,658678
+10,Bruno Zapelli,0,Attacking Midfield,home,4-4-2 Diamond,4316194,711600
+18,Jader,0,Left Winger,home,4-4-2 Diamond,4316194,924533
+9,Gonzalo Mastriani,0,Centre-Forward,home,4-4-2 Diamond,4316194,195882
+1,Walter,1,Goalkeeper,away,5-4-1,4316194,269860
+33,Alan Empereur,0,Centre-Back,away,5-4-1,4316194,169179
+3,Allyson,0,Centre-Back,away,5-4-1,4316194,390695
+4,Marllon,0,Centre-Back,away,5-4-1,4316194,166032
+20,Rikelme,0,Left-Back,away,5-4-1,4316194,862358
+21,Railan,0,Right-Back,away,5-4-1,4316194,752558
+30,Lucas Mineiro,0,Defensive Midfield,away,5-4-1,4316194,432958
+88,Fernando Sobral,0,Central Midfield,away,5-4-1,4316194,350342
+25,Clayson,0,Left Winger,away,5-4-1,4316194,392809
+22,Derik Lacerda,0,Right Winger,away,5-4-1,4316194,700933
+16,Deyverson,0,Centre-Forward,away,5-4-1,4316194,243541
+14,Mateus Pasinato,0,Goalkeeper,away,5-4-1,4316194,349418
+34,Bruno Alves,0,Centre-Back,away,5-4-1,4316194,177534
+44,Gabriel,0,Centre-Back,away,5-4-1,4316194,995883
+2,Matheus Alexandre,0,Right-Back,away,5-4-1,4316194,617687
+5,Filipe Augusto,0,Defensive Midfield,away,5-4-1,4316194,212899
+8,Guilherme Madruga,0,Defensive Midfield,away,5-4-1,4316194,1081036
+10,Max,0,Attacking Midfield,away,5-4-1,4316194,876343
+18,Lucas Fernandes,0,Attacking Midfield,away,5-4-1,4316194,430761
+97,André Luis,0,Right Winger,away,5-4-1,4316194,519851
+7,Jonathan Cafu,0,Right Winger,away,5-4-1,4316194,347100
+9,Isidro Pitta,0,Centre-Forward,away,5-4-1,4316194,675178
+19,Luciano Giménez,0,Centre-Forward,away,5-4-1,4316194,985755
+1,Fábio,0,Goalkeeper,home,4-2-3-1,4316190,22415
+30,Felipe Melo,1,Centre-Back,home,4-2-3-1,4316190,35537
+8,Martinelli,0,Centre-Back,home,4-2-3-1,4316190,815558
+12,Marcelo,0,Left-Back,home,4-2-3-1,4316190,44501
+2,Samuel Xavier,0,Right-Back,home,4-2-3-1,4316190,198250
+7,André,0,Defensive Midfield,home,4-2-3-1,4316190,800176
+45,Lima,0,Defensive Midfield,home,4-2-3-1,4316190,387611
+77,Marquinhos,0,Right Midfield,home,4-2-3-1,4316190,668268
+21,Jhon Arias,0,Left Midfield,home,4-2-3-1,4316190,588989
+10,Ganso,0,Attacking Midfield,home,4-2-3-1,4316190,67920
+14,Germán Cano,0,Centre-Forward,home,4-2-3-1,4316190,54590
+27,Felipe Alves,0,Goalkeeper,home,4-2-3-1,4316190,189682
+13,Felipe Andrade,0,Centre-Back,home,4-2-3-1,4316190,884070
+25,Antônio Carlos,0,Centre-Back,home,4-2-3-1,4316190,207446
+6,Diogo Barbosa,0,Left-Back,home,4-2-3-1,4316190,167724
+23,Guga,0,Right-Back,home,4-2-3-1,4316190,592344
+5,Alexsander,0,Defensive Midfield,home,4-2-3-1,4316190,997714
+80,David Terans,0,Attacking Midfield,home,4-2-3-1,4316190,261309
+32,Isaac,0,Left Winger,home,4-2-3-1,4316190,1084667
+90,Douglas Costa,0,Right Winger,home,4-2-3-1,4316190,75615
+17,Jan Lucumi,0,Right Winger,home,4-2-3-1,4316190,909360
+9,John Kennedy,0,Centre-Forward,home,4-2-3-1,4316190,856085
+19,Kauã Elias,0,Centre-Forward,home,4-2-3-1,4316190,1119009
+1,Cleiton,1,Goalkeeper,away,4-3-3 Attacking,4316190,468247
+39,Douglas Mendes,0,Centre-Back,away,4-3-3 Attacking,4316190,921863
+36,Luan Cândido,0,Centre-Back,away,4-3-3 Attacking,4316190,432166
+29,Juninho Capixaba,0,Left-Back,away,4-3-3 Attacking,4316190,406676
+34,Andrés Hurtado,0,Right-Back,away,4-3-3 Attacking,4316190,680506
+23,Raul,0,Defensive Midfield,away,4-3-3 Attacking,4316190,479587
+5,Jadsom,0,Central Midfield,away,4-3-3 Attacking,4316190,612162
+22,Gustavo Neves,0,Central Midfield,away,4-3-3 Attacking,4316190,1084081
+19,Eduardo Sasha,0,Left Winger,away,4-3-3 Attacking,4316190,162883
+33,Ignacio Laquintana,0,Right Winger,away,4-3-3 Attacking,4316190,577407
+30,Henry Mosquera,0,Centre-Forward,away,4-3-3 Attacking,4316190,975191
+37,Fabrício,0,Goalkeeper,away,4-3-3 Attacking,4316190,722457
+40,Lucão,0,Goalkeeper,away,4-3-3 Attacking,4316190,412372
+2,Leonardo Realpe,0,Centre-Back,away,4-3-3 Attacking,4316190,656409
+4,Lucas Cunha,0,Centre-Back,away,4-3-3 Attacking,4316190,355496
+31,Guilherme Lopes,0,Left-Back,away,4-3-3 Attacking,4316190,678502
+15,Gabriel Lopes,0,Midfield,away,4-3-3 Attacking,4316190,1113413
+7,Eric Ramires,0,Central Midfield,away,4-3-3 Attacking,4316190,614328
+17,Bruno Gonçalves,0,Attacking Midfield,away,4-3-3 Attacking,4316190,668234
+21,Talisson,0,Left Winger,away,4-3-3 Attacking,4316190,1084074
+28,Vitinho,0,Left Winger,away,4-3-3 Attacking,4316190,670965
+41,Kelvin Flórez,0,Left Winger,away,4-3-3 Attacking,4316190,1098970
+18,Thiago Borbas,0,Centre-Forward,away,4-3-3 Attacking,4316190,743951
