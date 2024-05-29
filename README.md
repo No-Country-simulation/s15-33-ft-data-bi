@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/No-Country/s15-33-ft-data-bi/blob/main/assets/Logo_consultora.png" width="100%" alt="platform">
+  <img src="https://github.com/No-Country/s15-33-ft-data-bi/blob/main/assets/Logo_consultora.png" width="100%" alt="consultora">
 </p>
+
 # <h1 align= 'center'>Estudio y desarrollo de aplicación sobre Rendimiento Deportivo </h1>
 
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
