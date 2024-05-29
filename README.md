@@ -1,6 +1,6 @@
 # s15-33-ft-data-bi
 
-# Proyecto sobre Rendimiento Deportivo
+# <h1 align= 'center'>Estudio y desarrollo de aplicación sobre Rendimiento Deportivo </h1>
 
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
