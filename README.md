@@ -13,3 +13,29 @@
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-black?style=flat-square&logo=googledrive)
 ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-black?style=flat-square&logo=googlecolaboratory)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+# Índice
+
+- [Introducción](#Introducción)
+- [Objetivos](#Objetivos)
+- [Datos](#Datos)
+- [Desarrollo](#Desarrollo)
+  - [ETL](##ETL)
+  - [Análisis Exploratorio de Datos (EDA)](##Análisis Exploratorio de Datos (EDA))
+  - [Dashboard](##Dashboard)
+  - [Modelo](##Modelo)
+  - [Deploy](##Deploy)
+- [Tecnologias y Herramientas](#Tecnologias y Herramientas)
+- [Equipo](#Equipo)
+
+# Introducción
+# Objetivos
+# Datos
+# Desarrollo
+## ETL
+## Análisis Exploratorio de Datos (EDA)
+## Dashboard
+## Modelo
+## Deploy
+# Tecnologias y Herramientas
+# Equipo
