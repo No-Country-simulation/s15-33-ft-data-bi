@@ -21,11 +21,11 @@
 - [Datos](#Datos)
 - [Desarrollo](#Desarrollo)
   - [ETL](##ETL)
-  - [Análisis Exploratorio de Datos (EDA)](##Análisis Exploratorio de Datos (EDA))
+  - [Análisis Exploratorio de Datos (EDA)](##Análisis%20Exploratorio%20de%20Datos (EDA))
   - [Dashboard](##Dashboard)
   - [Modelo](##Modelo)
   - [Deploy](##Deploy)
-- [Tecnologias y Herramientas](#Tecnologias y Herramientas)
+- [Tecnologias y Herramientas](#Tecnologias%20y%20Herramientas)
 - [Equipo](#Equipo)
 
 # Introducción
