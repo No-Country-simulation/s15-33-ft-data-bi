@@ -1,4 +1,4 @@
-![AyC](assets/consultora_AyC)
+![AyC](assets/consultora_AyC.png)
 
 # <h1 align= 'center'>Estudio y desarrollo de aplicación sobre Rendimiento Deportivo </h1>
 
@@ -33,6 +33,8 @@
 - [Equipo](#Equipo)
 
 # Introducción
+
+![DeRabona](assets/DeRabona.png)
 # Objetivos
 # Datos
 # Desarrollo
