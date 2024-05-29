@@ -1,5 +1,6 @@
-![AyC](assets/consultora_AyC.png)
-
+<p align="center">
+  <img src="https://github.com/No-Country/s15-33-ft-data-bi/blob/main/assets/Logo_consultora.png" width="100%" alt="platform">
+</p>
 # <h1 align= 'center'>Estudio y desarrollo de aplicación sobre Rendimiento Deportivo </h1>
 
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
@@ -34,7 +35,8 @@
 
 # Introducción
 
-![DeRabona](assets/DeRabona.png)
+![DeRabona](assets/Banner_DeRabona.png)
+
 # Objetivos
 # Datos
 # Desarrollo
